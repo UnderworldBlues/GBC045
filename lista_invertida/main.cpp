@@ -1,20 +1,19 @@
 
 // Alunos: Pedro Souza Ferreira (12211BCC023) & Marcel Fernando Lobo de Feo (12211BCC042)
- 
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-#include <iostream>
 #include <fstream>
+#include <map>
 #include <vector>
+#include <iostream>
 
 using namespace std;
 
-struct indiceSecundario {
-    string proverbio;
-    int indice;
-};
+typedef struct IndiceSecundario {
+    char palavra[100];
+    int offset;
+} indiceSecundario;
 
 // remove pontuacao de uma palavra
 void removePontuacao (char *palavra) {
@@ -40,64 +39,53 @@ void imprimeLinha(int offset,FILE *f) {
 // classe que implementa a lista invertida
 class listaInvertida {
 public:
-    FILE *f;// = fopen("listaInvertida.bin","wb+");
-    FILE *g;// = fopen("indiceSecundario.bin","wb+");
-
+    FILE *idx1; // indice primario
+    FILE *idx2; // indice secundario
     // construtor
-    listaInvertida() {
-        f = fopen("listaInvertida.bin","wb+");
-        g = fopen("indiceSecundario.bin","wb+");
+    listaInvertida() 
+    { 
+        idx1 = fopen("indicePrimario.bin","wb+");
+        idx2 = fopen("indiceSecundario.bin","wb+");
     }
     // destrutor
-    ~listaInvertida() { 
-        // ordenar
-        ordenaIndice();
-        // guardar no arquivo
-        fseek(f,0,SEEK_END);
-        int tamanho = ftell(f)/sizeof(int);
-        fseek(f,0,SEEK_SET);
-        int *offsets = new int[tamanho];
-        fread(offsets,sizeof(int),tamanho,f);
+    ~listaInvertida() 
+    { 
 
-        fclose(g);
-        fclose(f);
-    }
-    // ordena indices secundarios
-    void ordenaIndice() {
-        fseek(f,0,SEEK_END);
-        int tamanho = ftell(f)/sizeof(struct indiceSecundario);
-        fseek(f,0,SEEK_SET);
-        struct indiceSecundario *indices = new struct indiceSecundario[tamanho];
-        fread(indices,sizeof(struct indiceSecundario),tamanho,f);
     }
     // adiciona palavra na estrutura
     void adiciona(char *palavra, int offset) {
-        fwrite(&offset,sizeof(int),1,f);
-        // adicionar palavra no indice secundario
-        struct indiceSecundario ind;
-        ind.proverbio = palavra;
-        ind.indice = offset;
-        fwrite(&ind,sizeof(struct indiceSecundario),1,g);
-
+        string pStr(palavra); // faz uma copia da palavra em um objt string
+        index[pStr].push_back(offset); // adiciona a palavra no vetor de offsets
+        // copia o conteudo pra estrutura de indice secundario
+        indiceSecundario idx;
+        strcpy(idx.palavra,palavra);
+        idx.offset = offset;
+        // adiciona a palavra ao indice secundario
+        fwrite(&idx,sizeof(indiceSecundario),1,idx2);
+        // adiciona o offset ao indice primario
+        fwrite(&offset,sizeof(int),1,idx1);
     }
     // realiza busca, retornando vetor de offsets que referenciam a palavra
     int * busca(char *palavra, int *quantidade) {
-        // substituir pelo resultado da busca na lista invertida
-        int *offsets = new int[10];
-        struct indiceSecundario ind;
-
-        while (fread(&ind,sizeof(struct indiceSecundario),1,g) > 0) 
-        {
-            if (strcmp(ind.proverbio.c_str(),palavra) == 0) 
-            {
-                offsets[*quantidade] = ind.indice;
-                *quantidade++;
-                if (*quantidade == 10) break; // tem q tirar isso aqui dps
-            }
+        *quantidade = 0;
+        string pStr(palavra); // faz uma copia da palavra em um objt string
+        auto it = index.find(pStr); // busca a palavra no indice
+        if (it != index.end()) 
+        { 
+            // palavra encontrou
+            *quantidade = it->second.size(); // quantidade de offsets
+            int *offsets = new int[*quantidade]; // aloca vetor de offsets
+            for (int i = 0; i < *quantidade; i++) // copia os offsets
+                offsets[i] = it->second[i];
+            return offsets; // retorna o vetor
         }
-        return offsets;
+        else
+            return NULL; // nao encontrada
+             
     }
 private:
+    // esse mapa armazena uma lista de offsets para cada palavra unica
+    map<string, vector<int>> index; 
 };
 
 // programa principal
@@ -105,7 +93,7 @@ int main(int argc, char** argv) {
     // abrir arquivo
     ifstream in("biblia.txt");
     if (!in.is_open()){
-        printf("\n\n Nao consegui abrir arquivo biblia.txt. Sinto muito.\n\n\n\n"); // nao precisa pedir desculpas bertao
+        printf("\n\n Nao consegui abrir arquivo biblia.txt. Sinto muito.\n\n\n\n");
     }
     else{
         // vamos ler o arquivo e criar a lista invertida com as palavras do arquivo
@@ -135,7 +123,7 @@ int main(int argc, char** argv) {
             printf("\nDigite a palavra desejada ou \"SAIR\" para sair: ");
             scanf("%s",palavra);
             if (strcmp(palavra,"SAIR") != 0) {
-                int quantidade = 0;
+                int quantidade;
                 // busca na lista invertida
                 int *offsets = lista.busca(palavra,&quantidade);
                 // com vetor de offsets, recuperar as linhas que contem a palavra desejada
@@ -155,4 +143,3 @@ int main(int argc, char** argv) {
 
     return (EXIT_SUCCESS);
 }
-
