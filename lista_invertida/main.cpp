@@ -1,4 +1,3 @@
-
 // Alunos: Pedro Souza Ferreira (12211BCC023) & Marcel Fernando Lobo de Feo (12211BCC042)
 #include <stdlib.h>
 #include <stdio.h>
@@ -50,7 +49,10 @@ public:
     // destrutor
     ~listaInvertida() 
     { 
-
+        fclose(idx1);
+        fclose(idx2);
+        // limpa o mapa
+        index.clear();
     }
     // adiciona palavra na estrutura
     void adiciona(char *palavra, int offset) {
@@ -73,16 +75,59 @@ public:
         if (it != index.end()) 
         { 
             // palavra encontrou
-            *quantidade = it->second.size(); // quantidade de offsets
+            *quantidade = it->second.size(); // pega a quantidade de offsets
             int *offsets = new int[*quantidade]; // aloca vetor de offsets
             for (int i = 0; i < *quantidade; i++) // copia os offsets
                 offsets[i] = it->second[i];
             return offsets; // retorna o vetor
         }
         else
-            return NULL; // nao encontrada
-             
+            return NULL; // nao encontrada     
     }
+
+
+   // Professor, se estiver lendo isso: esse é o metodo original de busca, que procura direto no arquivo de indice
+   // ele esta funcional, mas achamos q ele ficou mt feio e ineficiente, entao decidimos implementar o outro metodo
+   // que faz busca por meio do mapa index, fica a sua discrecao qual metodo o Sr prefere usar :)
+
+   /*int * busca(char *palavra, int *quantidade) {
+        *quantidade = 0;
+        int *offsets = new int[1000]; // aloca vetor de offsets
+        fseek(idx2,0,SEEK_SET);
+        indiceSecundario idx;
+        int contador = 0;
+        while (fread(&idx,sizeof(indiceSecundario),1,idx2) == 1) 
+        {
+            if (strcmp(idx.palavra,palavra) == 0) 
+            {
+                offsets[contador] = idx.offset;
+                contador++;
+            }
+        }
+        *quantidade = contador;
+        return offsets;
+    }*/
+
+    // p conferir os arquivos de indice
+    void showIndex() {
+        fseek(idx1,0,SEEK_SET);
+        fseek(idx2,0,SEEK_SET);
+        int offset, contador = 0;
+        indiceSecundario idx;
+        while (fread(&offset,sizeof(int),1,idx1) == 1) {
+            printf("%d ",offset);
+            contador++;
+            if (contador % 10 == 0) break;
+        }
+        printf("\n");
+        contador = 0;
+        while (fread(&idx,sizeof(indiceSecundario),1,idx2) == 1) {
+            printf("%s %d\n",idx.palavra,idx.offset);
+            contador++;
+            if (contador % 10 == 0) break;
+        }
+    }
+
 private:
     // esse mapa armazena uma lista de offsets para cada palavra unica
     map<string, vector<int>> index; 
@@ -93,9 +138,10 @@ int main(int argc, char** argv) {
     // abrir arquivo
     ifstream in("biblia.txt");
     if (!in.is_open()){
-        printf("\n\n Nao consegui abrir arquivo biblia.txt. Sinto muito.\n\n\n\n");
+        printf("\n\n Nao consegui abrir arquivo biblia.txt. Sinto muito.\n\n\n\n"); // nao precisa se desculpar bertao
     }
-    else{
+    else
+    {
         // vamos ler o arquivo e criar a lista invertida com as palavras do arquivo
         char *palavra = new char[100];
         int offset, contadorDePalavras = 0;
@@ -117,6 +163,7 @@ int main(int argc, char** argv) {
             }
         }
         in.close();
+        // lista.showIndex();
 
         // agora que ja construimos o indice, podemos realizar buscas
         do {
@@ -139,6 +186,7 @@ int main(int argc, char** argv) {
         } while (strcmp(palavra,"SAIR") != 0);
 
         printf("\n\nAte mais!\n\n");
+        lista.~listaInvertida();
     }
 
     return (EXIT_SUCCESS);
