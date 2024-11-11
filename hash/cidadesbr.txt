@@ -6,77 +6,77 @@ RO Cerejeiras
 RO Colorado do Oeste
 RO Corumbiara
 RO Costa Marques
-RO Espigï¿½o D'Oeste
-RO Guajarï¿½-Mirim
+RO Espigão D'Oeste
+RO Guajará-Mirim
 RO Jaru
-RO Ji-Paranï¿½
+RO Ji-Paraná
 RO Machadinho D'Oeste
-RO Nova Brasilï¿½ndia D'Oeste
+RO Nova Brasilândia D'Oeste
 RO Ouro Preto do Oeste
 RO Pimenta Bueno
 RO Porto Velho
-RO Presidente Mï¿½dici
+RO Presidente Médici
 RO Rio Crespo
 RO Rolim de Moura
 RO Santa Luzia D'Oeste
 RO Vilhena
-RO Sï¿½o Miguel do Guaporï¿½
-RO Nova Mamorï¿½
+RO São Miguel do Guaporé
+RO Nova Mamoré
 RO Alvorada D'Oeste
 RO Alto Alegre dos Parecis
-RO Alto Paraï¿½so
+RO Alto Paraíso
 RO Buritis
 RO Novo Horizonte do Oeste
-RO Cacaulï¿½ndia
-RO Campo Novo de Rondï¿½nia
+RO Cacaulândia
+RO Campo Novo de Rondônia
 RO Candeias do Jamari
 RO Castanheiras
 RO Chupinguaia
 RO Cujubim
 RO Governador Jorge Teixeira
-RO Itapuï¿½ do Oeste
+RO Itapuã do Oeste
 RO Ministro Andreazza
 RO Mirante da Serra
 RO Monte Negro
-RO Nova Uniï¿½o
+RO Nova União
 RO Parecis
 RO Pimenteiras do Oeste
-RO Primavera de Rondï¿½nia
-RO Sï¿½o Felipe D'Oeste
-RO Sï¿½o Francisco do Guaporï¿½
+RO Primavera de Rondônia
+RO São Felipe D'Oeste
+RO São Francisco do Guaporé
 RO Seringueiras
-RO Teixeirï¿½polis
+RO Teixeirópolis
 RO Theobroma
-RO Urupï¿½
+RO Urupá
 RO Vale do Anari
-RO Vale do Paraï¿½so
-AC Acrelï¿½ndia
+RO Vale do Paraíso
+AC Acrelândia
 AC Assis Brasil
-AC Brasilï¿½ia
+AC Brasiléia
 AC Bujari
 AC Capixaba
 AC Cruzeiro do Sul
-AC Epitaciolï¿½ndia
-AC Feijï¿½
-AC Jordï¿½o
-AC Mï¿½ncio Lima
+AC Epitaciolândia
+AC Feijó
+AC Jordão
+AC Mâncio Lima
 AC Manoel Urbano
 AC Marechal Thaumaturgo
-AC Plï¿½cido de Castro
+AC Plácido de Castro
 AC Porto Walter
 AC Rio Branco
 AC Rodrigues Alves
 AC Santa Rosa do Purus
 AC Senador Guiomard
 AC Sena Madureira
-AC Tarauacï¿½
+AC Tarauacá
 AC Xapuri
 AC Porto Acre
-AM Alvarï¿½es
-AM Amaturï¿½
-AM Anamï¿½
+AM Alvarães
+AM Amaturá
+AM Anamã
 AM Anori
-AM Apuï¿½
+AM Apuí
 AM Atalaia do Norte
 AM Autazes
 AM Barcelos
@@ -90,158 +90,158 @@ AM Caapiranga
 AM Canutama
 AM Carauari
 AM Careiro
-AM Careiro da Vï¿½rzea
+AM Careiro da Várzea
 AM Coari
-AM Codajï¿½s
-AM Eirunepï¿½
+AM Codajás
+AM Eirunepé
 AM Envira
 AM Fonte Boa
-AM Guajarï¿½
-AM Humaitï¿½
+AM Guajará
+AM Humaitá
 AM Ipixuna
 AM Iranduba
 AM Itacoatiara
 AM Itamarati
 AM Itapiranga
-AM Japurï¿½
-AM Juruï¿½
-AM Jutaï¿½
-AM Lï¿½brea
+AM Japurá
+AM Juruá
+AM Jutaí
+AM Lábrea
 AM Manacapuru
 AM Manaquiri
 AM Manaus
-AM Manicorï¿½
-AM Maraï¿½
-AM Mauï¿½s
-AM Nhamundï¿½
+AM Manicoré
+AM Maraã
+AM Maués
+AM Nhamundá
 AM Nova Olinda do Norte
-AM Novo Airï¿½o
-AM Novo Aripuanï¿½
+AM Novo Airão
+AM Novo Aripuanã
 AM Parintins
 AM Pauini
 AM Presidente Figueiredo
 AM Rio Preto da Eva
 AM Santa Isabel do Rio Negro
-AM Santo Antï¿½nio do Iï¿½ï¿½
-AM Sï¿½o Gabriel da Cachoeira
-AM Sï¿½o Paulo de Olivenï¿½a
-AM Sï¿½o Sebastiï¿½o do Uatumï¿½
+AM Santo Antônio do Içá
+AM São Gabriel da Cachoeira
+AM São Paulo de Olivença
+AM São Sebastião do Uatumã
 AM Silves
 AM Tabatinga
-AM Tapauï¿½
-AM Tefï¿½
+AM Tapauá
+AM Tefé
 AM Tonantins
 AM Uarini
-AM Urucarï¿½
+AM Urucará
 AM Urucurituba
 RR Amajari
 RR Alto Alegre
 RR Boa Vista
 RR Bonfim
-RR Cantï¿½
-RR Caracaraï¿½
+RR Cantá
+RR Caracaraí
 RR Caroebe
 RR Iracema
-RR Mucajaï¿½
+RR Mucajaí
 RR Normandia
 RR Pacaraima
-RR Rorainï¿½polis
-RR Sï¿½o Joï¿½o da Baliza
-RR Sï¿½o Luiz
-RR Uiramutï¿½
+RR Rorainópolis
+RR São João da Baliza
+RR São Luiz
+RR Uiramutã
 PA Abaetetuba
 PA Abel Figueiredo
-PA Acarï¿½
-PA Afuï¿½
-PA ï¿½gua Azul do Norte
+PA Acará
+PA Afuá
+PA Água Azul do Norte
 PA Alenquer
 PA Almeirim
 PA Altamira
-PA Anajï¿½s
+PA Anajás
 PA Ananindeua
 PA Anapu
-PA Augusto Corrï¿½a
-PA Aurora do Parï¿½
+PA Augusto Corrêa
+PA Aurora do Pará
 PA Aveiro
 PA Bagre
-PA Baiï¿½o
+PA Baião
 PA Bannach
 PA Barcarena
-PA Belï¿½m
+PA Belém
 PA Belterra
 PA Benevides
 PA Bom Jesus do Tocantins
 PA Bonito
-PA Braganï¿½a
+PA Bragança
 PA Brasil Novo
 PA Brejo Grande do Araguaia
 PA Breu Branco
 PA Breves
 PA Bujaru
-PA Cachoeira do Piriï¿½
+PA Cachoeira do Piriá
 PA Cachoeira do Arari
-PA Cametï¿½
-PA Canaï¿½ dos Carajï¿½s
+PA Cametá
+PA Canaã dos Carajás
 PA Capanema
-PA Capitï¿½o Poï¿½o
+PA Capitão Poço
 PA Castanhal
 PA Chaves
 PA Colares
-PA Conceiï¿½ï¿½o do Araguaia
-PA Concï¿½rdia do Parï¿½
+PA Conceição do Araguaia
+PA Concórdia do Pará
 PA Cumaru do Norte
-PA Curionï¿½polis
+PA Curionópolis
 PA Curralinho
-PA Curuï¿½
-PA Curuï¿½ï¿½
+PA Curuá
+PA Curuçá
 PA Dom Eliseu
-PA Eldorado do Carajï¿½s
+PA Eldorado do Carajás
 PA Faro
 PA Floresta do Araguaia
-PA Garrafï¿½o do Norte
-PA Goianï¿½sia do Parï¿½
-PA Gurupï¿½
-PA Igarapï¿½-Aï¿½u
-PA Igarapï¿½-Miri
+PA Garrafão do Norte
+PA Goianésia do Pará
+PA Gurupá
+PA Igarapé-Açu
+PA Igarapé-Miri
 PA Inhangapi
-PA Ipixuna do Parï¿½
+PA Ipixuna do Pará
 PA Irituia
 PA Itaituba
 PA Itupiranga
 PA Jacareacanga
-PA Jacundï¿½
+PA Jacundá
 PA Juruti
 PA Limoeiro do Ajuru
-PA Mï¿½e do Rio
-PA Magalhï¿½es Barata
-PA Marabï¿½
-PA Maracanï¿½
+PA Mãe do Rio
+PA Magalhães Barata
+PA Marabá
+PA Maracanã
 PA Marapanim
 PA Marituba
-PA Medicilï¿½ndia
-PA Melgaï¿½o
+PA Medicilândia
+PA Melgaço
 PA Mocajuba
 PA Moju
-PA Mojuï¿½ dos Campos
+PA Mojuí dos Campos
 PA Monte Alegre
-PA Muanï¿½
-PA Nova Esperanï¿½a do Piriï¿½
+PA Muaná
+PA Nova Esperança do Piriá
 PA Nova Ipixuna
 PA Nova Timboteua
 PA Novo Progresso
 PA Novo Repartimento
-PA ï¿½bidos
-PA Oeiras do Parï¿½
-PA Oriximinï¿½
-PA Ourï¿½m
-PA Ourilï¿½ndia do Norte
-PA Pacajï¿½
-PA Palestina do Parï¿½
+PA Óbidos
+PA Oeiras do Pará
+PA Oriximiná
+PA Ourém
+PA Ourilândia do Norte
+PA Pacajá
+PA Palestina do Pará
 PA Paragominas
 PA Parauapebas
 PA Pau D'Arco
 PA Peixe-Boi
-PA Piï¿½arra
+PA Piçarra
 PA Placas
 PA Ponta de Pedras
 PA Portel
@@ -249,165 +249,165 @@ PA Porto de Moz
 PA Prainha
 PA Primavera
 PA Quatipuru
-PA Redenï¿½ï¿½o
+PA Redenção
 PA Rio Maria
-PA Rondon do Parï¿½
-PA Rurï¿½polis
-PA Salinï¿½polis
+PA Rondon do Pará
+PA Rurópolis
+PA Salinópolis
 PA Salvaterra
-PA Santa Bï¿½rbara do Parï¿½
+PA Santa Bárbara do Pará
 PA Santa Cruz do Arari
-PA Santa Izabel do Parï¿½
-PA Santa Luzia do Parï¿½
+PA Santa Izabel do Pará
+PA Santa Luzia do Pará
 PA Santa Maria das Barreiras
-PA Santa Maria do Parï¿½
+PA Santa Maria do Pará
 PA Santana do Araguaia
-PA Santarï¿½m
-PA Santarï¿½m Novo
-PA Santo Antï¿½nio do Tauï¿½
-PA Sï¿½o Caetano de Odivelas
-PA Sï¿½o Domingos do Araguaia
-PA Sï¿½o Domingos do Capim
-PA Sï¿½o Fï¿½lix do Xingu
-PA Sï¿½o Francisco do Parï¿½
-PA Sï¿½o Geraldo do Araguaia
-PA Sï¿½o Joï¿½o da Ponta
-PA Sï¿½o Joï¿½o de Pirabas
-PA Sï¿½o Joï¿½o do Araguaia
-PA Sï¿½o Miguel do Guamï¿½
-PA Sï¿½o Sebastiï¿½o da Boa Vista
+PA Santarém
+PA Santarém Novo
+PA Santo Antônio do Tauá
+PA São Caetano de Odivelas
+PA São Domingos do Araguaia
+PA São Domingos do Capim
+PA São Félix do Xingu
+PA São Francisco do Pará
+PA São Geraldo do Araguaia
+PA São João da Ponta
+PA São João de Pirabas
+PA São João do Araguaia
+PA São Miguel do Guamá
+PA São Sebastião da Boa Vista
 PA Sapucaia
-PA Senador Josï¿½ Porfï¿½rio
+PA Senador José Porfírio
 PA Soure
-PA Tailï¿½ndia
+PA Tailândia
 PA Terra Alta
 PA Terra Santa
-PA Tomï¿½-Aï¿½u
+PA Tomé-Açu
 PA Tracuateua
-PA Trairï¿½o
-PA Tucumï¿½
-PA Tucuruï¿½
-PA Ulianï¿½polis
-PA Uruarï¿½
+PA Trairão
+PA Tucumã
+PA Tucuruí
+PA Ulianópolis
+PA Uruará
 PA Vigia
 PA Viseu
-PA Vitï¿½ria do Xingu
+PA Vitória do Xingu
 PA Xinguara
 AP Serra do Navio
-AP Amapï¿½
+AP Amapá
 AP Pedra Branca do Amapari
-AP Calï¿½oene
+AP Calçoene
 AP Cutias
 AP Ferreira Gomes
 AP Itaubal
 AP Laranjal do Jari
-AP Macapï¿½
-AP Mazagï¿½o
+AP Macapá
+AP Mazagão
 AP Oiapoque
 AP Porto Grande
-AP Pracuï¿½ba
+AP Pracuúba
 AP Santana
 AP Tartarugalzinho
-AP Vitï¿½ria do Jari
-TO Abreulï¿½ndia
-TO Aguiarnï¿½polis
-TO Alianï¿½a do Tocantins
+AP Vitória do Jari
+TO Abreulândia
+TO Aguiarnópolis
+TO Aliança do Tocantins
 TO Almas
 TO Alvorada
-TO Ananï¿½s
+TO Ananás
 TO Angico
 TO Aparecida do Rio Negro
 TO Aragominas
 TO Araguacema
-TO Araguaï¿½u
-TO Araguaï¿½na
-TO Araguanï¿½
+TO Araguaçu
+TO Araguaína
+TO Araguanã
 TO Araguatins
 TO Arapoema
 TO Arraias
-TO Augustinï¿½polis
+TO Augustinópolis
 TO Aurora do Tocantins
-TO Axixï¿½ do Tocantins
-TO Babaï¿½ulï¿½ndia
+TO Axixá do Tocantins
+TO Babaçulândia
 TO Bandeirantes do Tocantins
 TO Barra do Ouro
-TO Barrolï¿½ndia
-TO Bernardo Sayï¿½o
+TO Barrolândia
+TO Bernardo Sayão
 TO Bom Jesus do Tocantins
-TO Brasilï¿½ndia do Tocantins
-TO Brejinho de Nazarï¿½
+TO Brasilândia do Tocantins
+TO Brejinho de Nazaré
 TO Buriti do Tocantins
 TO Cachoeirinha
 TO Campos Lindos
 TO Cariri do Tocantins
-TO Carmolï¿½ndia
+TO Carmolândia
 TO Carrasco Bonito
 TO Caseara
-TO Centenï¿½rio
+TO Centenário
 TO Chapada de Areia
 TO Chapada da Natividade
 TO Colinas do Tocantins
 TO Combinado
-TO Conceiï¿½ï¿½o do Tocantins
-TO Couto Magalhï¿½es
-TO Cristalï¿½ndia
-TO Crixï¿½s do Tocantins
-TO Darcinï¿½polis
-TO Dianï¿½polis
-TO Divinï¿½polis do Tocantins
-TO Dois Irmï¿½os do Tocantins
-TO Duerï¿½
+TO Conceição do Tocantins
+TO Couto Magalhães
+TO Cristalândia
+TO Crixás do Tocantins
+TO Darcinópolis
+TO Dianópolis
+TO Divinópolis do Tocantins
+TO Dois Irmãos do Tocantins
+TO Dueré
 TO Esperantina
-TO Fï¿½tima
-TO Figueirï¿½polis
-TO Filadï¿½lfia
+TO Fátima
+TO Figueirópolis
+TO Filadélfia
 TO Formoso do Araguaia
-TO Fortaleza do Tabocï¿½o
+TO Fortaleza do Tabocão
 TO Goianorte
 TO Goiatins
-TO Guaraï¿½
+TO Guaraí
 TO Gurupi
 TO Ipueiras
-TO Itacajï¿½
+TO Itacajá
 TO Itaguatins
 TO Itapiratins
-TO Itaporï¿½ do Tocantins
-TO Jaï¿½ do Tocantins
+TO Itaporã do Tocantins
+TO Jaú do Tocantins
 TO Juarina
-TO Lagoa da Confusï¿½o
+TO Lagoa da Confusão
 TO Lagoa do Tocantins
 TO Lajeado
 TO Lavandeira
 TO Lizarda
-TO Luzinï¿½polis
-TO Marianï¿½polis do Tocantins
+TO Luzinópolis
+TO Marianópolis do Tocantins
 TO Mateiros
-TO Maurilï¿½ndia do Tocantins
+TO Maurilândia do Tocantins
 TO Miracema do Tocantins
 TO Miranorte
 TO Monte do Carmo
 TO Monte Santo do Tocantins
 TO Palmeiras do Tocantins
-TO Muricilï¿½ndia
+TO Muricilândia
 TO Natividade
-TO Nazarï¿½
+TO Nazaré
 TO Nova Olinda
-TO Nova Rosalï¿½ndia
+TO Nova Rosalândia
 TO Novo Acordo
 TO Novo Alegre
 TO Novo Jardim
-TO Oliveira de Fï¿½tima
+TO Oliveira de Fátima
 TO Palmeirante
-TO Palmeirï¿½polis
-TO Paraï¿½so do Tocantins
-TO Paranï¿½
+TO Palmeirópolis
+TO Paraíso do Tocantins
+TO Paranã
 TO Pau D'Arco
 TO Pedro Afonso
 TO Peixe
 TO Pequizeiro
-TO Colmï¿½ia
+TO Colméia
 TO Pindorama do Tocantins
-TO Piraquï¿½
+TO Piraquê
 TO Pium
 TO Ponte Alta do Bom Jesus
 TO Ponte Alta do Tocantins
@@ -416,69 +416,69 @@ TO Porto Nacional
 TO Praia Norte
 TO Presidente Kennedy
 TO Pugmil
-TO Recursolï¿½ndia
+TO Recursolândia
 TO Riachinho
-TO Rio da Conceiï¿½ï¿½o
+TO Rio da Conceição
 TO Rio dos Bois
 TO Rio Sono
 TO Sampaio
-TO Sandolï¿½ndia
-TO Santa Fï¿½ do Araguaia
+TO Sandolândia
+TO Santa Fé do Araguaia
 TO Santa Maria do Tocantins
 TO Santa Rita do Tocantins
 TO Santa Rosa do Tocantins
 TO Santa Tereza do Tocantins
 TO Santa Terezinha do Tocantins
-TO Sï¿½o Bento do Tocantins
-TO Sï¿½o Fï¿½lix do Tocantins
-TO Sï¿½o Miguel do Tocantins
-TO Sï¿½o Salvador do Tocantins
-TO Sï¿½o Sebastiï¿½o do Tocantins
-TO Sï¿½o Valï¿½rio
-TO Silvanï¿½polis
-TO Sï¿½tio Novo do Tocantins
+TO São Bento do Tocantins
+TO São Félix do Tocantins
+TO São Miguel do Tocantins
+TO São Salvador do Tocantins
+TO São Sebastião do Tocantins
+TO São Valério
+TO Silvanópolis
+TO Sítio Novo do Tocantins
 TO Sucupira
 TO Taguatinga
 TO Taipas do Tocantins
-TO Talismï¿½
+TO Talismã
 TO Palmas
-TO Tocantï¿½nia
-TO Tocantinï¿½polis
+TO Tocantínia
+TO Tocantinópolis
 TO Tupirama
 TO Tupiratins
-TO Wanderlï¿½ndia
-TO Xambioï¿½
-MA Aï¿½ailï¿½ndia
+TO Wanderlândia
+TO Xambioá
+MA Açailândia
 MA Afonso Cunha
-MA ï¿½gua Doce do Maranhï¿½o
-MA Alcï¿½ntara
+MA Água Doce do Maranhão
+MA Alcântara
 MA Aldeias Altas
-MA Altamira do Maranhï¿½o
-MA Alto Alegre do Maranhï¿½o
-MA Alto Alegre do Pindarï¿½
-MA Alto Parnaï¿½ba
-MA Amapï¿½ do Maranhï¿½o
-MA Amarante do Maranhï¿½o
+MA Altamira do Maranhão
+MA Alto Alegre do Maranhão
+MA Alto Alegre do Pindaré
+MA Alto Parnaíba
+MA Amapá do Maranhão
+MA Amarante do Maranhão
 MA Anajatuba
 MA Anapurus
-MA Apicum-Aï¿½u
-MA Araguanï¿½
+MA Apicum-Açu
+MA Araguanã
 MA Araioses
 MA Arame
 MA Arari
-MA Axixï¿½
+MA Axixá
 MA Bacabal
 MA Bacabeira
 MA Bacuri
 MA Bacurituba
 MA Balsas
-MA Barï¿½o de Grajaï¿½
+MA Barão de Grajaú
 MA Barra do Corda
 MA Barreirinhas
-MA Belï¿½gua
-MA Bela Vista do Maranhï¿½o
+MA Belágua
+MA Bela Vista do Maranhão
 MA Benedito Leite
-MA Bequimï¿½o
+MA Bequimão
 MA Bernardo do Mearim
 MA Boa Vista do Gurupi
 MA Bom Jardim
@@ -491,94 +491,94 @@ MA Buriti Bravo
 MA Buriticupu
 MA Buritirana
 MA Cachoeira Grande
-MA Cajapiï¿½
+MA Cajapió
 MA Cajari
-MA Campestre do Maranhï¿½o
-MA Cï¿½ndido Mendes
+MA Campestre do Maranhão
+MA Cândido Mendes
 MA Cantanhede
 MA Capinzal do Norte
 MA Carolina
 MA Carutapera
 MA Caxias
 MA Cedral
-MA Central do Maranhï¿½o
+MA Central do Maranhão
 MA Centro do Guilherme
-MA Centro Novo do Maranhï¿½o
+MA Centro Novo do Maranhão
 MA Chapadinha
-MA Cidelï¿½ndia
-MA Codï¿½
+MA Cidelândia
+MA Codó
 MA Coelho Neto
 MA Colinas
-MA Conceiï¿½ï¿½o do Lago-Aï¿½u
-MA Coroatï¿½
+MA Conceição do Lago-Açu
+MA Coroatá
 MA Cururupu
-MA Davinï¿½polis
+MA Davinópolis
 MA Dom Pedro
 MA Duque Bacelar
-MA Esperantinï¿½polis
+MA Esperantinópolis
 MA Estreito
-MA Feira Nova do Maranhï¿½o
-MA Fernando Falcï¿½o
+MA Feira Nova do Maranhão
+MA Fernando Falcão
 MA Formosa da Serra Negra
 MA Fortaleza dos Nogueiras
 MA Fortuna
 MA Godofredo Viana
-MA Gonï¿½alves Dias
+MA Gonçalves Dias
 MA Governador Archer
-MA Governador Edison Lobï¿½o
-MA Governador Eugï¿½nio Barros
+MA Governador Edison Lobão
+MA Governador Eugênio Barros
 MA Governador Luiz Rocha
 MA Governador Newton Bello
 MA Governador Nunes Freire
-MA Graï¿½a Aranha
-MA Grajaï¿½
-MA Guimarï¿½es
+MA Graça Aranha
+MA Grajaú
+MA Guimarães
 MA Humberto de Campos
 MA Icatu
-MA Igarapï¿½ do Meio
-MA Igarapï¿½ Grande
+MA Igarapé do Meio
+MA Igarapé Grande
 MA Imperatriz
-MA Itaipava do Grajaï¿½
+MA Itaipava do Grajaú
 MA Itapecuru Mirim
-MA Itinga do Maranhï¿½o
-MA Jatobï¿½
+MA Itinga do Maranhão
+MA Jatobá
 MA Jenipapo dos Vieiras
-MA Joï¿½o Lisboa
-MA Joselï¿½ndia
-MA Junco do Maranhï¿½o
+MA João Lisboa
+MA Joselândia
+MA Junco do Maranhão
 MA Lago da Pedra
 MA Lago do Junco
 MA Lago Verde
 MA Lagoa do Mato
 MA Lago dos Rodrigues
-MA Lagoa Grande do Maranhï¿½o
+MA Lagoa Grande do Maranhão
 MA Lajeado Novo
 MA Lima Campos
 MA Loreto
-MA Luï¿½s Domingues
-MA Magalhï¿½es de Almeida
-MA Maracaï¿½umï¿½
-MA Marajï¿½ do Sena
-MA Maranhï¿½ozinho
+MA Luís Domingues
+MA Magalhães de Almeida
+MA Maracaçumé
+MA Marajá do Sena
+MA Maranhãozinho
 MA Mata Roma
 MA Matinha
-MA Matï¿½es
-MA Matï¿½es do Norte
-MA Milagres do Maranhï¿½o
+MA Matões
+MA Matões do Norte
+MA Milagres do Maranhão
 MA Mirador
 MA Miranda do Norte
 MA Mirinzal
-MA Monï¿½ï¿½o
+MA Monção
 MA Montes Altos
 MA Morros
 MA Nina Rodrigues
 MA Nova Colinas
 MA Nova Iorque
-MA Nova Olinda do Maranhï¿½o
-MA Olho d'ï¿½gua das Cunhï¿½s
-MA Olinda Nova do Maranhï¿½o
-MA Paï¿½o do Lumiar
-MA Palmeirï¿½ndia
+MA Nova Olinda do Maranhão
+MA Olho d'Água das Cunhãs
+MA Olinda Nova do Maranhão
+MA Paço do Lumiar
+MA Palmeirândia
 MA Paraibano
 MA Parnarama
 MA Passagem Franca
@@ -586,239 +586,239 @@ MA Pastos Bons
 MA Paulino Neves
 MA Paulo Ramos
 MA Pedreiras
-MA Pedro do Rosï¿½rio
+MA Pedro do Rosário
 MA Penalva
 MA Peri Mirim
-MA Peritorï¿½
-MA Pindarï¿½-Mirim
+MA Peritoró
+MA Pindaré-Mirim
 MA Pinheiro
 MA Pio XII
 MA Pirapemas
-MA Poï¿½ï¿½o de Pedras
+MA Poção de Pedras
 MA Porto Franco
-MA Porto Rico do Maranhï¿½o
+MA Porto Rico do Maranhão
 MA Presidente Dutra
 MA Presidente Juscelino
-MA Presidente Mï¿½dici
+MA Presidente Médici
 MA Presidente Sarney
 MA Presidente Vargas
 MA Primeira Cruz
 MA Raposa
-MA Riachï¿½o
+MA Riachão
 MA Ribamar Fiquene
-MA Rosï¿½rio
-MA Sambaï¿½ba
-MA Santa Filomena do Maranhï¿½o
+MA Rosário
+MA Sambaíba
+MA Santa Filomena do Maranhão
 MA Santa Helena
-MA Santa Inï¿½s
+MA Santa Inês
 MA Santa Luzia
-MA Santa Luzia do Paruï¿½
-MA Santa Quitï¿½ria do Maranhï¿½o
+MA Santa Luzia do Paruá
+MA Santa Quitéria do Maranhão
 MA Santa Rita
-MA Santana do Maranhï¿½o
-MA Santo Amaro do Maranhï¿½o
-MA Santo Antï¿½nio dos Lopes
-MA Sï¿½o Benedito do Rio Preto
-MA Sï¿½o Bento
-MA Sï¿½o Bernardo
-MA Sï¿½o Domingos do Azeitï¿½o
-MA Sï¿½o Domingos do Maranhï¿½o
-MA Sï¿½o Fï¿½lix de Balsas
-MA Sï¿½o Francisco do Brejï¿½o
-MA Sï¿½o Francisco do Maranhï¿½o
-MA Sï¿½o Joï¿½o Batista
-MA Sï¿½o Joï¿½o do Carï¿½
-MA Sï¿½o Joï¿½o do Paraï¿½so
-MA Sï¿½o Joï¿½o do Soter
-MA Sï¿½o Joï¿½o dos Patos
-MA Sï¿½o Josï¿½ de Ribamar
-MA Sï¿½o Josï¿½ dos Basï¿½lios
-MA Sï¿½o Luï¿½s
-MA Sï¿½o Luï¿½s Gonzaga do Maranhï¿½o
-MA Sï¿½o Mateus do Maranhï¿½o
-MA Sï¿½o Pedro da ï¿½gua Branca
-MA Sï¿½o Pedro dos Crentes
-MA Sï¿½o Raimundo das Mangabeiras
-MA Sï¿½o Raimundo do Doca Bezerra
-MA Sï¿½o Roberto
-MA Sï¿½o Vicente Ferrer
+MA Santana do Maranhão
+MA Santo Amaro do Maranhão
+MA Santo Antônio dos Lopes
+MA São Benedito do Rio Preto
+MA São Bento
+MA São Bernardo
+MA São Domingos do Azeitão
+MA São Domingos do Maranhão
+MA São Félix de Balsas
+MA São Francisco do Brejão
+MA São Francisco do Maranhão
+MA São João Batista
+MA São João do Carú
+MA São João do Paraíso
+MA São João do Soter
+MA São João dos Patos
+MA São José de Ribamar
+MA São José dos Basílios
+MA São Luís
+MA São Luís Gonzaga do Maranhão
+MA São Mateus do Maranhão
+MA São Pedro da Água Branca
+MA São Pedro dos Crentes
+MA São Raimundo das Mangabeiras
+MA São Raimundo do Doca Bezerra
+MA São Roberto
+MA São Vicente Ferrer
 MA Satubinha
 MA Senador Alexandre Costa
 MA Senador La Rocque
-MA Serrano do Maranhï¿½o
-MA Sï¿½tio Novo
+MA Serrano do Maranhão
+MA Sítio Novo
 MA Sucupira do Norte
-MA Sucupira do Riachï¿½o
+MA Sucupira do Riachão
 MA Tasso Fragoso
 MA Timbiras
 MA Timon
 MA Trizidela do Vale
-MA Tufilï¿½ndia
+MA Tufilândia
 MA Tuntum
-MA Turiaï¿½u
-MA Turilï¿½ndia
-MA Tutï¿½ia
+MA Turiaçu
+MA Turilândia
+MA Tutóia
 MA Urbano Santos
 MA Vargem Grande
 MA Viana
-MA Vila Nova dos Martï¿½rios
-MA Vitï¿½ria do Mearim
+MA Vila Nova dos Martírios
+MA Vitória do Mearim
 MA Vitorino Freire
-MA Zï¿½ Doca
-PI Acauï¿½
-PI Agricolï¿½ndia
-PI ï¿½gua Branca
-PI Alagoinha do Piauï¿½
-PI Alegrete do Piauï¿½
-PI Alto Longï¿½
+MA Zé Doca
+PI Acauã
+PI Agricolândia
+PI Água Branca
+PI Alagoinha do Piauí
+PI Alegrete do Piauí
+PI Alto Longá
 PI Altos
-PI Alvorada do Gurguï¿½ia
+PI Alvorada do Gurguéia
 PI Amarante
-PI Angical do Piauï¿½
-PI Anï¿½sio de Abreu
-PI Antï¿½nio Almeida
+PI Angical do Piauí
+PI Anísio de Abreu
+PI Antônio Almeida
 PI Aroazes
 PI Aroeiras do Itaim
 PI Arraial
-PI Assunï¿½ï¿½o do Piauï¿½
+PI Assunção do Piauí
 PI Avelino Lopes
 PI Baixa Grande do Ribeiro
-PI Barra D'Alcï¿½ntara
+PI Barra D'Alcântara
 PI Barras
-PI Barreiras do Piauï¿½
+PI Barreiras do Piauí
 PI Barro Duro
 PI Batalha
-PI Bela Vista do Piauï¿½
-PI Belï¿½m do Piauï¿½
+PI Bela Vista do Piauí
+PI Belém do Piauí
 PI Beneditinos
-PI Bertolï¿½nia
-PI Betï¿½nia do Piauï¿½
+PI Bertolínia
+PI Betânia do Piauí
 PI Boa Hora
 PI Bocaina
 PI Bom Jesus
-PI Bom Princï¿½pio do Piauï¿½
-PI Bonfim do Piauï¿½
-PI Boqueirï¿½o do Piauï¿½
+PI Bom Princípio do Piauí
+PI Bonfim do Piauí
+PI Boqueirão do Piauí
 PI Brasileira
-PI Brejo do Piauï¿½
+PI Brejo do Piauí
 PI Buriti dos Lopes
 PI Buriti dos Montes
-PI Cabeceiras do Piauï¿½
-PI Cajazeiras do Piauï¿½
+PI Cabeceiras do Piauí
+PI Cajazeiras do Piauí
 PI Cajueiro da Praia
-PI Caldeirï¿½o Grande do Piauï¿½
-PI Campinas do Piauï¿½
+PI Caldeirão Grande do Piauí
+PI Campinas do Piauí
 PI Campo Alegre do Fidalgo
-PI Campo Grande do Piauï¿½
-PI Campo Largo do Piauï¿½
+PI Campo Grande do Piauí
+PI Campo Largo do Piauí
 PI Campo Maior
 PI Canavieira
 PI Canto do Buriti
-PI Capitï¿½o de Campos
-PI Capitï¿½o Gervï¿½sio Oliveira
+PI Capitão de Campos
+PI Capitão Gervásio Oliveira
 PI Caracol
-PI Caraï¿½bas do Piauï¿½
-PI Caridade do Piauï¿½
-PI Castelo do Piauï¿½
-PI Caxingï¿½
+PI Caraúbas do Piauí
+PI Caridade do Piauí
+PI Castelo do Piauí
+PI Caxingó
 PI Cocal
 PI Cocal de Telha
 PI Cocal dos Alves
 PI Coivaras
-PI Colï¿½nia do Gurguï¿½ia
-PI Colï¿½nia do Piauï¿½
-PI Conceiï¿½ï¿½o do Canindï¿½
-PI Coronel Josï¿½ Dias
+PI Colônia do Gurguéia
+PI Colônia do Piauí
+PI Conceição do Canindé
+PI Coronel José Dias
 PI Corrente
-PI Cristalï¿½ndia do Piauï¿½
+PI Cristalândia do Piauí
 PI Cristino Castro
-PI Curimatï¿½
+PI Curimatá
 PI Currais
 PI Curralinhos
-PI Curral Novo do Piauï¿½
-PI Demerval Lobï¿½o
+PI Curral Novo do Piauí
+PI Demerval Lobão
 PI Dirceu Arcoverde
 PI Dom Expedito Lopes
-PI Domingos Mourï¿½o
-PI Dom Inocï¿½ncio
-PI Elesbï¿½o Veloso
+PI Domingos Mourão
+PI Dom Inocêncio
+PI Elesbão Veloso
 PI Eliseu Martins
 PI Esperantina
-PI Fartura do Piauï¿½
-PI Flores do Piauï¿½
-PI Floresta do Piauï¿½
+PI Fartura do Piauí
+PI Flores do Piauí
+PI Floresta do Piauí
 PI Floriano
-PI Francinï¿½polis
+PI Francinópolis
 PI Francisco Ayres
 PI Francisco Macedo
 PI Francisco Santos
 PI Fronteiras
 PI Geminiano
-PI Gilbuï¿½s
+PI Gilbués
 PI Guadalupe
 PI Guaribas
-PI Hugo Napoleï¿½o
+PI Hugo Napoleão
 PI Ilha Grande
 PI Inhuma
-PI Ipiranga do Piauï¿½
-PI Isaï¿½as Coelho
-PI Itainï¿½polis
+PI Ipiranga do Piauí
+PI Isaías Coelho
+PI Itainópolis
 PI Itaueira
-PI Jacobina do Piauï¿½
-PI Jaicï¿½s
+PI Jacobina do Piauí
+PI Jaicós
 PI Jardim do Mulato
-PI Jatobï¿½ do Piauï¿½
+PI Jatobá do Piauí
 PI Jerumenha
-PI Joï¿½o Costa
+PI João Costa
 PI Joaquim Pires
 PI Joca Marques
-PI Josï¿½ de Freitas
-PI Juazeiro do Piauï¿½
-PI Jï¿½lio Borges
+PI José de Freitas
+PI Juazeiro do Piauí
+PI Júlio Borges
 PI Jurema
-PI Lagoinha do Piauï¿½
+PI Lagoinha do Piauí
 PI Lagoa Alegre
-PI Lagoa do Barro do Piauï¿½
-PI Lagoa de Sï¿½o Francisco
-PI Lagoa do Piauï¿½
-PI Lagoa do Sï¿½tio
+PI Lagoa do Barro do Piauí
+PI Lagoa de São Francisco
+PI Lagoa do Piauí
+PI Lagoa do Sítio
 PI Landri Sales
-PI Luï¿½s Correia
-PI Luzilï¿½ndia
+PI Luís Correia
+PI Luzilândia
 PI Madeiro
-PI Manoel Emï¿½dio
-PI Marcolï¿½ndia
+PI Manoel Emídio
+PI Marcolândia
 PI Marcos Parente
-PI Massapï¿½ do Piauï¿½
-PI Matias Olï¿½mpio
+PI Massapê do Piauí
+PI Matias Olímpio
 PI Miguel Alves
-PI Miguel Leï¿½o
-PI Milton Brandï¿½o
+PI Miguel Leão
+PI Milton Brandão
 PI Monsenhor Gil
-PI Monsenhor Hipï¿½lito
-PI Monte Alegre do Piauï¿½
-PI Morro Cabeï¿½a no Tempo
-PI Morro do Chapï¿½u do Piauï¿½
+PI Monsenhor Hipólito
+PI Monte Alegre do Piauí
+PI Morro Cabeça no Tempo
+PI Morro do Chapéu do Piauí
 PI Murici dos Portelas
-PI Nazarï¿½ do Piauï¿½
-PI Nazï¿½ria
-PI Nossa Senhora de Nazarï¿½
-PI Nossa Senhora dos Remï¿½dios
-PI Novo Oriente do Piauï¿½
-PI Novo Santo Antï¿½nio
+PI Nazaré do Piauí
+PI Nazária
+PI Nossa Senhora de Nazaré
+PI Nossa Senhora dos Remédios
+PI Novo Oriente do Piauí
+PI Novo Santo Antônio
 PI Oeiras
-PI Olho D'ï¿½gua do Piauï¿½
+PI Olho D'Água do Piauí
 PI Padre Marcos
 PI Paes Landim
-PI Pajeï¿½ do Piauï¿½
-PI Palmeira do Piauï¿½
+PI Pajeú do Piauí
+PI Palmeira do Piauí
 PI Palmeirais
-PI Paquetï¿½
-PI Parnaguï¿½
-PI Parnaï¿½ba
-PI Passagem Franca do Piauï¿½
-PI Patos do Piauï¿½
-PI Pau D'Arco do Piauï¿½
+PI Paquetá
+PI Parnaguá
+PI Parnaíba
+PI Passagem Franca do Piauí
+PI Patos do Piauí
+PI Pau D'Arco do Piauí
 PI Paulistana
 PI Pavussu
 PI Pedro II
@@ -830,104 +830,104 @@ PI Pio IX
 PI Piracuruca
 PI Piripiri
 PI Porto
-PI Porto Alegre do Piauï¿½
-PI Prata do Piauï¿½
+PI Porto Alegre do Piauí
+PI Prata do Piauí
 PI Queimada Nova
-PI Redenï¿½ï¿½o do Gurguï¿½ia
-PI Regeneraï¿½ï¿½o
+PI Redenção do Gurguéia
+PI Regeneração
 PI Riacho Frio
-PI Ribeira do Piauï¿½
-PI Ribeiro Gonï¿½alves
-PI Rio Grande do Piauï¿½
-PI Santa Cruz do Piauï¿½
+PI Ribeira do Piauí
+PI Ribeiro Gonçalves
+PI Rio Grande do Piauí
+PI Santa Cruz do Piauí
 PI Santa Cruz dos Milagres
 PI Santa Filomena
 PI Santa Luz
-PI Santana do Piauï¿½
-PI Santa Rosa do Piauï¿½
-PI Santo Antï¿½nio de Lisboa
-PI Santo Antï¿½nio dos Milagres
-PI Santo Inï¿½cio do Piauï¿½
-PI Sï¿½o Braz do Piauï¿½
-PI Sï¿½o Fï¿½lix do Piauï¿½
-PI Sï¿½o Francisco de Assis do Piauï¿½
-PI Sï¿½o Francisco do Piauï¿½
-PI Sï¿½o Gonï¿½alo do Gurguï¿½ia
-PI Sï¿½o Gonï¿½alo do Piauï¿½
-PI Sï¿½o Joï¿½o da Canabrava
-PI Sï¿½o Joï¿½o da Fronteira
-PI Sï¿½o Joï¿½o da Serra
-PI Sï¿½o Joï¿½o da Varjota
-PI Sï¿½o Joï¿½o do Arraial
-PI Sï¿½o Joï¿½o do Piauï¿½
-PI Sï¿½o Josï¿½ do Divino
-PI Sï¿½o Josï¿½ do Peixe
-PI Sï¿½o Josï¿½ do Piauï¿½
-PI Sï¿½o Juliï¿½o
-PI Sï¿½o Lourenï¿½o do Piauï¿½
-PI Sï¿½o Luis do Piauï¿½
-PI Sï¿½o Miguel da Baixa Grande
-PI Sï¿½o Miguel do Fidalgo
-PI Sï¿½o Miguel do Tapuio
-PI Sï¿½o Pedro do Piauï¿½
-PI Sï¿½o Raimundo Nonato
-PI Sebastiï¿½o Barros
-PI Sebastiï¿½o Leal
+PI Santana do Piauí
+PI Santa Rosa do Piauí
+PI Santo Antônio de Lisboa
+PI Santo Antônio dos Milagres
+PI Santo Inácio do Piauí
+PI São Braz do Piauí
+PI São Félix do Piauí
+PI São Francisco de Assis do Piauí
+PI São Francisco do Piauí
+PI São Gonçalo do Gurguéia
+PI São Gonçalo do Piauí
+PI São João da Canabrava
+PI São João da Fronteira
+PI São João da Serra
+PI São João da Varjota
+PI São João do Arraial
+PI São João do Piauí
+PI São José do Divino
+PI São José do Peixe
+PI São José do Piauí
+PI São Julião
+PI São Lourenço do Piauí
+PI São Luis do Piauí
+PI São Miguel da Baixa Grande
+PI São Miguel do Fidalgo
+PI São Miguel do Tapuio
+PI São Pedro do Piauí
+PI São Raimundo Nonato
+PI Sebastião Barros
+PI Sebastião Leal
 PI Sigefredo Pacheco
-PI Simï¿½es
-PI Simplï¿½cio Mendes
-PI Socorro do Piauï¿½
+PI Simões
+PI Simplício Mendes
+PI Socorro do Piauí
 PI Sussuapara
-PI Tamboril do Piauï¿½
-PI Tanque do Piauï¿½
+PI Tamboril do Piauí
+PI Tanque do Piauí
 PI Teresina
-PI Uniï¿½o
-PI Uruï¿½uï¿½
-PI Valenï¿½a do Piauï¿½
-PI Vï¿½rzea Branca
-PI Vï¿½rzea Grande
+PI União
+PI Uruçuí
+PI Valença do Piauí
+PI Várzea Branca
+PI Várzea Grande
 PI Vera Mendes
-PI Vila Nova do Piauï¿½
+PI Vila Nova do Piauí
 PI Wall Ferraz
 CE Abaiara
 CE Acarape
-CE Acaraï¿½
+CE Acaraú
 CE Acopiara
 CE Aiuaba
-CE Alcï¿½ntaras
+CE Alcântaras
 CE Altaneira
 CE Alto Santo
 CE Amontada
 CE Antonina do Norte
-CE Apuiarï¿½s
+CE Apuiarés
 CE Aquiraz
 CE Aracati
 CE Aracoiaba
-CE Ararendï¿½
+CE Ararendá
 CE Araripe
 CE Aratuba
 CE Arneiroz
-CE Assarï¿½
+CE Assaré
 CE Aurora
 CE Baixio
-CE Banabuiï¿½
+CE Banabuiú
 CE Barbalha
 CE Barreira
 CE Barro
 CE Barroquinha
-CE Baturitï¿½
+CE Baturité
 CE Beberibe
 CE Bela Cruz
 CE Boa Viagem
 CE Brejo Santo
 CE Camocim
 CE Campos Sales
-CE Canindï¿½
+CE Canindé
 CE Capistrano
 CE Caridade
-CE Carirï¿½
-CE Caririaï¿½u
-CE Cariï¿½s
+CE Cariré
+CE Caririaçu
+CE Cariús
 CE Carnaubal
 CE Cascavel
 CE Catarina
@@ -935,49 +935,49 @@ CE Catunda
 CE Caucaia
 CE Cedro
 CE Chaval
-CE Chorï¿½
+CE Choró
 CE Chorozinho
-CE Coreaï¿½
-CE Crateï¿½s
+CE Coreaú
+CE Crateús
 CE Crato
-CE Croatï¿½
+CE Croatá
 CE Cruz
 CE Deputado Irapuan Pinheiro
-CE Ererï¿½
-CE Eusï¿½bio
+CE Ererê
+CE Eusébio
 CE Farias Brito
 CE Forquilha
 CE Fortaleza
 CE Fortim
 CE Frecheirinha
 CE General Sampaio
-CE Graï¿½a
+CE Graça
 CE Granja
 CE Granjeiro
-CE Groaï¿½ras
-CE Guaiï¿½ba
+CE Groaíras
+CE Guaiúba
 CE Guaraciaba do Norte
 CE Guaramiranga
-CE Hidrolï¿½ndia
+CE Hidrolândia
 CE Horizonte
 CE Ibaretama
 CE Ibiapina
 CE Ibicuitinga
-CE Icapuï¿½
-CE Icï¿½
+CE Icapuí
+CE Icó
 CE Iguatu
-CE Independï¿½ncia
+CE Independência
 CE Ipaporanga
 CE Ipaumirim
 CE Ipu
 CE Ipueiras
 CE Iracema
-CE Irauï¿½uba
-CE Itaiï¿½aba
+CE Irauçuba
+CE Itaiçaba
 CE Itaitinga
-CE Itapajï¿½
+CE Itapajé
 CE Itapipoca
-CE Itapiï¿½na
+CE Itapiúna
 CE Itarema
 CE Itatira
 CE Jaguaretama
@@ -988,25 +988,25 @@ CE Jardim
 CE Jati
 CE Jijoca de Jericoacoara
 CE Juazeiro do Norte
-CE Jucï¿½s
+CE Jucás
 CE Lavras da Mangabeira
 CE Limoeiro do Norte
 CE Madalena
-CE Maracanaï¿½
+CE Maracanaú
 CE Maranguape
 CE Marco
-CE Martinï¿½pole
-CE Massapï¿½
+CE Martinópole
+CE Massapê
 CE Mauriti
 CE Meruoca
 CE Milagres
-CE Milhï¿½
-CE Miraï¿½ma
-CE Missï¿½o Velha
-CE Mombaï¿½a
+CE Milhã
+CE Miraíma
+CE Missão Velha
+CE Mombaça
 CE Monsenhor Tabosa
 CE Morada Nova
-CE Moraï¿½jo
+CE Moraújo
 CE Morrinhos
 CE Mucambo
 CE Mulungu
@@ -1014,13 +1014,13 @@ CE Nova Olinda
 CE Nova Russas
 CE Novo Oriente
 CE Ocara
-CE Orï¿½s
+CE Orós
 CE Pacajus
 CE Pacatuba
 CE Pacoti
-CE Pacujï¿½
+CE Pacujá
 CE Palhano
-CE Palmï¿½cia
+CE Palmácia
 CE Paracuru
 CE Paraipaba
 CE Parambu
@@ -1036,33 +1036,33 @@ CE Poranga
 CE Porteiras
 CE Potengi
 CE Potiretama
-CE Quiterianï¿½polis
-CE Quixadï¿½
-CE Quixelï¿½
+CE Quiterianópolis
+CE Quixadá
+CE Quixelô
 CE Quixeramobim
-CE Quixerï¿½
-CE Redenï¿½ï¿½o
+CE Quixeré
+CE Redenção
 CE Reriutaba
 CE Russas
 CE Saboeiro
 CE Salitre
-CE Santana do Acaraï¿½
+CE Santana do Acaraú
 CE Santana do Cariri
-CE Santa Quitï¿½ria
-CE Sï¿½o Benedito
-CE Sï¿½o Gonï¿½alo do Amarante
-CE Sï¿½o Joï¿½o do Jaguaribe
-CE Sï¿½o Luï¿½s do Curu
+CE Santa Quitéria
+CE São Benedito
+CE São Gonçalo do Amarante
+CE São João do Jaguaribe
+CE São Luís do Curu
 CE Senador Pompeu
-CE Senador Sï¿½
+CE Senador Sá
 CE Sobral
-CE Solonï¿½pole
+CE Solonópole
 CE Tabuleiro do Norte
 CE Tamboril
 CE Tarrafas
-CE Tauï¿½
-CE Tejuï¿½uoca
-CE Tianguï¿½
+CE Tauá
+CE Tejuçuoca
+CE Tianguá
 CE Trairi
 CE Tururu
 CE Ubajara
@@ -1071,76 +1071,76 @@ CE Umirim
 CE Uruburetama
 CE Uruoca
 CE Varjota
-CE Vï¿½rzea Alegre
-CE Viï¿½osa do Cearï¿½
+CE Várzea Alegre
+CE Viçosa do Ceará
 RN Acari
-RN Aï¿½u
+RN Açu
 RN Afonso Bezerra
-RN ï¿½gua Nova
+RN Água Nova
 RN Alexandria
 RN Almino Afonso
 RN Alto do Rodrigues
 RN Angicos
-RN Antï¿½nio Martins
+RN Antônio Martins
 RN Apodi
 RN Areia Branca
-RN Arï¿½s
+RN Arês
 RN Augusto Severo
-RN Baï¿½a Formosa
-RN Baraï¿½na
+RN Baía Formosa
+RN Baraúna
 RN Barcelona
 RN Bento Fernandes
-RN Bodï¿½
+RN Bodó
 RN Bom Jesus
 RN Brejinho
-RN Caiï¿½ara do Norte
-RN Caiï¿½ara do Rio do Vento
-RN Caicï¿½
+RN Caiçara do Norte
+RN Caiçara do Rio do Vento
+RN Caicó
 RN Campo Redondo
 RN Canguaretama
-RN Caraï¿½bas
-RN Carnaï¿½ba dos Dantas
+RN Caraúbas
+RN Carnaúba dos Dantas
 RN Carnaubais
-RN Cearï¿½-Mirim
-RN Cerro Corï¿½
+RN Ceará-Mirim
+RN Cerro Corá
 RN Coronel Ezequiel
-RN Coronel Joï¿½o Pessoa
+RN Coronel João Pessoa
 RN Cruzeta
 RN Currais Novos
 RN Doutor Severiano
 RN Parnamirim
 RN Encanto
 RN Equador
-RN Espï¿½rito Santo
+RN Espírito Santo
 RN Extremoz
 RN Felipe Guerra
 RN Fernando Pedroza
-RN Florï¿½nia
+RN Florânia
 RN Francisco Dantas
 RN Frutuoso Gomes
 RN Galinhos
 RN Goianinha
 RN Governador Dix-Sept Rosado
 RN Grossos
-RN Guamarï¿½
+RN Guamaré
 RN Ielmo Marinho
-RN Ipanguaï¿½u
+RN Ipanguaçu
 RN Ipueira
-RN Itajï¿½
-RN Itaï¿½
-RN Jaï¿½anï¿½
-RN Jandaï¿½ra
-RN Janduï¿½s
-RN Januï¿½rio Cicco
+RN Itajá
+RN Itaú
+RN Jaçanã
+RN Jandaíra
+RN Janduís
+RN Januário Cicco
 RN Japi
 RN Jardim de Angicos
 RN Jardim de Piranhas
-RN Jardim do Seridï¿½
-RN Joï¿½o Cï¿½mara
-RN Joï¿½o Dias
-RN Josï¿½ da Penha
+RN Jardim do Seridó
+RN João Câmara
+RN João Dias
+RN José da Penha
 RN Jucurutu
-RN Jundiï¿½
+RN Jundiá
 RN Lagoa d'Anta
 RN Lagoa de Pedras
 RN Lagoa de Velhos
@@ -1148,9 +1148,9 @@ RN Lagoa Nova
 RN Lagoa Salgada
 RN Lajes
 RN Lajes Pintadas
-RN Lucrï¿½cia
-RN Luï¿½s Gomes
-RN Macaï¿½ba
+RN Lucrécia
+RN Luís Gomes
+RN Macaíba
 RN Macau
 RN Major Sales
 RN Marcelino Vieira
@@ -1160,14 +1160,14 @@ RN Messias Targino
 RN Montanhas
 RN Monte Alegre
 RN Monte das Gameleiras
-RN Mossorï¿½
+RN Mossoró
 RN Natal
-RN Nï¿½sia Floresta
+RN Nísia Floresta
 RN Nova Cruz
-RN Olho-d'ï¿½gua do Borges
+RN Olho-d'Água do Borges
 RN Ouro Branco
-RN Paranï¿½
-RN Paraï¿½
+RN Paraná
+RN Paraú
 RN Parazinho
 RN Parelhas
 RN Rio do Fogo
@@ -1180,9 +1180,9 @@ RN Pedra Grande
 RN Pedra Preta
 RN Pedro Avelino
 RN Pedro Velho
-RN Pendï¿½ncias
-RN Pilï¿½es
-RN Poï¿½o Branco
+RN Pendências
+RN Pilões
+RN Poço Branco
 RN Portalegre
 RN Porto do Mangue
 RN Serra Caiada
@@ -1197,148 +1197,148 @@ RN Tibau
 RN Ruy Barbosa
 RN Santa Cruz
 RN Santana do Matos
-RN Santana do Seridï¿½
-RN Santo Antï¿½nio
-RN Sï¿½o Bento do Norte
-RN Sï¿½o Bento do Trairï¿½
-RN Sï¿½o Fernando
-RN Sï¿½o Francisco do Oeste
-RN Sï¿½o Gonï¿½alo do Amarante
-RN Sï¿½o Joï¿½o do Sabugi
-RN Sï¿½o Josï¿½ de Mipibu
-RN Sï¿½o Josï¿½ do Campestre
-RN Sï¿½o Josï¿½ do Seridï¿½
-RN Sï¿½o Miguel
-RN Sï¿½o Miguel do Gostoso
-RN Sï¿½o Paulo do Potengi
-RN Sï¿½o Pedro
-RN Sï¿½o Rafael
-RN Sï¿½o Tomï¿½
-RN Sï¿½o Vicente
-RN Senador Elï¿½i de Souza
+RN Santana do Seridó
+RN Santo Antônio
+RN São Bento do Norte
+RN São Bento do Trairí
+RN São Fernando
+RN São Francisco do Oeste
+RN São Gonçalo do Amarante
+RN São João do Sabugi
+RN São José de Mipibu
+RN São José do Campestre
+RN São José do Seridó
+RN São Miguel
+RN São Miguel do Gostoso
+RN São Paulo do Potengi
+RN São Pedro
+RN São Rafael
+RN São Tomé
+RN São Vicente
+RN Senador Elói de Souza
 RN Senador Georgino Avelino
-RN Serra de Sï¿½o Bento
+RN Serra de São Bento
 RN Serra do Mel
 RN Serra Negra do Norte
 RN Serrinha
 RN Serrinha dos Pintos
 RN Severiano Melo
-RN Sï¿½tio Novo
+RN Sítio Novo
 RN Taboleiro Grande
 RN Taipu
-RN Tangarï¿½
+RN Tangará
 RN Tenente Ananias
 RN Tenente Laurentino Cruz
 RN Tibau do Sul
-RN Timbaï¿½ba dos Batistas
+RN Timbaúba dos Batistas
 RN Touros
 RN Triunfo Potiguar
 RN Umarizal
 RN Upanema
-RN Vï¿½rzea
+RN Várzea
 RN Venha-Ver
 RN Vera Cruz
-RN Viï¿½osa
+RN Viçosa
 RN Vila Flor
-PB ï¿½gua Branca
+PB Água Branca
 PB Aguiar
 PB Alagoa Grande
 PB Alagoa Nova
 PB Alagoinha
 PB Alcantil
-PB Algodï¿½o de Jandaï¿½ra
+PB Algodão de Jandaíra
 PB Alhandra
-PB Sï¿½o Joï¿½o do Rio do Peixe
+PB São João do Rio do Peixe
 PB Amparo
 PB Aparecida
-PB Araï¿½agi
+PB Araçagi
 PB Arara
 PB Araruna
 PB Areia
-PB Areia de Baraï¿½nas
+PB Areia de Baraúnas
 PB Areial
 PB Aroeiras
-PB Assunï¿½ï¿½o
-PB Baï¿½a da Traiï¿½ï¿½o
+PB Assunção
+PB Baía da Traição
 PB Bananeiras
-PB Baraï¿½na
+PB Baraúna
 PB Barra de Santana
 PB Barra de Santa Rosa
-PB Barra de Sï¿½o Miguel
+PB Barra de São Miguel
 PB Bayeux
-PB Belï¿½m
-PB Belï¿½m do Brejo do Cruz
+PB Belém
+PB Belém do Brejo do Cruz
 PB Bernardino Batista
 PB Boa Ventura
 PB Boa Vista
 PB Bom Jesus
 PB Bom Sucesso
-PB Bonito de Santa Fï¿½
-PB Boqueirï¿½o
+PB Bonito de Santa Fé
+PB Boqueirão
 PB Igaracy
 PB Borborema
 PB Brejo do Cruz
 PB Brejo dos Santos
-PB Caaporï¿½
+PB Caaporã
 PB Cabaceiras
 PB Cabedelo
-PB Cachoeira dos ï¿½ndios
+PB Cachoeira dos Índios
 PB Cacimba de Areia
 PB Cacimba de Dentro
 PB Cacimbas
-PB Caiï¿½ara
+PB Caiçara
 PB Cajazeiras
 PB Cajazeirinhas
-PB Caldas Brandï¿½o
-PB Camalaï¿½
+PB Caldas Brandão
+PB Camalaú
 PB Campina Grande
 PB Capim
-PB Caraï¿½bas
+PB Caraúbas
 PB Carrapateira
 PB Casserengue
 PB Catingueira
-PB Catolï¿½ do Rocha
-PB Caturitï¿½
-PB Conceiï¿½ï¿½o
+PB Catolé do Rocha
+PB Caturité
+PB Conceição
 PB Condado
 PB Conde
 PB Congo
 PB Coremas
 PB Coxixola
-PB Cruz do Espï¿½rito Santo
+PB Cruz do Espírito Santo
 PB Cubati
-PB Cuitï¿½
+PB Cuité
 PB Cuitegi
-PB Cuitï¿½ de Mamanguape
+PB Cuité de Mamanguape
 PB Curral de Cima
 PB Curral Velho
-PB Damiï¿½o
+PB Damião
 PB Desterro
 PB Vista Serrana
 PB Diamante
-PB Dona Inï¿½s
+PB Dona Inês
 PB Duas Estradas
 PB Emas
-PB Esperanï¿½a
+PB Esperança
 PB Fagundes
 PB Frei Martinho
 PB Gado Bravo
 PB Guarabira
-PB Gurinhï¿½m
-PB Gurjï¿½o
+PB Gurinhém
+PB Gurjão
 PB Ibiara
 PB Imaculada
-PB Ingï¿½
+PB Ingá
 PB Itabaiana
 PB Itaporanga
 PB Itapororoca
 PB Itatuba
-PB Jacaraï¿½
-PB Jericï¿½
-PB Joï¿½o Pessoa
-PB Juarez Tï¿½vora
+PB Jacaraú
+PB Jericó
+PB João Pessoa
+PB Juarez Távora
 PB Juazeirinho
-PB Junco do Seridï¿½
+PB Junco do Seridó
 PB Juripiranga
 PB Juru
 PB Lagoa
@@ -1348,18 +1348,18 @@ PB Lastro
 PB Livramento
 PB Logradouro
 PB Lucena
-PB Mï¿½e d'ï¿½gua
+PB Mãe d'Água
 PB Malta
 PB Mamanguape
-PB Manaï¿½ra
-PB Marcaï¿½ï¿½o
+PB Manaíra
+PB Marcação
 PB Mari
-PB Marizï¿½polis
+PB Marizópolis
 PB Massaranduba
 PB Mataraca
 PB Matinhas
 PB Mato Grosso
-PB Maturï¿½ia
+PB Maturéia
 PB Mogeiro
 PB Montadas
 PB Monte Horebe
@@ -1370,7 +1370,7 @@ PB Nazarezinho
 PB Nova Floresta
 PB Nova Olinda
 PB Nova Palmeira
-PB Olho d'ï¿½gua
+PB Olho d'Água
 PB Olivedos
 PB Ouro Velho
 PB Parari
@@ -1380,145 +1380,145 @@ PB Paulista
 PB Pedra Branca
 PB Pedra Lavrada
 PB Pedras de Fogo
-PB Piancï¿½
-PB Picuï¿½
+PB Piancó
+PB Picuí
 PB Pilar
-PB Pilï¿½es
-PB Pilï¿½ezinhos
+PB Pilões
+PB Pilõezinhos
 PB Pirpirituba
 PB Pitimbu
 PB Pocinhos
-PB Poï¿½o Dantas
-PB Poï¿½o de Josï¿½ de Moura
+PB Poço Dantas
+PB Poço de José de Moura
 PB Pombal
 PB Prata
 PB Princesa Isabel
-PB Puxinanï¿½
+PB Puxinanã
 PB Queimadas
 PB Quixaba
-PB Remï¿½gio
-PB Pedro Rï¿½gis
-PB Riachï¿½o
-PB Riachï¿½o do Bacamarte
-PB Riachï¿½o do Poï¿½o
-PB Riacho de Santo Antï¿½nio
+PB Remígio
+PB Pedro Régis
+PB Riachão
+PB Riachão do Bacamarte
+PB Riachão do Poço
+PB Riacho de Santo Antônio
 PB Riacho dos Cavalos
 PB Rio Tinto
 PB Salgadinho
-PB Salgado de Sï¿½o Fï¿½lix
-PB Santa Cecï¿½lia
+PB Salgado de São Félix
+PB Santa Cecília
 PB Santa Cruz
 PB Santa Helena
-PB Santa Inï¿½s
+PB Santa Inês
 PB Santa Luzia
 PB Santana de Mangueira
 PB Santana dos Garrotes
 PB Joca Claudino
 PB Santa Rita
 PB Santa Teresinha
-PB Santo Andrï¿½
-PB Sï¿½o Bento
-PB Sï¿½o Bentinho
-PB Sï¿½o Domingos do Cariri
-PB Sï¿½o Domingos
-PB Sï¿½o Francisco
-PB Sï¿½o Joï¿½o do Cariri
-PB Sï¿½o Joï¿½o do Tigre
-PB Sï¿½o Josï¿½ da Lagoa Tapada
-PB Sï¿½o Josï¿½ de Caiana
-PB Sï¿½o Josï¿½ de Espinharas
-PB Sï¿½o Josï¿½ dos Ramos
-PB Sï¿½o Josï¿½ de Piranhas
-PB Sï¿½o Josï¿½ de Princesa
-PB Sï¿½o Josï¿½ do Bonfim
-PB Sï¿½o Josï¿½ do Brejo do Cruz
-PB Sï¿½o Josï¿½ do Sabugi
-PB Sï¿½o Josï¿½ dos Cordeiros
-PB Sï¿½o Mamede
-PB Sï¿½o Miguel de Taipu
-PB Sï¿½o Sebastiï¿½o de Lagoa de Roï¿½a
-PB Sï¿½o Sebastiï¿½o do Umbuzeiro
-PB Sapï¿½
-PB Sï¿½o Vicente do Seridï¿½
+PB Santo André
+PB São Bento
+PB São Bentinho
+PB São Domingos do Cariri
+PB São Domingos
+PB São Francisco
+PB São João do Cariri
+PB São João do Tigre
+PB São José da Lagoa Tapada
+PB São José de Caiana
+PB São José de Espinharas
+PB São José dos Ramos
+PB São José de Piranhas
+PB São José de Princesa
+PB São José do Bonfim
+PB São José do Brejo do Cruz
+PB São José do Sabugi
+PB São José dos Cordeiros
+PB São Mamede
+PB São Miguel de Taipu
+PB São Sebastião de Lagoa de Roça
+PB São Sebastião do Umbuzeiro
+PB Sapé
+PB São Vicente do Seridó
 PB Serra Branca
 PB Serra da Raiz
 PB Serra Grande
 PB Serra Redonda
 PB Serraria
-PB Sertï¿½ozinho
+PB Sertãozinho
 PB Sobrado
-PB Solï¿½nea
+PB Solânea
 PB Soledade
-PB Sossï¿½go
+PB Sossêgo
 PB Sousa
-PB Sumï¿½
+PB Sumé
 PB Tacima
-PB Taperoï¿½
+PB Taperoá
 PB Tavares
 PB Teixeira
-PB Tenï¿½rio
+PB Tenório
 PB Triunfo
-PB Uiraï¿½na
+PB Uiraúna
 PB Umbuzeiro
-PB Vï¿½rzea
-PB Vieirï¿½polis
-PB Zabelï¿½
+PB Várzea
+PB Vieirópolis
+PB Zabelê
 PE Abreu e Lima
 PE Afogados da Ingazeira
-PE Afrï¿½nio
+PE Afrânio
 PE Agrestina
-PE ï¿½gua Preta
-PE ï¿½guas Belas
+PE Água Preta
+PE Águas Belas
 PE Alagoinha
-PE Alianï¿½a
+PE Aliança
 PE Altinho
 PE Amaraji
 PE Angelim
-PE Araï¿½oiaba
+PE Araçoiaba
 PE Araripina
 PE Arcoverde
 PE Barra de Guabiraba
 PE Barreiros
-PE Belï¿½m de Maria
-PE Belï¿½m do Sï¿½o Francisco
+PE Belém de Maria
+PE Belém do São Francisco
 PE Belo Jardim
-PE Betï¿½nia
+PE Betânia
 PE Bezerros
-PE Bodocï¿½
+PE Bodocó
 PE Bom Conselho
 PE Bom Jardim
 PE Bonito
-PE Brejï¿½o
+PE Brejão
 PE Brejinho
 PE Brejo da Madre de Deus
 PE Buenos Aires
-PE Buï¿½que
+PE Buíque
 PE Cabo de Santo Agostinho
-PE Cabrobï¿½
+PE Cabrobó
 PE Cachoeirinha
-PE Caetï¿½s
-PE Calï¿½ado
+PE Caetés
+PE Calçado
 PE Calumbi
 PE Camaragibe
-PE Camocim de Sï¿½o Fï¿½lix
+PE Camocim de São Félix
 PE Camutanga
 PE Canhotinho
 PE Capoeiras
-PE Carnaï¿½ba
+PE Carnaíba
 PE Carnaubeira da Penha
 PE Carpina
 PE Caruaru
 PE Casinhas
 PE Catende
 PE Cedro
-PE Chï¿½ de Alegria
-PE Chï¿½ Grande
+PE Chã de Alegria
+PE Chã Grande
 PE Condado
 PE Correntes
-PE Cortï¿½s
+PE Cortês
 PE Cumaru
 PE Cupira
-PE Custï¿½dia
+PE Custódia
 PE Dormentes
 PE Escada
 PE Exu
@@ -1530,31 +1530,31 @@ PE Floresta
 PE Frei Miguelinho
 PE Gameleira
 PE Garanhuns
-PE Glï¿½ria do Goitï¿½
+PE Glória do Goitá
 PE Goiana
 PE Granito
-PE Gravatï¿½
+PE Gravatá
 PE Iati
 PE Ibimirim
 PE Ibirajuba
 PE Igarassu
 PE Iguaracy
-PE Inajï¿½
+PE Inajá
 PE Ingazeira
 PE Ipojuca
 PE Ipubi
 PE Itacuruba
-PE Itaï¿½ba
-PE Ilha de Itamaracï¿½
-PE Itambï¿½
+PE Itaíba
+PE Ilha de Itamaracá
+PE Itambé
 PE Itapetim
 PE Itapissuma
 PE Itaquitinga
-PE Jaboatï¿½o dos Guararapes
+PE Jaboatão dos Guararapes
 PE Jaqueira
-PE Jataï¿½ba
-PE Jatobï¿½
-PE Joï¿½o Alfredo
+PE Jataúba
+PE Jatobá
+PE João Alfredo
 PE Joaquim Nabuco
 PE Jucati
 PE Jupi
@@ -1572,10 +1572,10 @@ PE Manari
 PE Maraial
 PE Mirandiba
 PE Moreno
-PE Nazarï¿½ da Mata
+PE Nazaré da Mata
 PE Olinda
-PE Orobï¿½
-PE Orocï¿½
+PE Orobó
+PE Orocó
 PE Ouricuri
 PE Palmares
 PE Palmeirina
@@ -1587,75 +1587,75 @@ PE Paudalho
 PE Paulista
 PE Pedra
 PE Pesqueira
-PE Petrolï¿½ndia
+PE Petrolândia
 PE Petrolina
-PE Poï¿½ï¿½o
+PE Poção
 PE Pombos
 PE Primavera
-PE Quipapï¿½
+PE Quipapá
 PE Quixaba
 PE Recife
 PE Riacho das Almas
-PE Ribeirï¿½o
+PE Ribeirão
 PE Rio Formoso
-PE Sairï¿½
+PE Sairé
 PE Salgadinho
 PE Salgueiro
-PE Saloï¿½
-PE Sanharï¿½
+PE Saloá
+PE Sanharó
 PE Santa Cruz
 PE Santa Cruz da Baixa Verde
 PE Santa Cruz do Capibaribe
 PE Santa Filomena
 PE Santa Maria da Boa Vista
-PE Santa Maria do Cambucï¿½
+PE Santa Maria do Cambucá
 PE Santa Terezinha
-PE Sï¿½o Benedito do Sul
-PE Sï¿½o Bento do Una
-PE Sï¿½o Caitano
-PE Sï¿½o Joï¿½o
-PE Sï¿½o Joaquim do Monte
-PE Sï¿½o Josï¿½ da Coroa Grande
-PE Sï¿½o Josï¿½ do Belmonte
-PE Sï¿½o Josï¿½ do Egito
-PE Sï¿½o Lourenï¿½o da Mata
-PE Sï¿½o Vicente Ferrer
+PE São Benedito do Sul
+PE São Bento do Una
+PE São Caitano
+PE São João
+PE São Joaquim do Monte
+PE São José da Coroa Grande
+PE São José do Belmonte
+PE São José do Egito
+PE São Lourenço da Mata
+PE São Vicente Ferrer
 PE Serra Talhada
 PE Serrita
-PE Sertï¿½nia
-PE Sirinhaï¿½m
-PE Moreilï¿½ndia
-PE Solidï¿½o
+PE Sertânia
+PE Sirinhaém
+PE Moreilândia
+PE Solidão
 PE Surubim
 PE Tabira
-PE Tacaimbï¿½
+PE Tacaimbó
 PE Tacaratu
-PE Tamandarï¿½
+PE Tamandaré
 PE Taquaritinga do Norte
 PE Terezinha
 PE Terra Nova
-PE Timbaï¿½ba
+PE Timbaúba
 PE Toritama
-PE Tracunhaï¿½m
+PE Tracunhaém
 PE Trindade
 PE Triunfo
 PE Tupanatinga
 PE Tuparetama
 PE Venturosa
 PE Verdejante
-PE Vertente do Lï¿½rio
+PE Vertente do Lério
 PE Vertentes
-PE Vicï¿½ncia
-PE Vitï¿½ria de Santo Antï¿½o
-PE Xexï¿½u
-AL ï¿½gua Branca
+PE Vicência
+PE Vitória de Santo Antão
+PE Xexéu
+AL Água Branca
 AL Anadia
 AL Arapiraca
 AL Atalaia
-AL Barra de Santo Antï¿½nio
-AL Barra de Sï¿½o Miguel
+AL Barra de Santo Antônio
+AL Barra de São Miguel
 AL Batalha
-AL Belï¿½m
+AL Belém
 AL Belo Monte
 AL Boca da Mata
 AL Branquinha
@@ -1667,12 +1667,12 @@ AL Campo Grande
 AL Canapi
 AL Capela
 AL Carneiros
-AL Chï¿½ Preta
-AL Coitï¿½ do Nï¿½ia
-AL Colï¿½nia Leopoldina
+AL Chã Preta
+AL Coité do Nóia
+AL Colônia Leopoldina
 AL Coqueiro Seco
 AL Coruripe
-AL Craï¿½bas
+AL Craíbas
 AL Delmiro Gouveia
 AL Dois Riachos
 AL Estrela de Alagoas
@@ -1684,17 +1684,17 @@ AL Ibateguara
 AL Igaci
 AL Igreja Nova
 AL Inhapi
-AL Jacarï¿½ dos Homens
-AL Jacuï¿½pe
+AL Jacaré dos Homens
+AL Jacuípe
 AL Japaratinga
 AL Jaramataia
-AL Jequiï¿½ da Praia
+AL Jequiá da Praia
 AL Joaquim Gomes
-AL Jundiï¿½
+AL Jundiá
 AL Junqueiro
 AL Lagoa da Canoa
 AL Limoeiro de Anadia
-AL Maceiï¿½
+AL Maceió
 AL Major Isidoro
 AL Maragogi
 AL Maravilha
@@ -1704,71 +1704,71 @@ AL Mar Vermelho
 AL Mata Grande
 AL Matriz de Camaragibe
 AL Messias
-AL Minador do Negrï¿½o
-AL Monteirï¿½polis
+AL Minador do Negrão
+AL Monteirópolis
 AL Murici
 AL Novo Lino
-AL Olho d'ï¿½gua das Flores
-AL Olho d'ï¿½gua do Casado
-AL Olho d'ï¿½gua Grande
-AL Olivenï¿½a
+AL Olho d'Água das Flores
+AL Olho d'Água do Casado
+AL Olho d'Água Grande
+AL Olivença
 AL Ouro Branco
 AL Palestina
-AL Palmeira dos ï¿½ndios
-AL Pï¿½o de Aï¿½ï¿½car
+AL Palmeira dos Índios
+AL Pão de Açúcar
 AL Pariconha
 AL Paripueira
 AL Passo de Camaragibe
 AL Paulo Jacinto
 AL Penedo
-AL Piaï¿½abuï¿½u
+AL Piaçabuçu
 AL Pilar
 AL Pindoba
 AL Piranhas
-AL Poï¿½o das Trincheiras
+AL Poço das Trincheiras
 AL Porto Calvo
 AL Porto de Pedras
-AL Porto Real do Colï¿½gio
+AL Porto Real do Colégio
 AL Quebrangulo
 AL Rio Largo
 AL Roteiro
 AL Santa Luzia do Norte
 AL Santana do Ipanema
-AL Santana do Mundaï¿½
-AL Sï¿½o Brï¿½s
-AL Sï¿½o Josï¿½ da Laje
-AL Sï¿½o Josï¿½ da Tapera
-AL Sï¿½o Luï¿½s do Quitunde
-AL Sï¿½o Miguel dos Campos
-AL Sï¿½o Miguel dos Milagres
-AL Sï¿½o Sebastiï¿½o
+AL Santana do Mundaú
+AL São Brás
+AL São José da Laje
+AL São José da Tapera
+AL São Luís do Quitunde
+AL São Miguel dos Campos
+AL São Miguel dos Milagres
+AL São Sebastião
 AL Satuba
 AL Senador Rui Palmeira
 AL Tanque d'Arca
 AL Taquarana
-AL Teotï¿½nio Vilela
+AL Teotônio Vilela
 AL Traipu
-AL Uniï¿½o dos Palmares
-AL Viï¿½osa
-SE Amparo de Sï¿½o Francisco
-SE Aquidabï¿½
+AL União dos Palmares
+AL Viçosa
+SE Amparo de São Francisco
+SE Aquidabã
 SE Aracaju
-SE Arauï¿½
+SE Arauá
 SE Areia Branca
 SE Barra dos Coqueiros
 SE Boquim
 SE Brejo Grande
 SE Campo do Brito
 SE Canhoba
-SE Canindï¿½ de Sï¿½o Francisco
+SE Canindé de São Francisco
 SE Capela
 SE Carira
-SE Carmï¿½polis
-SE Cedro de Sï¿½o Joï¿½o
-SE Cristinï¿½polis
+SE Carmópolis
+SE Cedro de São João
+SE Cristinápolis
 SE Cumbe
 SE Divina Pastora
-SE Estï¿½ncia
+SE Estância
 SE Feira Nova
 SE Frei Paulo
 SE Gararu
@@ -1781,7 +1781,7 @@ SE Itabaianinha
 SE Itabi
 SE Itaporanga d'Ajuda
 SE Japaratuba
-SE Japoatï¿½
+SE Japoatã
 SE Lagarto
 SE Laranjeiras
 SE Macambira
@@ -1791,76 +1791,76 @@ SE Maruim
 SE Moita Bonita
 SE Monte Alegre de Sergipe
 SE Muribeca
-SE Neï¿½polis
+SE Neópolis
 SE Nossa Senhora Aparecida
-SE Nossa Senhora da Glï¿½ria
+SE Nossa Senhora da Glória
 SE Nossa Senhora das Dores
 SE Nossa Senhora de Lourdes
 SE Nossa Senhora do Socorro
 SE Pacatuba
 SE Pedra Mole
 SE Pedrinhas
-SE Pinhï¿½o
+SE Pinhão
 SE Pirambu
-SE Poï¿½o Redondo
-SE Poï¿½o Verde
+SE Poço Redondo
+SE Poço Verde
 SE Porto da Folha
-SE Propriï¿½
-SE Riachï¿½o do Dantas
+SE Propriá
+SE Riachão do Dantas
 SE Riachuelo
-SE Ribeirï¿½polis
-SE Rosï¿½rio do Catete
+SE Ribeirópolis
+SE Rosário do Catete
 SE Salgado
 SE Santa Luzia do Itanhy
-SE Santana do Sï¿½o Francisco
+SE Santana do São Francisco
 SE Santa Rosa de Lima
 SE Santo Amaro das Brotas
-SE Sï¿½o Cristï¿½vï¿½o
-SE Sï¿½o Domingos
-SE Sï¿½o Francisco
-SE Sï¿½o Miguel do Aleixo
-SE Simï¿½o Dias
+SE São Cristóvão
+SE São Domingos
+SE São Francisco
+SE São Miguel do Aleixo
+SE Simão Dias
 SE Siriri
 SE Telha
 SE Tobias Barreto
 SE Tomar do Geru
-SE Umbaï¿½ba
-BA Abaï¿½ra
-BA Abarï¿½
+SE Umbaúba
+BA Abaíra
+BA Abaré
 BA Acajutiba
 BA Adustina
-BA ï¿½gua Fria
-BA ï¿½rico Cardoso
+BA Água Fria
+BA Érico Cardoso
 BA Aiquara
 BA Alagoinhas
-BA Alcobaï¿½a
+BA Alcobaça
 BA Almadina
 BA Amargosa
-BA Amï¿½lia Rodrigues
-BA Amï¿½rica Dourada
-BA Anagï¿½
-BA Andaraï¿½
+BA Amélia Rodrigues
+BA América Dourada
+BA Anagé
+BA Andaraí
 BA Andorinha
 BA Angical
 BA Anguera
 BA Antas
-BA Antï¿½nio Cardoso
-BA Antï¿½nio Gonï¿½alves
-BA Aporï¿½
+BA Antônio Cardoso
+BA Antônio Gonçalves
+BA Aporá
 BA Apuarema
 BA Aracatu
-BA Araï¿½as
+BA Araças
 BA Araci
 BA Aramari
 BA Arataca
-BA Aratuï¿½pe
+BA Aratuípe
 BA Aurelino Leal
-BA Baianï¿½polis
+BA Baianópolis
 BA Baixa Grande
-BA Banzaï¿½
+BA Banzaê
 BA Barra
 BA Barra da Estiva
-BA Barra do Choï¿½a
+BA Barra do Choça
 BA Barra do Mendes
 BA Barra do Rocha
 BA Barreiras
@@ -1877,146 +1877,146 @@ BA Bom Jesus da Serra
 BA Boninal
 BA Bonito
 BA Boquira
-BA Botuporï¿½
-BA Brejï¿½es
-BA Brejolï¿½ndia
-BA Brotas de Macaï¿½bas
+BA Botuporã
+BA Brejões
+BA Brejolândia
+BA Brotas de Macaúbas
 BA Brumado
 BA Buerarema
 BA Buritirama
 BA Caatiba
-BA Cabaceiras do Paraguaï¿½u
+BA Cabaceiras do Paraguaçu
 BA Cachoeira
-BA Caculï¿½
-BA Caï¿½m
+BA Caculé
+BA Caém
 BA Caetanos
-BA Caetitï¿½
+BA Caetité
 BA Cafarnaum
 BA Cairu
-BA Caldeirï¿½o Grande
+BA Caldeirão Grande
 BA Camacan
-BA Camaï¿½ari
+BA Camaçari
 BA Camamu
 BA Campo Alegre de Lourdes
 BA Campo Formoso
-BA Canï¿½polis
+BA Canápolis
 BA Canarana
 BA Canavieiras
 BA Candeal
 BA Candeias
 BA Candiba
-BA Cï¿½ndido Sales
-BA Cansanï¿½ï¿½o
+BA Cândido Sales
+BA Cansanção
 BA Canudos
 BA Capela do Alto Alegre
 BA Capim Grosso
-BA Caraï¿½bas
+BA Caraíbas
 BA Caravelas
 BA Cardeal da Silva
 BA Carinhanha
 BA Casa Nova
 BA Castro Alves
-BA Catolï¿½ndia
+BA Catolândia
 BA Catu
 BA Caturama
 BA Central
-BA Chorrochï¿½
-BA Cï¿½cero Dantas
-BA Cipï¿½
+BA Chorrochó
+BA Cícero Dantas
+BA Cipó
 BA Coaraci
 BA Cocos
-BA Conceiï¿½ï¿½o da Feira
-BA Conceiï¿½ï¿½o do Almeida
-BA Conceiï¿½ï¿½o do Coitï¿½
-BA Conceiï¿½ï¿½o do Jacuï¿½pe
+BA Conceição da Feira
+BA Conceição do Almeida
+BA Conceição do Coité
+BA Conceição do Jacuípe
 BA Conde
-BA Condeï¿½ba
-BA Contendas do Sincorï¿½
-BA Coraï¿½ï¿½o de Maria
+BA Condeúba
+BA Contendas do Sincorá
+BA Coração de Maria
 BA Cordeiros
 BA Coribe
-BA Coronel Joï¿½o Sï¿½
+BA Coronel João Sá
 BA Correntina
 BA Cotegipe
-BA Cravolï¿½ndia
-BA Crisï¿½polis
-BA Cristï¿½polis
+BA Cravolândia
+BA Crisópolis
+BA Cristópolis
 BA Cruz das Almas
-BA Curaï¿½ï¿½
-BA Dï¿½rio Meira
-BA Dias d'ï¿½vila
-BA Dom Basï¿½lio
+BA Curaçá
+BA Dário Meira
+BA Dias d'Ávila
+BA Dom Basílio
 BA Dom Macedo Costa
-BA Elï¿½sio Medrado
+BA Elísio Medrado
 BA Encruzilhada
 BA Entre Rios
 BA Esplanada
 BA Euclides da Cunha
-BA Eunï¿½polis
-BA Fï¿½tima
+BA Eunápolis
+BA Fátima
 BA Feira da Mata
 BA Feira de Santana
-BA Filadï¿½lfia
+BA Filadélfia
 BA Firmino Alves
 BA Floresta Azul
 BA Formosa do Rio Preto
 BA Gandu
-BA Gaviï¿½o
+BA Gavião
 BA Gentio do Ouro
-BA Glï¿½ria
+BA Glória
 BA Gongogi
 BA Governador Mangabeira
 BA Guajeru
 BA Guanambi
 BA Guaratinga
-BA Heliï¿½polis
-BA Iaï¿½u
-BA Ibiassucï¿½
-BA Ibicaraï¿½
+BA Heliópolis
+BA Iaçu
+BA Ibiassucê
+BA Ibicaraí
 BA Ibicoara
-BA Ibicuï¿½
+BA Ibicuí
 BA Ibipeba
 BA Ibipitanga
 BA Ibiquera
 BA Ibirapitanga
-BA Ibirapuï¿½
+BA Ibirapuã
 BA Ibirataia
 BA Ibitiara
-BA Ibititï¿½
+BA Ibititá
 BA Ibotirama
 BA Ichu
-BA Igaporï¿½
-BA Igrapiï¿½na
-BA Iguaï¿½
-BA Ilhï¿½us
+BA Igaporã
+BA Igrapiúna
+BA Iguaí
+BA Ilhéus
 BA Inhambupe
-BA Ipecaetï¿½
-BA Ipiaï¿½
-BA Ipirï¿½
+BA Ipecaetá
+BA Ipiaú
+BA Ipirá
 BA Ipupiara
 BA Irajuba
 BA Iramaia
 BA Iraquara
-BA Irarï¿½
-BA Irecï¿½
+BA Irará
+BA Irecê
 BA Itabela
 BA Itaberaba
 BA Itabuna
-BA Itacarï¿½
-BA Itaetï¿½
+BA Itacaré
+BA Itaeté
 BA Itagi
-BA Itagibï¿½
+BA Itagibá
 BA Itagimirim
-BA Itaguaï¿½u da Bahia
-BA Itaju do Colï¿½nia
-BA Itajuï¿½pe
+BA Itaguaçu da Bahia
+BA Itaju do Colônia
+BA Itajuípe
 BA Itamaraju
 BA Itamari
-BA Itambï¿½
+BA Itambé
 BA Itanagra
-BA Itanhï¿½m
+BA Itanhém
 BA Itaparica
-BA Itapï¿½
+BA Itapé
 BA Itapebi
 BA Itapetinga
 BA Itapicuru
@@ -2024,46 +2024,46 @@ BA Itapitanga
 BA Itaquara
 BA Itarantim
 BA Itatim
-BA Itiruï¿½u
-BA Itiï¿½ba
-BA Itororï¿½
-BA Ituaï¿½u
-BA Ituberï¿½
-BA Iuiï¿½
+BA Itiruçu
+BA Itiúba
+BA Itororó
+BA Ituaçu
+BA Ituberá
+BA Iuiú
 BA Jaborandi
 BA Jacaraci
 BA Jacobina
 BA Jaguaquara
 BA Jaguarari
 BA Jaguaripe
-BA Jandaï¿½ra
-BA Jequiï¿½
+BA Jandaíra
+BA Jequié
 BA Jeremoabo
-BA Jiquiriï¿½ï¿½
-BA Jitaï¿½na
-BA Joï¿½o Dourado
+BA Jiquiriçá
+BA Jitaúna
+BA João Dourado
 BA Juazeiro
-BA Jucuruï¿½u
+BA Jucuruçu
 BA Jussara
 BA Jussari
 BA Jussiape
 BA Lafaiete Coutinho
 BA Lagoa Real
 BA Laje
-BA Lajedï¿½o
+BA Lajedão
 BA Lajedinho
 BA Lajedo do Tabocal
-BA Lamarï¿½o
-BA Lapï¿½o
+BA Lamarão
+BA Lapão
 BA Lauro de Freitas
-BA Lenï¿½ï¿½is
-BA Licï¿½nio de Almeida
+BA Lençóis
+BA Licínio de Almeida
 BA Livramento de Nossa Senhora
-BA Luï¿½s Eduardo Magalhï¿½es
+BA Luís Eduardo Magalhães
 BA Macajuba
 BA Macarani
-BA Macaï¿½bas
-BA Macururï¿½
+BA Macaúbas
+BA Macururé
 BA Madre de Deus
 BA Maetinga
 BA Maiquinique
@@ -2071,13 +2071,13 @@ BA Mairi
 BA Malhada
 BA Malhada de Pedras
 BA Manoel Vitorino
-BA Mansidï¿½o
-BA Maracï¿½s
+BA Mansidão
+BA Maracás
 BA Maragogipe
-BA Maraï¿½
-BA Marcionï¿½lio Souza
+BA Maraú
+BA Marcionílio Souza
 BA Mascote
-BA Mata de Sï¿½o Joï¿½o
+BA Mata de São João
 BA Matina
 BA Medeiros Neto
 BA Miguel Calmon
@@ -2085,33 +2085,33 @@ BA Milagres
 BA Mirangaba
 BA Mirante
 BA Monte Santo
-BA Morparï¿½
-BA Morro do Chapï¿½u
+BA Morpará
+BA Morro do Chapéu
 BA Mortugaba
-BA Mucugï¿½
+BA Mucugê
 BA Mucuri
 BA Mulungu do Morro
 BA Mundo Novo
 BA Muniz Ferreira
-BA Muquï¿½m de Sï¿½o Francisco
+BA Muquém de São Francisco
 BA Muritiba
-BA Mutuï¿½pe
-BA Nazarï¿½
-BA Nilo Peï¿½anha
+BA Mutuípe
+BA Nazaré
+BA Nilo Peçanha
 BA Nordestina
-BA Nova Canaï¿½
-BA Nova Fï¿½tima
-BA Nova Ibiï¿½
+BA Nova Canaã
+BA Nova Fátima
+BA Nova Ibiá
 BA Nova Itarana
-BA Nova Redenï¿½ï¿½o
+BA Nova Redenção
 BA Nova Soure
-BA Nova Viï¿½osa
+BA Nova Viçosa
 BA Novo Horizonte
 BA Novo Triunfo
 BA Olindina
 BA Oliveira dos Brejinhos
-BA Ouriï¿½angas
-BA Ourolï¿½ndia
+BA Ouriçangas
+BA Ourolândia
 BA Palmas de Monte Alto
 BA Palmeiras
 BA Paramirim
@@ -2119,173 +2119,173 @@ BA Paratinga
 BA Paripiranga
 BA Pau Brasil
 BA Paulo Afonso
-BA Pï¿½ de Serra
-BA Pedrï¿½o
+BA Pé de Serra
+BA Pedrão
 BA Pedro Alexandre
-BA Piatï¿½
-BA Pilï¿½o Arcado
-BA Pindaï¿½
-BA Pindobaï¿½u
+BA Piatã
+BA Pilão Arcado
+BA Pindaí
+BA Pindobaçu
 BA Pintadas
-BA Piraï¿½ do Norte
-BA Piripï¿½
+BA Piraí do Norte
+BA Piripá
 BA Piritiba
 BA Planaltino
 BA Planalto
-BA Poï¿½ï¿½es
+BA Poções
 BA Pojuca
 BA Ponto Novo
 BA Porto Seguro
-BA Potiraguï¿½
+BA Potiraguá
 BA Prado
 BA Presidente Dutra
-BA Presidente Jï¿½nio Quadros
+BA Presidente Jânio Quadros
 BA Presidente Tancredo Neves
 BA Queimadas
 BA Quijingue
 BA Quixabeira
 BA Rafael Jambeiro
 BA Remanso
-BA Retirolï¿½ndia
-BA Riachï¿½o das Neves
-BA Riachï¿½o do Jacuï¿½pe
+BA Retirolândia
+BA Riachão das Neves
+BA Riachão do Jacuípe
 BA Riacho de Santana
 BA Ribeira do Amparo
 BA Ribeira do Pombal
-BA Ribeirï¿½o do Largo
+BA Ribeirão do Largo
 BA Rio de Contas
-BA Rio do Antï¿½nio
+BA Rio do Antônio
 BA Rio do Pires
 BA Rio Real
 BA Rodelas
 BA Ruy Barbosa
 BA Salinas da Margarida
 BA Salvador
-BA Santa Bï¿½rbara
-BA Santa Brï¿½gida
-BA Santa Cruz Cabrï¿½lia
-BA Santa Cruz da Vitï¿½ria
-BA Santa Inï¿½s
+BA Santa Bárbara
+BA Santa Brígida
+BA Santa Cruz Cabrália
+BA Santa Cruz da Vitória
+BA Santa Inês
 BA Santaluz
 BA Santa Luzia
-BA Santa Maria da Vitï¿½ria
+BA Santa Maria da Vitória
 BA Santana
-BA Santanï¿½polis
-BA Santa Rita de Cï¿½ssia
+BA Santanópolis
+BA Santa Rita de Cássia
 BA Santa Teresinha
 BA Santo Amaro
-BA Santo Antï¿½nio de Jesus
-BA Santo Estï¿½vï¿½o
-BA Sï¿½o Desidï¿½rio
-BA Sï¿½o Domingos
-BA Sï¿½o Fï¿½lix
-BA Sï¿½o Fï¿½lix do Coribe
-BA Sï¿½o Felipe
-BA Sï¿½o Francisco do Conde
-BA Sï¿½o Gabriel
-BA Sï¿½o Gonï¿½alo dos Campos
-BA Sï¿½o Josï¿½ da Vitï¿½ria
-BA Sï¿½o Josï¿½ do Jacuï¿½pe
-BA Sï¿½o Miguel das Matas
-BA Sï¿½o Sebastiï¿½o do Passï¿½
-BA Sapeaï¿½u
-BA Sï¿½tiro Dias
+BA Santo Antônio de Jesus
+BA Santo Estêvão
+BA São Desidério
+BA São Domingos
+BA São Félix
+BA São Félix do Coribe
+BA São Felipe
+BA São Francisco do Conde
+BA São Gabriel
+BA São Gonçalo dos Campos
+BA São José da Vitória
+BA São José do Jacuípe
+BA São Miguel das Matas
+BA São Sebastião do Passé
+BA Sapeaçu
+BA Sátiro Dias
 BA Saubara
-BA Saï¿½de
+BA Saúde
 BA Seabra
-BA Sebastiï¿½o Laranjeiras
+BA Sebastião Laranjeiras
 BA Senhor do Bonfim
 BA Serra do Ramalho
-BA Sento Sï¿½
+BA Sento Sé
 BA Serra Dourada
 BA Serra Preta
 BA Serrinha
-BA Serrolï¿½ndia
-BA Simï¿½es Filho
-BA Sï¿½tio do Mato
-BA Sï¿½tio do Quinto
+BA Serrolândia
+BA Simões Filho
+BA Sítio do Mato
+BA Sítio do Quinto
 BA Sobradinho
 BA Souto Soares
 BA Tabocas do Brejo Velho
-BA Tanhaï¿½u
+BA Tanhaçu
 BA Tanque Novo
 BA Tanquinho
-BA Taperoï¿½
-BA Tapiramutï¿½
+BA Taperoá
+BA Tapiramutá
 BA Teixeira de Freitas
 BA Teodoro Sampaio
-BA Teofilï¿½ndia
-BA Teolï¿½ndia
+BA Teofilândia
+BA Teolândia
 BA Terra Nova
 BA Tremedal
 BA Tucano
-BA Uauï¿½
-BA Ubaï¿½ra
+BA Uauá
+BA Ubaíra
 BA Ubaitaba
-BA Ubatï¿½
-BA Uibaï¿½
+BA Ubatã
+BA Uibaí
 BA Umburanas
 BA Una
 BA Urandi
-BA Uruï¿½uca
+BA Uruçuca
 BA Utinga
-BA Valenï¿½a
+BA Valença
 BA Valente
-BA Vï¿½rzea da Roï¿½a
-BA Vï¿½rzea do Poï¿½o
-BA Vï¿½rzea Nova
+BA Várzea da Roça
+BA Várzea do Poço
+BA Várzea Nova
 BA Varzedo
 BA Vera Cruz
 BA Vereda
-BA Vitï¿½ria da Conquista
+BA Vitória da Conquista
 BA Wagner
 BA Wanderley
-BA Wenceslau Guimarï¿½es
+BA Wenceslau Guimarães
 BA Xique-Xique
 MG Abadia dos Dourados
-MG Abaetï¿½
+MG Abaeté
 MG Abre Campo
 MG Acaiaca
-MG Aï¿½ucena
-MG ï¿½gua Boa
-MG ï¿½gua Comprida
+MG Açucena
+MG Água Boa
+MG Água Comprida
 MG Aguanil
-MG ï¿½guas Formosas
-MG ï¿½guas Vermelhas
-MG Aimorï¿½s
+MG Águas Formosas
+MG Águas Vermelhas
+MG Aimorés
 MG Aiuruoca
 MG Alagoa
 MG Albertina
-MG Alï¿½m Paraï¿½ba
+MG Além Paraíba
 MG Alfenas
 MG Alfredo Vasconcelos
 MG Almenara
 MG Alpercata
-MG Alpinï¿½polis
+MG Alpinópolis
 MG Alterosa
-MG Alto Caparaï¿½
+MG Alto Caparaó
 MG Alto Rio Doce
 MG Alvarenga
-MG Alvinï¿½polis
+MG Alvinópolis
 MG Alvorada de Minas
 MG Amparo do Serra
 MG Andradas
-MG Cachoeira de Pajeï¿½
-MG Andrelï¿½ndia
-MG Angelï¿½ndia
-MG Antï¿½nio Carlos
-MG Antï¿½nio Dias
-MG Antï¿½nio Prado de Minas
-MG Araï¿½aï¿½
+MG Cachoeira de Pajeú
+MG Andrelândia
+MG Angelândia
+MG Antônio Carlos
+MG Antônio Dias
+MG Antônio Prado de Minas
+MG Araçaí
 MG Aracitaba
-MG Araï¿½uaï¿½
+MG Araçuaí
 MG Araguari
 MG Arantina
 MG Araponga
-MG Araporï¿½
-MG Arapuï¿½
-MG Araï¿½jos
-MG Araxï¿½
+MG Araporã
+MG Arapuá
+MG Araújos
+MG Araxá
 MG Arceburgo
 MG Arcos
 MG Areado
@@ -2293,15 +2293,15 @@ MG Argirita
 MG Aricanduva
 MG Arinos
 MG Astolfo Dutra
-MG Atalï¿½ia
+MG Ataléia
 MG Augusto de Lima
 MG Baependi
 MG Baldim
-MG Bambuï¿½
+MG Bambuí
 MG Bandeira
 MG Bandeira do Sul
-MG Barï¿½o de Cocais
-MG Barï¿½o de Monte Alto
+MG Barão de Cocais
+MG Barão de Monte Alto
 MG Barbacena
 MG Barra Longa
 MG Barroso
@@ -2311,15 +2311,15 @@ MG Belo Horizonte
 MG Belo Oriente
 MG Belo Vale
 MG Berilo
-MG Bertï¿½polis
+MG Bertópolis
 MG Berizal
 MG Betim
 MG Bias Fortes
 MG Bicas
 MG Biquinhas
-MG Boa Esperanï¿½a
+MG Boa Esperança
 MG Bocaina de Minas
-MG Bocaiï¿½va
+MG Bocaiúva
 MG Bom Despacho
 MG Bom Jardim de Minas
 MG Bom Jesus da Penha
@@ -2328,19 +2328,19 @@ MG Bom Jesus do Galho
 MG Bom Repouso
 MG Bom Sucesso
 MG Bonfim
-MG Bonfinï¿½polis de Minas
+MG Bonfinópolis de Minas
 MG Bonito de Minas
 MG Borda da Mata
 MG Botelhos
 MG Botumirim
-MG Brasilï¿½ndia de Minas
-MG Brasï¿½lia de Minas
-MG Brï¿½s Pires
-MG Braï¿½nas
-MG Brazï¿½polis
+MG Brasilândia de Minas
+MG Brasília de Minas
+MG Brás Pires
+MG Braúnas
+MG Brazópolis
 MG Brumadinho
-MG Bueno Brandï¿½o
-MG Buenï¿½polis
+MG Bueno Brandão
+MG Buenópolis
 MG Bugre
 MG Buritis
 MG Buritizeiro
@@ -2349,16 +2349,16 @@ MG Cabo Verde
 MG Cachoeira da Prata
 MG Cachoeira de Minas
 MG Cachoeira Dourada
-MG Caetanï¿½polis
-MG Caetï¿½
+MG Caetanópolis
+MG Caeté
 MG Caiana
 MG Cajuri
 MG Caldas
 MG Camacho
 MG Camanducaia
-MG Cambuï¿½
+MG Cambuí
 MG Cambuquira
-MG Campanï¿½rio
+MG Campanário
 MG Campanha
 MG Campestre
 MG Campina Verde
@@ -2368,76 +2368,76 @@ MG Campo do Meio
 MG Campo Florido
 MG Campos Altos
 MG Campos Gerais
-MG Canaï¿½
-MG Canï¿½polis
+MG Canaã
+MG Canápolis
 MG Cana Verde
 MG Candeias
 MG Cantagalo
-MG Caparaï¿½
+MG Caparaó
 MG Capela Nova
 MG Capelinha
 MG Capetinga
 MG Capim Branco
-MG Capinï¿½polis
-MG Capitï¿½o Andrade
-MG Capitï¿½o Enï¿½as
-MG Capitï¿½lio
+MG Capinópolis
+MG Capitão Andrade
+MG Capitão Enéas
+MG Capitólio
 MG Caputira
-MG Caraï¿½
-MG Caranaï¿½ba
-MG Carandaï¿½
+MG Caraí
+MG Caranaíba
+MG Carandaí
 MG Carangola
 MG Caratinga
 MG Carbonita
-MG Careaï¿½u
+MG Careaçu
 MG Carlos Chagas
-MG Carmï¿½sia
+MG Carmésia
 MG Carmo da Cachoeira
 MG Carmo da Mata
 MG Carmo de Minas
 MG Carmo do Cajuru
-MG Carmo do Paranaï¿½ba
+MG Carmo do Paranaíba
 MG Carmo do Rio Claro
-MG Carmï¿½polis de Minas
+MG Carmópolis de Minas
 MG Carneirinho
 MG Carrancas
-MG Carvalhï¿½polis
+MG Carvalhópolis
 MG Carvalhos
 MG Casa Grande
 MG Cascalho Rico
-MG Cï¿½ssia
-MG Conceiï¿½ï¿½o da Barra de Minas
+MG Cássia
+MG Conceição da Barra de Minas
 MG Cataguases
 MG Catas Altas
 MG Catas Altas da Noruega
 MG Catuji
 MG Catuti
 MG Caxambu
-MG Cedro do Abaetï¿½
+MG Cedro do Abaeté
 MG Central de Minas
 MG Centralina
-MG Chï¿½cara
-MG Chalï¿½
+MG Chácara
+MG Chalé
 MG Chapada do Norte
-MG Chapada Gaï¿½cha
+MG Chapada Gaúcha
 MG Chiador
-MG Cipotï¿½nea
+MG Cipotânea
 MG Claraval
-MG Claro dos Poï¿½ï¿½es
-MG Clï¿½udio
+MG Claro dos Poções
+MG Cláudio
 MG Coimbra
 MG Coluna
 MG Comendador Gomes
 MG Comercinho
-MG Conceiï¿½ï¿½o da Aparecida
-MG Conceiï¿½ï¿½o das Pedras
-MG Conceiï¿½ï¿½o das Alagoas
-MG Conceiï¿½ï¿½o de Ipanema
-MG Conceiï¿½ï¿½o do Mato Dentro
-MG Conceiï¿½ï¿½o do Parï¿½
-MG Conceiï¿½ï¿½o do Rio Verde
-MG Conceiï¿½ï¿½o dos Ouros
-MG Cï¿½nego Marinho
+MG Conceição da Aparecida
+MG Conceição das Pedras
+MG Conceição das Alagoas
+MG Conceição de Ipanema
+MG Conceição do Mato Dentro
+MG Conceição do Pará
+MG Conceição do Rio Verde
+MG Conceição dos Ouros
+MG Cônego Marinho
 MG Confins
 MG Congonhal
 MG Congonhas
@@ -2445,12 +2445,12 @@ MG Congonhas do Norte
 MG Conquista
 MG Conselheiro Lafaiete
 MG Conselheiro Pena
-MG Consolaï¿½ï¿½o
+MG Consolação
 MG Contagem
 MG Coqueiral
-MG Coraï¿½ï¿½o de Jesus
+MG Coração de Jesus
 MG Cordisburgo
-MG Cordislï¿½ndia
+MG Cordislândia
 MG Corinto
 MG Coroaci
 MG Coromandel
@@ -2458,76 +2458,76 @@ MG Coronel Fabriciano
 MG Coronel Murta
 MG Coronel Pacheco
 MG Coronel Xavier Chaves
-MG Cï¿½rrego Danta
-MG Cï¿½rrego do Bom Jesus
-MG Cï¿½rrego Fundo
-MG Cï¿½rrego Novo
-MG Couto de Magalhï¿½es de Minas
-MG Crisï¿½lita
+MG Córrego Danta
+MG Córrego do Bom Jesus
+MG Córrego Fundo
+MG Córrego Novo
+MG Couto de Magalhães de Minas
+MG Crisólita
 MG Cristais
-MG Cristï¿½lia
+MG Cristália
 MG Cristiano Otoni
 MG Cristina
-MG Crucilï¿½ndia
+MG Crucilândia
 MG Cruzeiro da Fortaleza
-MG Cruzï¿½lia
+MG Cruzília
 MG Cuparaque
 MG Curral de Dentro
 MG Curvelo
 MG Datas
 MG Delfim Moreira
-MG Delfinï¿½polis
+MG Delfinópolis
 MG Delta
 MG Descoberto
 MG Desterro de Entre Rios
 MG Desterro do Melo
 MG Diamantina
 MG Diogo de Vasconcelos
-MG Dionï¿½sio
-MG Divinï¿½sia
+MG Dionísio
+MG Divinésia
 MG Divino
 MG Divino das Laranjeiras
-MG Divinolï¿½ndia de Minas
-MG Divinï¿½polis
+MG Divinolândia de Minas
+MG Divinópolis
 MG Divisa Alegre
 MG Divisa Nova
-MG Divisï¿½polis
+MG Divisópolis
 MG Dom Bosco
 MG Dom Cavati
 MG Dom Joaquim
-MG Dom Silvï¿½rio
-MG Dom Viï¿½oso
-MG Dona Eusï¿½bia
+MG Dom Silvério
+MG Dom Viçoso
+MG Dona Eusébia
 MG Dores de Campos
-MG Dores de Guanhï¿½es
-MG Dores do Indaiï¿½
+MG Dores de Guanhães
+MG Dores do Indaiá
 MG Dores do Turvo
-MG Doresï¿½polis
+MG Doresópolis
 MG Douradoquara
-MG Durandï¿½
-MG Elï¿½i Mendes
+MG Durandé
+MG Elói Mendes
 MG Engenheiro Caldas
 MG Engenheiro Navarro
 MG Entre Folhas
 MG Entre Rios de Minas
-MG Ervï¿½lia
+MG Ervália
 MG Esmeraldas
 MG Espera Feliz
 MG Espinosa
-MG Espï¿½rito Santo do Dourado
+MG Espírito Santo do Dourado
 MG Estiva
 MG Estrela Dalva
-MG Estrela do Indaiï¿½
+MG Estrela do Indaiá
 MG Estrela do Sul
-MG Eugenï¿½polis
-MG Ewbank da Cï¿½mara
+MG Eugenópolis
+MG Ewbank da Câmara
 MG Extrema
 MG Fama
 MG Faria Lemos
-MG Felï¿½cio dos Santos
-MG Sï¿½o Gonï¿½alo do Rio Preto
+MG Felício dos Santos
+MG São Gonçalo do Rio Preto
 MG Felisburgo
-MG Felixlï¿½ndia
+MG Felixlândia
 MG Fernandes Tourinho
 MG Ferros
 MG Fervedouro
@@ -2536,84 +2536,84 @@ MG Formiga
 MG Formoso
 MG Fortaleza de Minas
 MG Fortuna de Minas
-MG Francisco Badarï¿½
+MG Francisco Badaró
 MG Francisco Dumont
-MG Francisco Sï¿½
-MG Franciscï¿½polis
+MG Francisco Sá
+MG Franciscópolis
 MG Frei Gaspar
-MG Frei Inocï¿½ncio
+MG Frei Inocêncio
 MG Frei Lagonegro
 MG Fronteira
 MG Fronteira dos Vales
 MG Fruta de Leite
 MG Frutal
-MG Funilï¿½ndia
-MG Galilï¿½ia
+MG Funilândia
+MG Galiléia
 MG Gameleiras
-MG Glaucilï¿½ndia
+MG Glaucilândia
 MG Goiabeira
-MG Goianï¿½
-MG Gonï¿½alves
+MG Goianá
+MG Gonçalves
 MG Gonzaga
 MG Gouveia
 MG Governador Valadares
-MG Grï¿½o Mogol
+MG Grão Mogol
 MG Grupiara
-MG Guanhï¿½es
-MG Guapï¿½
+MG Guanhães
+MG Guapé
 MG Guaraciaba
 MG Guaraciama
-MG Guaranï¿½sia
+MG Guaranésia
 MG Guarani
-MG Guararï¿½
+MG Guarará
 MG Guarda-Mor
-MG Guaxupï¿½
+MG Guaxupé
 MG Guidoval
-MG Guimarï¿½nia
+MG Guimarânia
 MG Guiricema
-MG Gurinhatï¿½
+MG Gurinhatã
 MG Heliodora
 MG Iapu
 MG Ibertioga
-MG Ibiï¿½
-MG Ibiaï¿½
+MG Ibiá
+MG Ibiaí
 MG Ibiracatu
 MG Ibiraci
-MG Ibiritï¿½
-MG Ibitiï¿½ra de Minas
+MG Ibirité
+MG Ibitiúra de Minas
 MG Ibituruna
-MG Icaraï¿½ de Minas
-MG Igarapï¿½
+MG Icaraí de Minas
+MG Igarapé
 MG Igaratinga
 MG Iguatama
 MG Ijaci
-MG Ilicï¿½nea
-MG Imbï¿½ de Minas
+MG Ilicínea
+MG Imbé de Minas
 MG Inconfidentes
 MG Indaiabira
-MG Indianï¿½polis
-MG Ingaï¿½
+MG Indianópolis
+MG Ingaí
 MG Inhapim
-MG Inhaï¿½ma
+MG Inhaúma
 MG Inimutaba
 MG Ipaba
 MG Ipanema
 MG Ipatinga
-MG Ipiaï¿½u
-MG Ipuiï¿½na
-MG Iraï¿½ de Minas
+MG Ipiaçu
+MG Ipuiúna
+MG Iraí de Minas
 MG Itabira
 MG Itabirinha
 MG Itabirito
 MG Itacambira
 MG Itacarambi
 MG Itaguara
-MG Itaipï¿½
-MG Itajubï¿½
+MG Itaipé
+MG Itajubá
 MG Itamarandiba
 MG Itamarati de Minas
 MG Itambacuri
-MG Itambï¿½ do Mato Dentro
+MG Itambé do Mato Dentro
 MG Itamogi
 MG Itamonte
 MG Itanhandu
@@ -2622,9 +2622,9 @@ MG Itaobim
 MG Itapagipe
 MG Itapecerica
 MG Itapeva
-MG Itatiaiuï¿½u
-MG Itaï¿½ de Minas
-MG Itaï¿½na
+MG Itatiaiuçu
+MG Itaú de Minas
+MG Itaúna
 MG Itaverava
 MG Itinga
 MG Itueta
@@ -2634,37 +2634,37 @@ MG Iturama
 MG Itutinga
 MG Jaboticatubas
 MG Jacinto
-MG Jacuï¿½
+MG Jacuí
 MG Jacutinga
-MG Jaguaraï¿½u
-MG Jaï¿½ba
+MG Jaguaraçu
+MG Jaíba
 MG Jampruca
-MG Janaï¿½ba
-MG Januï¿½ria
-MG Japaraï¿½ba
+MG Janaúba
+MG Januária
+MG Japaraíba
 MG Japonvar
 MG Jeceaba
 MG Jenipapo de Minas
 MG Jequeri
-MG Jequitaï¿½
-MG Jequitibï¿½
+MG Jequitaí
+MG Jequitibá
 MG Jequitinhonha
-MG Jesuï¿½nia
-MG Joaï¿½ma
-MG Joanï¿½sia
-MG Joï¿½o Monlevade
-MG Joï¿½o Pinheiro
-MG Joaquim Felï¿½cio
-MG Jordï¿½nia
-MG Josï¿½ Gonï¿½alves de Minas
-MG Josï¿½ Raydan
-MG Josenï¿½polis
-MG Nova Uniï¿½o
+MG Jesuânia
+MG Joaíma
+MG Joanésia
+MG João Monlevade
+MG João Pinheiro
+MG Joaquim Felício
+MG Jordânia
+MG José Gonçalves de Minas
+MG José Raydan
+MG Josenópolis
+MG Nova União
 MG Juatuba
 MG Juiz de Fora
 MG Juramento
 MG Juruaia
-MG Juvenï¿½lia
+MG Juvenília
 MG Ladainha
 MG Lagamar
 MG Lagoa da Prata
@@ -2687,8 +2687,8 @@ MG Lima Duarte
 MG Limeira do Oeste
 MG Lontra
 MG Luisburgo
-MG Luislï¿½ndia
-MG Luminï¿½rias
+MG Luislândia
+MG Luminárias
 MG Luz
 MG Machacalis
 MG Machado
@@ -2696,45 +2696,45 @@ MG Madre de Deus de Minas
 MG Malacacheta
 MG Mamonas
 MG Manga
-MG Manhuaï¿½u
+MG Manhuaçu
 MG Manhumirim
 MG Mantena
 MG Maravilhas
 MG Mar de Espanha
-MG Maria da Fï¿½
+MG Maria da Fé
 MG Mariana
 MG Marilac
-MG Mï¿½rio Campos
-MG Maripï¿½ de Minas
-MG Marliï¿½ria
-MG Marmelï¿½polis
+MG Mário Campos
+MG Maripá de Minas
+MG Marliéria
+MG Marmelópolis
 MG Martinho Campos
 MG Martins Soares
 MG Mata Verde
-MG Materlï¿½ndia
+MG Materlândia
 MG Mateus Leme
 MG Matias Barbosa
 MG Matias Cardoso
-MG Matipï¿½
+MG Matipó
 MG Mato Verde
 MG Matozinhos
 MG Matutina
 MG Medeiros
 MG Medina
 MG Mendes Pimentel
-MG Mercï¿½s
+MG Mercês
 MG Mesquita
 MG Minas Novas
 MG Minduri
 MG Mirabela
 MG Miradouro
-MG Miraï¿½
-MG Miravï¿½nia
+MG Miraí
+MG Miravânia
 MG Moeda
 MG Moema
 MG Monjolos
 MG Monsenhor Paulo
-MG Montalvï¿½nia
+MG Montalvânia
 MG Monte Alegre de Minas
 MG Monte Azul
 MG Monte Belo
@@ -2742,27 +2742,27 @@ MG Monte Carmelo
 MG Monte Formoso
 MG Monte Santo de Minas
 MG Montes Claros
-MG Monte Siï¿½o
+MG Monte Sião
 MG Montezuma
 MG Morada Nova de Minas
-MG Morro da Garï¿½a
+MG Morro da Garça
 MG Morro do Pilar
 MG Munhoz
-MG Muriaï¿½
+MG Muriaé
 MG Mutum
 MG Muzambinho
 MG Nacip Raydan
 MG Nanuque
 MG Naque
-MG Natalï¿½ndia
-MG Natï¿½rcia
+MG Natalândia
+MG Natércia
 MG Nazareno
 MG Nepomuceno
 MG Ninheira
-MG Nova Belï¿½m
+MG Nova Belém
 MG Nova Era
 MG Nova Lima
-MG Nova Mï¿½dica
+MG Nova Módica
 MG Nova Ponte
 MG Nova Porteirinha
 MG Nova Resende
@@ -2771,59 +2771,59 @@ MG Novo Cruzeiro
 MG Novo Oriente de Minas
 MG Novorizonte
 MG Olaria
-MG Olhos-d'ï¿½gua
-MG Olï¿½mpio Noronha
+MG Olhos-d'Água
+MG Olímpio Noronha
 MG Oliveira
 MG Oliveira Fortes
-MG Onï¿½a de Pitangui
-MG Oratï¿½rios
-MG Orizï¿½nia
+MG Onça de Pitangui
+MG Oratórios
+MG Orizânia
 MG Ouro Branco
 MG Ouro Fino
 MG Ouro Preto
 MG Ouro Verde de Minas
 MG Padre Carvalho
-MG Padre Paraï¿½so
+MG Padre Paraíso
 MG Paineiras
 MG Pains
 MG Pai Pedro
 MG Paiva
 MG Palma
-MG Palmï¿½polis
+MG Palmópolis
 MG Papagaios
 MG Paracatu
-MG Parï¿½ de Minas
-MG Paraguaï¿½u
-MG Paraisï¿½polis
+MG Pará de Minas
+MG Paraguaçu
+MG Paraisópolis
 MG Paraopeba
-MG Passabï¿½m
+MG Passabém
 MG Passa Quatro
 MG Passa Tempo
 MG Passa-Vinte
 MG Passos
 MG Patis
 MG Patos de Minas
-MG Patrocï¿½nio
-MG Patrocï¿½nio do Muriaï¿½
-MG Paula Cï¿½ndido
+MG Patrocínio
+MG Patrocínio do Muriaé
+MG Paula Cândido
 MG Paulistas
-MG Pavï¿½o
-MG Peï¿½anha
+MG Pavão
+MG Peçanha
 MG Pedra Azul
 MG Pedra Bonita
 MG Pedra do Anta
-MG Pedra do Indaiï¿½
+MG Pedra do Indaiá
 MG Pedra Dourada
 MG Pedralva
 MG Pedras de Maria da Cruz
-MG Pedrinï¿½polis
+MG Pedrinópolis
 MG Pedro Leopoldo
 MG Pedro Teixeira
 MG Pequeri
 MG Pequi
-MG Perdigï¿½o
+MG Perdigão
 MG Perdizes
-MG Perdï¿½es
+MG Perdões
 MG Periquito
 MG Pescador
 MG Piau
@@ -2832,40 +2832,40 @@ MG Piedade de Ponte Nova
 MG Piedade do Rio Grande
 MG Piedade dos Gerais
 MG Pimenta
-MG Pingo-d'ï¿½gua
-MG Pintï¿½polis
+MG Pingo-d'Água
+MG Pintópolis
 MG Piracema
 MG Pirajuba
 MG Piranga
-MG Piranguï¿½u
+MG Piranguçu
 MG Piranguinho
 MG Pirapetinga
 MG Pirapora
-MG Piraï¿½ba
+MG Piraúba
 MG Pitangui
 MG Piumhi
 MG Planura
-MG Poï¿½o Fundo
-MG Poï¿½os de Caldas
+MG Poço Fundo
+MG Poços de Caldas
 MG Pocrane
-MG Pompï¿½u
+MG Pompéu
 MG Ponte Nova
 MG Ponto Chique
 MG Ponto dos Volantes
 MG Porteirinha
 MG Porto Firme
-MG Potï¿½
+MG Poté
 MG Pouso Alegre
 MG Pouso Alto
 MG Prados
 MG Prata
-MG Pratï¿½polis
+MG Pratápolis
 MG Pratinha
 MG Presidente Bernardes
 MG Presidente Juscelino
 MG Presidente Kubitschek
-MG Presidente Olegï¿½rio
-MG Alto Jequitibï¿½
+MG Presidente Olegário
+MG Alto Jequitibá
 MG Prudente de Morais
 MG Quartel Geral
 MG Queluzito
@@ -2878,8 +2878,8 @@ MG Resplendor
 MG Ressaquinha
 MG Riachinho
 MG Riacho dos Machados
-MG Ribeirï¿½o das Neves
-MG Ribeirï¿½o Vermelho
+MG Ribeirão das Neves
+MG Ribeirão Vermelho
 MG Rio Acima
 MG Rio Casca
 MG Rio Doce
@@ -2887,48 +2887,48 @@ MG Rio do Prado
 MG Rio Espera
 MG Rio Manso
 MG Rio Novo
-MG Rio Paranaï¿½ba
+MG Rio Paranaíba
 MG Rio Pardo de Minas
 MG Rio Piracicaba
 MG Rio Pomba
 MG Rio Preto
 MG Rio Vermelho
-MG Ritï¿½polis
+MG Ritápolis
 MG Rochedo de Minas
 MG Rodeiro
 MG Romaria
-MG Rosï¿½rio da Limeira
+MG Rosário da Limeira
 MG Rubelita
 MG Rubim
-MG Sabarï¿½
-MG Sabinï¿½polis
+MG Sabará
+MG Sabinópolis
 MG Sacramento
 MG Salinas
 MG Salto da Divisa
-MG Santa Bï¿½rbara
-MG Santa Bï¿½rbara do Leste
-MG Santa Bï¿½rbara do Monte Verde
-MG Santa Bï¿½rbara do Tugï¿½rio
+MG Santa Bárbara
+MG Santa Bárbara do Leste
+MG Santa Bárbara do Monte Verde
+MG Santa Bárbara do Tugúrio
 MG Santa Cruz de Minas
 MG Santa Cruz de Salinas
 MG Santa Cruz do Escalvado
-MG Santa Efigï¿½nia de Minas
-MG Santa Fï¿½ de Minas
+MG Santa Efigênia de Minas
+MG Santa Fé de Minas
 MG Santa Helena de Minas
 MG Santa Juliana
 MG Santa Luzia
 MG Santa Margarida
 MG Santa Maria de Itabira
 MG Santa Maria do Salto
-MG Santa Maria do Suaï¿½uï¿½
+MG Santa Maria do Suaçuí
 MG Santana da Vargem
 MG Santana de Cataguases
 MG Santana de Pirapama
 MG Santana do Deserto
-MG Santana do Garambï¿½u
-MG Santana do Jacarï¿½
-MG Santana do Manhuaï¿½u
-MG Santana do Paraï¿½so
+MG Santana do Garambéu
+MG Santana do Jacaré
+MG Santana do Manhuaçu
+MG Santana do Paraíso
 MG Santana do Riacho
 MG Santana dos Montes
 MG Santa Rita de Caldas
@@ -2936,250 +2936,250 @@ MG Santa Rita de Jacutinga
 MG Santa Rita de Minas
 MG Santa Rita de Ibitipoca
 MG Santa Rita do Itueto
-MG Santa Rita do Sapucaï¿½
+MG Santa Rita do Sapucaí
 MG Santa Rosa da Serra
-MG Santa Vitï¿½ria
-MG Santo Antï¿½nio do Amparo
-MG Santo Antï¿½nio do Aventureiro
-MG Santo Antï¿½nio do Grama
-MG Santo Antï¿½nio do Itambï¿½
-MG Santo Antï¿½nio do Jacinto
-MG Santo Antï¿½nio do Monte
-MG Santo Antï¿½nio do Retiro
-MG Santo Antï¿½nio do Rio Abaixo
-MG Santo Hipï¿½lito
+MG Santa Vitória
+MG Santo Antônio do Amparo
+MG Santo Antônio do Aventureiro
+MG Santo Antônio do Grama
+MG Santo Antônio do Itambé
+MG Santo Antônio do Jacinto
+MG Santo Antônio do Monte
+MG Santo Antônio do Retiro
+MG Santo Antônio do Rio Abaixo
+MG Santo Hipólito
 MG Santos Dumont
-MG Sï¿½o Bento Abade
-MG Sï¿½o Brï¿½s do Suaï¿½uï¿½
-MG Sï¿½o Domingos das Dores
-MG Sï¿½o Domingos do Prata
-MG Sï¿½o Fï¿½lix de Minas
-MG Sï¿½o Francisco
-MG Sï¿½o Francisco de Paula
-MG Sï¿½o Francisco de Sales
-MG Sï¿½o Francisco do Glï¿½ria
-MG Sï¿½o Geraldo
-MG Sï¿½o Geraldo da Piedade
-MG Sï¿½o Geraldo do Baixio
-MG Sï¿½o Gonï¿½alo do Abaetï¿½
-MG Sï¿½o Gonï¿½alo do Parï¿½
-MG Sï¿½o Gonï¿½alo do Rio Abaixo
-MG Sï¿½o Gonï¿½alo do Sapucaï¿½
-MG Sï¿½o Gotardo
-MG Sï¿½o Joï¿½o Batista do Glï¿½ria
-MG Sï¿½o Joï¿½o da Lagoa
-MG Sï¿½o Joï¿½o da Mata
-MG Sï¿½o Joï¿½o da Ponte
-MG Sï¿½o Joï¿½o das Missï¿½es
-MG Sï¿½o Joï¿½o del Rei
-MG Sï¿½o Joï¿½o do Manhuaï¿½u
-MG Sï¿½o Joï¿½o do Manteninha
-MG Sï¿½o Joï¿½o do Oriente
-MG Sï¿½o Joï¿½o do Pacuï¿½
-MG Sï¿½o Joï¿½o do Paraï¿½so
-MG Sï¿½o Joï¿½o Evangelista
-MG Sï¿½o Joï¿½o Nepomuceno
-MG Sï¿½o Joaquim de Bicas
-MG Sï¿½o Josï¿½ da Barra
-MG Sï¿½o Josï¿½ da Lapa
-MG Sï¿½o Josï¿½ da Safira
-MG Sï¿½o Josï¿½ da Varginha
-MG Sï¿½o Josï¿½ do Alegre
-MG Sï¿½o Josï¿½ do Divino
-MG Sï¿½o Josï¿½ do Goiabal
-MG Sï¿½o Josï¿½ do Jacuri
-MG Sï¿½o Josï¿½ do Mantimento
-MG Sï¿½o Lourenï¿½o
-MG Sï¿½o Miguel do Anta
-MG Sï¿½o Pedro da Uniï¿½o
-MG Sï¿½o Pedro dos Ferros
-MG Sï¿½o Pedro do Suaï¿½uï¿½
-MG Sï¿½o Romï¿½o
-MG Sï¿½o Roque de Minas
-MG Sï¿½o Sebastiï¿½o da Bela Vista
-MG Sï¿½o Sebastiï¿½o da Vargem Alegre
-MG Sï¿½o Sebastiï¿½o do Anta
-MG Sï¿½o Sebastiï¿½o do Maranhï¿½o
-MG Sï¿½o Sebastiï¿½o do Oeste
-MG Sï¿½o Sebastiï¿½o do Paraï¿½so
-MG Sï¿½o Sebastiï¿½o do Rio Preto
-MG Sï¿½o Sebastiï¿½o do Rio Verde
-MG Sï¿½o Tiago
-MG Sï¿½o Tomï¿½s de Aquino
-MG Sï¿½o Thomï¿½ das Letras
-MG Sï¿½o Vicente de Minas
-MG Sapucaï¿½-Mirim
-MG Sardoï¿½
+MG São Bento Abade
+MG São Brás do Suaçuí
+MG São Domingos das Dores
+MG São Domingos do Prata
+MG São Félix de Minas
+MG São Francisco
+MG São Francisco de Paula
+MG São Francisco de Sales
+MG São Francisco do Glória
+MG São Geraldo
+MG São Geraldo da Piedade
+MG São Geraldo do Baixio
+MG São Gonçalo do Abaeté
+MG São Gonçalo do Pará
+MG São Gonçalo do Rio Abaixo
+MG São Gonçalo do Sapucaí
+MG São Gotardo
+MG São João Batista do Glória
+MG São João da Lagoa
+MG São João da Mata
+MG São João da Ponte
+MG São João das Missões
+MG São João del Rei
+MG São João do Manhuaçu
+MG São João do Manteninha
+MG São João do Oriente
+MG São João do Pacuí
+MG São João do Paraíso
+MG São João Evangelista
+MG São João Nepomuceno
+MG São Joaquim de Bicas
+MG São José da Barra
+MG São José da Lapa
+MG São José da Safira
+MG São José da Varginha
+MG São José do Alegre
+MG São José do Divino
+MG São José do Goiabal
+MG São José do Jacuri
+MG São José do Mantimento
+MG São Lourenço
+MG São Miguel do Anta
+MG São Pedro da União
+MG São Pedro dos Ferros
+MG São Pedro do Suaçuí
+MG São Romão
+MG São Roque de Minas
+MG São Sebastião da Bela Vista
+MG São Sebastião da Vargem Alegre
+MG São Sebastião do Anta
+MG São Sebastião do Maranhão
+MG São Sebastião do Oeste
+MG São Sebastião do Paraíso
+MG São Sebastião do Rio Preto
+MG São Sebastião do Rio Verde
+MG São Tiago
+MG São Tomás de Aquino
+MG São Thomé das Letras
+MG São Vicente de Minas
+MG Sapucaí-Mirim
+MG Sardoá
 MG Sarzedo
 MG Setubinha
 MG Sem-Peixe
 MG Senador Amaral
 MG Senador Cortes
 MG Senador Firmino
-MG Senador Josï¿½ Bento
-MG Senador Modestino Gonï¿½alves
+MG Senador José Bento
+MG Senador Modestino Gonçalves
 MG Senhora de Oliveira
 MG Senhora do Porto
-MG Senhora dos Remï¿½dios
+MG Senhora dos Remédios
 MG Sericita
 MG Seritinga
 MG Serra Azul de Minas
 MG Serra da Saudade
-MG Serra dos Aimorï¿½s
+MG Serra dos Aimorés
 MG Serra do Salitre
 MG Serrania
-MG Serranï¿½polis de Minas
+MG Serranópolis de Minas
 MG Serranos
 MG Serro
 MG Sete Lagoas
-MG Silveirï¿½nia
-MG Silvianï¿½polis
-MG Simï¿½o Pereira
-MG Simonï¿½sia
-MG Sobrï¿½lia
+MG Silveirânia
+MG Silvianópolis
+MG Simão Pereira
+MG Simonésia
+MG Sobrália
 MG Soledade de Minas
 MG Tabuleiro
 MG Taiobeiras
 MG Taparuba
 MG Tapira
-MG Tapiraï¿½
-MG Taquaraï¿½u de Minas
+MG Tapiraí
+MG Taquaraçu de Minas
 MG Tarumirim
 MG Teixeiras
-MG Teï¿½filo Otoni
-MG Timï¿½teo
+MG Teófilo Otoni
+MG Timóteo
 MG Tiradentes
 MG Tiros
 MG Tocantins
 MG Tocos do Moji
 MG Toledo
 MG Tombos
-MG Trï¿½s Coraï¿½ï¿½es
-MG Trï¿½s Marias
-MG Trï¿½s Pontas
+MG Três Corações
+MG Três Marias
+MG Três Pontas
 MG Tumiritinga
 MG Tupaciguara
 MG Turmalina
-MG Turvolï¿½ndia
-MG Ubï¿½
-MG Ubaï¿½
+MG Turvolândia
+MG Ubá
+MG Ubaí
 MG Ubaporanga
 MG Uberaba
-MG Uberlï¿½ndia
+MG Uberlândia
 MG Umburatiba
-MG Unaï¿½
-MG Uniï¿½o de Minas
+MG Unaí
+MG União de Minas
 MG Uruana de Minas
-MG Urucï¿½nia
+MG Urucânia
 MG Urucuia
 MG Vargem Alegre
 MG Vargem Bonita
 MG Vargem Grande do Rio Pardo
 MG Varginha
-MG Varjï¿½o de Minas
-MG Vï¿½rzea da Palma
-MG Varzelï¿½ndia
+MG Varjão de Minas
+MG Várzea da Palma
+MG Varzelândia
 MG Vazante
-MG Verdelï¿½ndia
+MG Verdelândia
 MG Veredinha
-MG Verï¿½ssimo
+MG Veríssimo
 MG Vermelho Novo
 MG Vespasiano
-MG Viï¿½osa
+MG Viçosa
 MG Vieiras
 MG Mathias Lobato
 MG Virgem da Lapa
-MG Virgï¿½nia
-MG Virginï¿½polis
-MG Virgolï¿½ndia
+MG Virgínia
+MG Virginópolis
+MG Virgolândia
 MG Visconde do Rio Branco
 MG Volta Grande
 MG Wenceslau Braz
-ES Afonso Clï¿½udio
-ES ï¿½guia Branca
-ES ï¿½gua Doce do Norte
+ES Afonso Cláudio
+ES Águia Branca
+ES Água Doce do Norte
 ES Alegre
 ES Alfredo Chaves
 ES Alto Rio Novo
 ES Anchieta
-ES Apiacï¿½
+ES Apiacá
 ES Aracruz
 ES Atilio Vivacqua
 ES Baixo Guandu
-ES Barra de Sï¿½o Francisco
-ES Boa Esperanï¿½a
+ES Barra de São Francisco
+ES Boa Esperança
 ES Bom Jesus do Norte
 ES Brejetuba
 ES Cachoeiro de Itapemirim
 ES Cariacica
 ES Castelo
 ES Colatina
-ES Conceiï¿½ï¿½o da Barra
-ES Conceiï¿½ï¿½o do Castelo
-ES Divino de Sï¿½o Lourenï¿½o
+ES Conceição da Barra
+ES Conceição do Castelo
+ES Divino de São Lourenço
 ES Domingos Martins
 ES Dores do Rio Preto
 ES Ecoporanga
-ES Fundï¿½o
+ES Fundão
 ES Governador Lindenberg
-ES Guaï¿½uï¿½
+ES Guaçuí
 ES Guarapari
 ES Ibatiba
-ES Ibiraï¿½u
+ES Ibiraçu
 ES Ibitirama
 ES Iconha
 ES Irupi
-ES Itaguaï¿½u
+ES Itaguaçu
 ES Itapemirim
 ES Itarana
-ES Iï¿½na
-ES Jaguarï¿½
-ES Jerï¿½nimo Monteiro
-ES Joï¿½o Neiva
+ES Iúna
+ES Jaguaré
+ES Jerônimo Monteiro
+ES João Neiva
 ES Laranja da Terra
 ES Linhares
-ES Mantenï¿½polis
-ES Marataï¿½zes
+ES Mantenópolis
+ES Marataízes
 ES Marechal Floriano
-ES Marilï¿½ndia
+ES Marilândia
 ES Mimoso do Sul
 ES Montanha
 ES Mucurici
 ES Muniz Freire
 ES Muqui
-ES Nova Venï¿½cia
+ES Nova Venécia
 ES Pancas
-ES Pedro Canï¿½rio
+ES Pedro Canário
 ES Pinheiros
-ES Piï¿½ma
+ES Piúma
 ES Ponto Belo
 ES Presidente Kennedy
 ES Rio Bananal
 ES Rio Novo do Sul
 ES Santa Leopoldina
-ES Santa Maria de Jetibï¿½
+ES Santa Maria de Jetibá
 ES Santa Teresa
-ES Sï¿½o Domingos do Norte
-ES Sï¿½o Gabriel da Palha
-ES Sï¿½o Josï¿½ do Calï¿½ado
-ES Sï¿½o Mateus
-ES Sï¿½o Roque do Canaï¿½
+ES São Domingos do Norte
+ES São Gabriel da Palha
+ES São José do Calçado
+ES São Mateus
+ES São Roque do Canaã
 ES Serra
 ES Sooretama
 ES Vargem Alta
 ES Venda Nova do Imigrante
 ES Viana
-ES Vila Pavï¿½o
-ES Vila Valï¿½rio
+ES Vila Pavão
+ES Vila Valério
 ES Vila Velha
-ES Vitï¿½ria
+ES Vitória
 RJ Angra dos Reis
-RJ Aperibï¿½
+RJ Aperibé
 RJ Araruama
 RJ Areal
-RJ Armaï¿½ï¿½o dos Bï¿½zios
+RJ Armação dos Búzios
 RJ Arraial do Cabo
-RJ Barra do Piraï¿½
+RJ Barra do Piraí
 RJ Barra Mansa
 RJ Belford Roxo
 RJ Bom Jardim
@@ -3194,47 +3194,47 @@ RJ Cantagalo
 RJ Cardoso Moreira
 RJ Carmo
 RJ Casimiro de Abreu
-RJ Conceiï¿½ï¿½o de Macabu
+RJ Conceição de Macabu
 RJ Cordeiro
 RJ Duas Barras
 RJ Duque de Caxias
 RJ Engenheiro Paulo de Frontin
 RJ Guapimirim
 RJ Iguaba Grande
-RJ Itaboraï¿½
-RJ Itaguaï¿½
+RJ Itaboraí
+RJ Itaguaí
 RJ Italva
 RJ Itaocara
 RJ Itaperuna
 RJ Itatiaia
 RJ Japeri
-RJ Laje do Muriaï¿½
-RJ Macaï¿½
+RJ Laje do Muriaé
+RJ Macaé
 RJ Macuco
-RJ Magï¿½
+RJ Magé
 RJ Mangaratiba
-RJ Maricï¿½
+RJ Maricá
 RJ Mendes
 RJ Mesquita
 RJ Miguel Pereira
 RJ Miracema
 RJ Natividade
-RJ Nilï¿½polis
-RJ Niterï¿½i
+RJ Nilópolis
+RJ Niterói
 RJ Nova Friburgo
-RJ Nova Iguaï¿½u
+RJ Nova Iguaçu
 RJ Paracambi
-RJ Paraï¿½ba do Sul
+RJ Paraíba do Sul
 RJ Paraty
 RJ Paty do Alferes
-RJ Petrï¿½polis
+RJ Petrópolis
 RJ Pinheiral
-RJ Piraï¿½
-RJ Porciï¿½ncula
+RJ Piraí
+RJ Porciúncula
 RJ Porto Real
 RJ Quatis
 RJ Queimados
-RJ Quissamï¿½
+RJ Quissamã
 RJ Resende
 RJ Rio Bonito
 RJ Rio Claro
@@ -3242,90 +3242,90 @@ RJ Rio das Flores
 RJ Rio das Ostras
 RJ Rio de Janeiro
 RJ Santa Maria Madalena
-RJ Santo Antï¿½nio de Pï¿½dua
-RJ Sï¿½o Francisco de Itabapoana
-RJ Sï¿½o Fidï¿½lis
-RJ Sï¿½o Gonï¿½alo
-RJ Sï¿½o Joï¿½o da Barra
-RJ Sï¿½o Joï¿½o de Meriti
-RJ Sï¿½o Josï¿½ de Ubï¿½
-RJ Sï¿½o Josï¿½ do Vale do Rio Preto
-RJ Sï¿½o Pedro da Aldeia
-RJ Sï¿½o Sebastiï¿½o do Alto
+RJ Santo Antônio de Pádua
+RJ São Francisco de Itabapoana
+RJ São Fidélis
+RJ São Gonçalo
+RJ São João da Barra
+RJ São João de Meriti
+RJ São José de Ubá
+RJ São José do Vale do Rio Preto
+RJ São Pedro da Aldeia
+RJ São Sebastião do Alto
 RJ Sapucaia
 RJ Saquarema
-RJ Seropï¿½dica
+RJ Seropédica
 RJ Silva Jardim
 RJ Sumidouro
-RJ Tanguï¿½
-RJ Teresï¿½polis
+RJ Tanguá
+RJ Teresópolis
 RJ Trajano de Moraes
-RJ Trï¿½s Rios
-RJ Valenï¿½a
+RJ Três Rios
+RJ Valença
 RJ Varre-Sai
 RJ Vassouras
 RJ Volta Redonda
 SP Adamantina
 SP Adolfo
-SP Aguaï¿½
-SP ï¿½guas da Prata
-SP ï¿½guas de Lindï¿½ia
-SP ï¿½guas de Santa Bï¿½rbara
-SP ï¿½guas de Sï¿½o Pedro
+SP Aguaí
+SP Águas da Prata
+SP Águas de Lindóia
+SP Águas de Santa Bárbara
+SP Águas de São Pedro
 SP Agudos
 SP Alambari
 SP Alfredo Marcondes
 SP Altair
-SP Altinï¿½polis
+SP Altinópolis
 SP Alto Alegre
-SP Alumï¿½nio
-SP ï¿½lvares Florence
-SP ï¿½lvares Machado
-SP ï¿½lvaro de Carvalho
-SP Alvinlï¿½ndia
+SP Alumínio
+SP Álvares Florence
+SP Álvares Machado
+SP Álvaro de Carvalho
+SP Alvinlândia
 SP Americana
-SP Amï¿½rico Brasiliense
-SP Amï¿½rico de Campos
+SP Américo Brasiliense
+SP Américo de Campos
 SP Amparo
-SP Analï¿½ndia
+SP Analândia
 SP Andradina
 SP Angatuba
 SP Anhembi
 SP Anhumas
 SP Aparecida
 SP Aparecida d'Oeste
-SP Apiaï¿½
-SP Araï¿½ariguama
-SP Araï¿½atuba
-SP Araï¿½oiaba da Serra
+SP Apiaí
+SP Araçariguama
+SP Araçatuba
+SP Araçoiaba da Serra
 SP Aramina
 SP Arandu
-SP Arapeï¿½
+SP Arapeí
 SP Araraquara
 SP Araras
-SP Arco-ï¿½ris
+SP Arco-Íris
 SP Arealva
 SP Areias
-SP Areiï¿½polis
+SP Areiópolis
 SP Ariranha
 SP Artur Nogueira
-SP Arujï¿½
-SP Aspï¿½sia
+SP Arujá
+SP Aspásia
 SP Assis
 SP Atibaia
 SP Auriflama
-SP Avaï¿½
+SP Avaí
 SP Avanhandava
-SP Avarï¿½
+SP Avaré
 SP Bady Bassitt
 SP Balbinos
-SP Bï¿½lsamo
+SP Bálsamo
 SP Bananal
-SP Barï¿½o de Antonina
+SP Barão de Antonina
 SP Barbosa
 SP Bariri
 SP Barra Bonita
-SP Barra do Chapï¿½u
+SP Barra do Chapéu
 SP Barra do Turvo
 SP Barretos
 SP Barrinha
@@ -3340,34 +3340,34 @@ SP Bertioga
 SP Bilac
 SP Birigui
 SP Biritiba-Mirim
-SP Boa Esperanï¿½a do Sul
+SP Boa Esperança do Sul
 SP Bocaina
 SP Bofete
 SP Boituva
-SP Bom Jesus dos Perdï¿½es
-SP Bom Sucesso de Itararï¿½
-SP Borï¿½
-SP Boracï¿½ia
+SP Bom Jesus dos Perdões
+SP Bom Sucesso de Itararé
+SP Borá
+SP Boracéia
 SP Borborema
 SP Borebi
 SP Botucatu
-SP Braganï¿½a Paulista
-SP Braï¿½na
+SP Bragança Paulista
+SP Braúna
 SP Brejo Alegre
 SP Brodowski
 SP Brotas
 SP Buri
 SP Buritama
 SP Buritizal
-SP Cabrï¿½lia Paulista
-SP Cabreï¿½va
-SP Caï¿½apava
+SP Cabrália Paulista
+SP Cabreúva
+SP Caçapava
 SP Cachoeira Paulista
 SP Caconde
-SP Cafelï¿½ndia
+SP Cafelândia
 SP Caiabu
 SP Caieiras
-SP Caiuï¿½
+SP Caiuá
 SP Cajamar
 SP Cajati
 SP Cajobi
@@ -3375,248 +3375,248 @@ SP Cajuru
 SP Campina do Monte Alegre
 SP Campinas
 SP Campo Limpo Paulista
-SP Campos do Jordï¿½o
+SP Campos do Jordão
 SP Campos Novos Paulista
-SP Cananï¿½ia
+SP Cananéia
 SP Canas
-SP Cï¿½ndido Mota
-SP Cï¿½ndido Rodrigues
+SP Cândido Mota
+SP Cândido Rodrigues
 SP Canitar
-SP Capï¿½o Bonito
+SP Capão Bonito
 SP Capela do Alto
 SP Capivari
 SP Caraguatatuba
-SP Carapicuï¿½ba
+SP Carapicuíba
 SP Cardoso
 SP Casa Branca
-SP Cï¿½ssia dos Coqueiros
+SP Cássia dos Coqueiros
 SP Castilho
 SP Catanduva
-SP Catiguï¿½
+SP Catiguá
 SP Cedral
-SP Cerqueira Cï¿½sar
+SP Cerqueira César
 SP Cerquilho
-SP Cesï¿½rio Lange
+SP Cesário Lange
 SP Charqueada
 SP Clementina
 SP Colina
-SP Colï¿½mbia
+SP Colômbia
 SP Conchal
 SP Conchas
-SP Cordeirï¿½polis
+SP Cordeirópolis
 SP Coroados
 SP Coronel Macedo
-SP Corumbataï¿½
-SP Cosmï¿½polis
+SP Corumbataí
+SP Cosmópolis
 SP Cosmorama
 SP Cotia
 SP Cravinhos
 SP Cristais Paulista
-SP Cruzï¿½lia
+SP Cruzália
 SP Cruzeiro
-SP Cubatï¿½o
+SP Cubatão
 SP Cunha
 SP Descalvado
 SP Diadema
 SP Dirce Reis
-SP Divinolï¿½ndia
+SP Divinolândia
 SP Dobrada
-SP Dois Cï¿½rregos
-SP Dolcinï¿½polis
+SP Dois Córregos
+SP Dolcinópolis
 SP Dourado
 SP Dracena
 SP Duartina
 SP Dumont
-SP Echaporï¿½
+SP Echaporã
 SP Eldorado
 SP Elias Fausto
-SP Elisiï¿½rio
-SP Embaï¿½ba
+SP Elisiário
+SP Embaúba
 SP Embu das Artes
-SP Embu-Guaï¿½u
-SP Emilianï¿½polis
+SP Embu-Guaçu
+SP Emilianópolis
 SP Engenheiro Coelho
-SP Espï¿½rito Santo do Pinhal
-SP Espï¿½rito Santo do Turvo
+SP Espírito Santo do Pinhal
+SP Espírito Santo do Turvo
 SP Estrela d'Oeste
 SP Estrela do Norte
 SP Euclides da Cunha Paulista
 SP Fartura
-SP Fernandï¿½polis
+SP Fernandópolis
 SP Fernando Prestes
-SP Fernï¿½o
+SP Fernão
 SP Ferraz de Vasconcelos
 SP Flora Rica
 SP Floreal
-SP Flï¿½rida Paulista
-SP Florï¿½nia
+SP Flórida Paulista
+SP Florínia
 SP Franca
 SP Francisco Morato
 SP Franco da Rocha
 SP Gabriel Monteiro
-SP Gï¿½lia
-SP Garï¿½a
-SP Gastï¿½o Vidigal
-SP Gaviï¿½o Peixoto
+SP Gália
+SP Garça
+SP Gastão Vidigal
+SP Gavião Peixoto
 SP General Salgado
 SP Getulina
-SP Glicï¿½rio
-SP Guaiï¿½ara
-SP Guaimbï¿½
-SP Guaï¿½ra
-SP Guapiaï¿½u
+SP Glicério
+SP Guaiçara
+SP Guaimbê
+SP Guaíra
+SP Guapiaçu
 SP Guapiara
-SP Guarï¿½
-SP Guaraï¿½aï¿½
+SP Guará
+SP Guaraçaí
 SP Guaraci
 SP Guarani d'Oeste
-SP Guarantï¿½
+SP Guarantã
 SP Guararapes
 SP Guararema
-SP Guaratinguetï¿½
-SP Guareï¿½
+SP Guaratinguetá
+SP Guareí
 SP Guariba
-SP Guarujï¿½
+SP Guarujá
 SP Guarulhos
-SP Guataparï¿½
-SP Guzolï¿½ndia
-SP Herculï¿½ndia
+SP Guatapará
+SP Guzolândia
+SP Herculândia
 SP Holambra
-SP Hortolï¿½ndia
+SP Hortolândia
 SP Iacanga
 SP Iacri
 SP Iaras
-SP Ibatï¿½
-SP Ibirï¿½
+SP Ibaté
+SP Ibirá
 SP Ibirarema
 SP Ibitinga
-SP Ibiï¿½na
-SP Icï¿½m
-SP Iepï¿½
-SP Igaraï¿½u do Tietï¿½
+SP Ibiúna
+SP Icém
+SP Iepê
+SP Igaraçu do Tietê
 SP Igarapava
-SP Igaratï¿½
+SP Igaratá
 SP Iguape
 SP Ilhabela
 SP Ilha Comprida
 SP Ilha Solteira
 SP Indaiatuba
 SP Indiana
-SP Indiaporï¿½
-SP Inï¿½bia Paulista
+SP Indiaporã
+SP Inúbia Paulista
 SP Ipaussu
-SP Iperï¿½
-SP Ipeï¿½na
-SP Ipiguï¿½
+SP Iperó
+SP Ipeúna
+SP Ipiguá
 SP Iporanga
-SP Ipuï¿½
-SP Iracemï¿½polis
-SP Irapuï¿½
+SP Ipuã
+SP Iracemápolis
+SP Irapuã
 SP Irapuru
-SP Itaberï¿½
-SP Itaï¿½
+SP Itaberá
+SP Itaí
 SP Itajobi
 SP Itaju
-SP Itanhaï¿½m
-SP Itaï¿½ca
+SP Itanhaém
+SP Itaóca
 SP Itapecerica da Serra
 SP Itapetininga
 SP Itapeva
 SP Itapevi
 SP Itapira
-SP Itapirapuï¿½ Paulista
-SP Itï¿½polis
+SP Itapirapuã Paulista
+SP Itápolis
 SP Itaporanga
-SP Itapuï¿½
+SP Itapuí
 SP Itapura
 SP Itaquaquecetuba
-SP Itararï¿½
+SP Itararé
 SP Itariri
 SP Itatiba
 SP Itatinga
 SP Itirapina
-SP Itirapuï¿½
+SP Itirapuã
 SP Itobi
 SP Itu
 SP Itupeva
 SP Ituverava
 SP Jaborandi
 SP Jaboticabal
-SP Jacareï¿½
+SP Jacareí
 SP Jaci
 SP Jacupiranga
-SP Jaguariï¿½na
+SP Jaguariúna
 SP Jales
 SP Jambeiro
 SP Jandira
-SP Jardinï¿½polis
+SP Jardinópolis
 SP Jarinu
-SP Jaï¿½
+SP Jaú
 SP Jeriquara
-SP Joanï¿½polis
-SP Joï¿½o Ramalho
-SP Josï¿½ Bonifï¿½cio
-SP Jï¿½lio Mesquita
+SP Joanópolis
+SP João Ramalho
+SP José Bonifácio
+SP Júlio Mesquita
 SP Jumirim
-SP Jundiaï¿½
-SP Junqueirï¿½polis
-SP Juquiï¿½
+SP Jundiaí
+SP Junqueirópolis
+SP Juquiá
 SP Juquitiba
 SP Lagoinha
 SP Laranjal Paulista
-SP Lavï¿½nia
+SP Lavínia
 SP Lavrinhas
 SP Leme
-SP Lenï¿½ï¿½is Paulista
+SP Lençóis Paulista
 SP Limeira
-SP Lindï¿½ia
+SP Lindóia
 SP Lins
 SP Lorena
 SP Lourdes
 SP Louveira
-SP Lucï¿½lia
-SP Lucianï¿½polis
-SP Luï¿½s Antï¿½nio
-SP Luiziï¿½nia
-SP Lupï¿½rcio
-SP Lutï¿½cia
+SP Lucélia
+SP Lucianópolis
+SP Luís Antônio
+SP Luiziânia
+SP Lupércio
+SP Lutécia
 SP Macatuba
 SP Macaubal
-SP Macedï¿½nia
+SP Macedônia
 SP Magda
 SP Mairinque
-SP Mairiporï¿½
+SP Mairiporã
 SP Manduri
-SP Marabï¿½ Paulista
-SP Maracaï¿½
+SP Marabá Paulista
+SP Maracaí
 SP Marapoama
-SP Mariï¿½polis
-SP Marï¿½lia
-SP Marinï¿½polis
-SP Martinï¿½polis
-SP Matï¿½o
-SP Mauï¿½
-SP Mendonï¿½a
+SP Mariápolis
+SP Marília
+SP Marinópolis
+SP Martinópolis
+SP Matão
+SP Mauá
+SP Mendonça
 SP Meridiano
-SP Mesï¿½polis
-SP Miguelï¿½polis
-SP Mineiros do Tietï¿½
+SP Mesópolis
+SP Miguelópolis
+SP Mineiros do Tietê
 SP Miracatu
 SP Mira Estrela
-SP Mirandï¿½polis
+SP Mirandópolis
 SP Mirante do Paranapanema
 SP Mirassol
-SP Mirassolï¿½ndia
+SP Mirassolândia
 SP Mococa
 SP Mogi das Cruzes
-SP Mogi Guaï¿½u
+SP Mogi Guaçu
 SP Mogi Mirim
 SP Mombuca
-SP Monï¿½ï¿½es
-SP Mongaguï¿½
+SP Monções
+SP Mongaguá
 SP Monte Alegre do Sul
 SP Monte Alto
-SP Monte Aprazï¿½vel
+SP Monte Aprazível
 SP Monte Azul Paulista
 SP Monte Castelo
 SP Monteiro Lobato
@@ -3628,30 +3628,30 @@ SP Murutinga do Sul
 SP Nantes
 SP Narandiba
 SP Natividade da Serra
-SP Nazarï¿½ Paulista
+SP Nazaré Paulista
 SP Neves Paulista
 SP Nhandeara
-SP Nipoï¿½
-SP Nova Alianï¿½a
+SP Nipoã
+SP Nova Aliança
 SP Nova Campina
-SP Nova Canaï¿½ Paulista
+SP Nova Canaã Paulista
 SP Nova Castilho
 SP Nova Europa
 SP Nova Granada
 SP Nova Guataporanga
-SP Nova Independï¿½ncia
+SP Nova Independência
 SP Novais
-SP Nova Luzitï¿½nia
+SP Nova Luzitânia
 SP Nova Odessa
 SP Novo Horizonte
 SP Nuporanga
-SP Ocauï¿½u
-SP ï¿½leo
-SP Olï¿½mpia
+SP Ocauçu
+SP Óleo
+SP Olímpia
 SP Onda Verde
 SP Oriente
-SP Orindiï¿½va
-SP Orlï¿½ndia
+SP Orindiúva
+SP Orlândia
 SP Osasco
 SP Oscar Bressane
 SP Osvaldo Cruz
@@ -3664,31 +3664,31 @@ SP Palmares Paulista
 SP Palmeira d'Oeste
 SP Palmital
 SP Panorama
-SP Paraguaï¿½u Paulista
+SP Paraguaçu Paulista
 SP Paraibuna
-SP Paraï¿½so
+SP Paraíso
 SP Paranapanema
-SP Paranapuï¿½
-SP Parapuï¿½
+SP Paranapuã
+SP Parapuã
 SP Pardinho
-SP Pariquera-Aï¿½u
+SP Pariquera-Açu
 SP Parisi
-SP Patrocï¿½nio Paulista
-SP Paulicï¿½ia
-SP Paulï¿½nia
-SP Paulistï¿½nia
+SP Patrocínio Paulista
+SP Paulicéia
+SP Paulínia
+SP Paulistânia
 SP Paulo de Faria
 SP Pederneiras
 SP Pedra Bela
-SP Pedranï¿½polis
+SP Pedranópolis
 SP Pedregulho
 SP Pedreira
 SP Pedrinhas Paulista
 SP Pedro de Toledo
-SP Penï¿½polis
+SP Penápolis
 SP Pereira Barreto
 SP Pereiras
-SP Peruï¿½be
+SP Peruíbe
 SP Piacatu
 SP Piedade
 SP Pilar do Sul
@@ -3700,7 +3700,7 @@ SP Piquete
 SP Piracaia
 SP Piracicaba
 SP Piraju
-SP Pirajuï¿½
+SP Pirajuí
 SP Pirangi
 SP Pirapora do Bom Jesus
 SP Pirapozinho
@@ -3709,10 +3709,10 @@ SP Piratininga
 SP Pitangueiras
 SP Planalto
 SP Platina
-SP Poï¿½
+SP Poá
 SP Poloni
-SP Pompï¿½ia
-SP Pongaï¿½
+SP Pompéia
+SP Pongaí
 SP Pontal
 SP Pontalinda
 SP Pontes Gestal
@@ -3723,411 +3723,411 @@ SP Porto Ferreira
 SP Potim
 SP Potirendaba
 SP Pracinha
-SP Pradï¿½polis
+SP Pradópolis
 SP Praia Grande
-SP Pratï¿½nia
+SP Pratânia
 SP Presidente Alves
 SP Presidente Bernardes
-SP Presidente Epitï¿½cio
+SP Presidente Epitácio
 SP Presidente Prudente
 SP Presidente Venceslau
-SP Promissï¿½o
+SP Promissão
 SP Quadra
-SP Quatï¿½
+SP Quatá
 SP Queiroz
 SP Queluz
 SP Quintana
 SP Rafard
 SP Rancharia
-SP Redenï¿½ï¿½o da Serra
-SP Regente Feijï¿½
-SP Reginï¿½polis
+SP Redenção da Serra
+SP Regente Feijó
+SP Reginópolis
 SP Registro
 SP Restinga
 SP Ribeira
-SP Ribeirï¿½o Bonito
-SP Ribeirï¿½o Branco
-SP Ribeirï¿½o Corrente
-SP Ribeirï¿½o do Sul
-SP Ribeirï¿½o dos ï¿½ndios
-SP Ribeirï¿½o Grande
-SP Ribeirï¿½o Pires
-SP Ribeirï¿½o Preto
+SP Ribeirão Bonito
+SP Ribeirão Branco
+SP Ribeirão Corrente
+SP Ribeirão do Sul
+SP Ribeirão dos Índios
+SP Ribeirão Grande
+SP Ribeirão Pires
+SP Ribeirão Preto
 SP Riversul
 SP Rifaina
-SP Rincï¿½o
-SP Rinï¿½polis
+SP Rincão
+SP Rinópolis
 SP Rio Claro
 SP Rio das Pedras
 SP Rio Grande da Serra
-SP Riolï¿½ndia
+SP Riolândia
 SP Rosana
 SP Roseira
-SP Rubiï¿½cea
-SP Rubinï¿½ia
+SP Rubiácea
+SP Rubinéia
 SP Sabino
 SP Sagres
 SP Sales
 SP Sales Oliveira
-SP Salesï¿½polis
-SP Salmourï¿½o
+SP Salesópolis
+SP Salmourão
 SP Saltinho
 SP Salto
 SP Salto de Pirapora
 SP Salto Grande
 SP Sandovalina
-SP Santa Adï¿½lia
+SP Santa Adélia
 SP Santa Albertina
-SP Santa Bï¿½rbara d'Oeste
+SP Santa Bárbara d'Oeste
 SP Santa Branca
 SP Santa Clara d'Oeste
-SP Santa Cruz da Conceiï¿½ï¿½o
-SP Santa Cruz da Esperanï¿½a
+SP Santa Cruz da Conceição
+SP Santa Cruz da Esperança
 SP Santa Cruz das Palmeiras
 SP Santa Cruz do Rio Pardo
 SP Santa Ernestina
-SP Santa Fï¿½ do Sul
+SP Santa Fé do Sul
 SP Santa Gertrudes
 SP Santa Isabel
-SP Santa Lï¿½cia
+SP Santa Lúcia
 SP Santa Maria da Serra
 SP Santa Mercedes
 SP Santana da Ponte Pensa
-SP Santana de Parnaï¿½ba
+SP Santana de Parnaíba
 SP Santa Rita d'Oeste
 SP Santa Rita do Passa Quatro
 SP Santa Rosa de Viterbo
 SP Santa Salete
-SP Santo Anastï¿½cio
-SP Santo Andrï¿½
-SP Santo Antï¿½nio da Alegria
-SP Santo Antï¿½nio de Posse
-SP Santo Antï¿½nio do Aracanguï¿½
-SP Santo Antï¿½nio do Jardim
-SP Santo Antï¿½nio do Pinhal
+SP Santo Anastácio
+SP Santo André
+SP Santo Antônio da Alegria
+SP Santo Antônio de Posse
+SP Santo Antônio do Aracanguá
+SP Santo Antônio do Jardim
+SP Santo Antônio do Pinhal
 SP Santo Expedito
-SP Santï¿½polis do Aguapeï¿½
+SP Santópolis do Aguapeí
 SP Santos
-SP Sï¿½o Bento do Sapucaï¿½
-SP Sï¿½o Bernardo do Campo
-SP Sï¿½o Caetano do Sul
-SP Sï¿½o Carlos
-SP Sï¿½o Francisco
-SP Sï¿½o Joï¿½o da Boa Vista
-SP Sï¿½o Joï¿½o das Duas Pontes
-SP Sï¿½o Joï¿½o de Iracema
-SP Sï¿½o Joï¿½o do Pau d'Alho
-SP Sï¿½o Joaquim da Barra
-SP Sï¿½o Josï¿½ da Bela Vista
-SP Sï¿½o Josï¿½ do Barreiro
-SP Sï¿½o Josï¿½ do Rio Pardo
-SP Sï¿½o Josï¿½ do Rio Preto
-SP Sï¿½o Josï¿½ dos Campos
-SP Sï¿½o Lourenï¿½o da Serra
-SP Sï¿½o Luï¿½s do Paraitinga
-SP Sï¿½o Manuel
-SP Sï¿½o Miguel Arcanjo
-SP Sï¿½o Paulo
-SP Sï¿½o Pedro
-SP Sï¿½o Pedro do Turvo
-SP Sï¿½o Roque
-SP Sï¿½o Sebastiï¿½o
-SP Sï¿½o Sebastiï¿½o da Grama
-SP Sï¿½o Simï¿½o
-SP Sï¿½o Vicente
-SP Sarapuï¿½
-SP Sarutaiï¿½
-SP Sebastianï¿½polis do Sul
+SP São Bento do Sapucaí
+SP São Bernardo do Campo
+SP São Caetano do Sul
+SP São Carlos
+SP São Francisco
+SP São João da Boa Vista
+SP São João das Duas Pontes
+SP São João de Iracema
+SP São João do Pau d'Alho
+SP São Joaquim da Barra
+SP São José da Bela Vista
+SP São José do Barreiro
+SP São José do Rio Pardo
+SP São José do Rio Preto
+SP São José dos Campos
+SP São Lourenço da Serra
+SP São Luís do Paraitinga
+SP São Manuel
+SP São Miguel Arcanjo
+SP São Paulo
+SP São Pedro
+SP São Pedro do Turvo
+SP São Roque
+SP São Sebastião
+SP São Sebastião da Grama
+SP São Simão
+SP São Vicente
+SP Sarapuí
+SP Sarutaiá
+SP Sebastianópolis do Sul
 SP Serra Azul
 SP Serrana
 SP Serra Negra
-SP Sertï¿½ozinho
+SP Sertãozinho
 SP Sete Barras
-SP Severï¿½nia
+SP Severínia
 SP Silveiras
 SP Socorro
 SP Sorocaba
 SP Sud Mennucci
-SP Sumarï¿½
+SP Sumaré
 SP Suzano
-SP Suzanï¿½polis
-SP Tabapuï¿½
+SP Suzanápolis
+SP Tabapuã
 SP Tabatinga
-SP Taboï¿½o da Serra
+SP Taboão da Serra
 SP Taciba
-SP Taguaï¿½
-SP Taiaï¿½u
-SP Taiï¿½va
-SP Tambaï¿½
+SP Taguaí
+SP Taiaçu
+SP Taiúva
+SP Tambaú
 SP Tanabi
-SP Tapiraï¿½
+SP Tapiraí
 SP Tapiratiba
 SP Taquaral
 SP Taquaritinga
 SP Taquarituba
-SP Taquarivaï¿½
+SP Taquarivaí
 SP Tarabai
-SP Tarumï¿½
-SP Tatuï¿½
-SP Taubatï¿½
-SP Tejupï¿½
+SP Tarumã
+SP Tatuí
+SP Taubaté
+SP Tejupá
 SP Teodoro Sampaio
 SP Terra Roxa
-SP Tietï¿½
+SP Tietê
 SP Timburi
 SP Torre de Pedra
 SP Torrinha
 SP Trabiju
-SP Tremembï¿½
-SP Trï¿½s Fronteiras
+SP Tremembé
+SP Três Fronteiras
 SP Tuiuti
-SP Tupï¿½
+SP Tupã
 SP Tupi Paulista
-SP Turiï¿½ba
+SP Turiúba
 SP Turmalina
 SP Ubarana
 SP Ubatuba
 SP Ubirajara
 SP Uchoa
-SP Uniï¿½o Paulista
-SP Urï¿½nia
+SP União Paulista
+SP Urânia
 SP Uru
-SP Urupï¿½s
+SP Urupês
 SP Valentim Gentil
 SP Valinhos
-SP Valparaï¿½so
+SP Valparaíso
 SP Vargem
 SP Vargem Grande do Sul
 SP Vargem Grande Paulista
-SP Vï¿½rzea Paulista
+SP Várzea Paulista
 SP Vera Cruz
 SP Vinhedo
 SP Viradouro
 SP Vista Alegre do Alto
-SP Vitï¿½ria Brasil
+SP Vitória Brasil
 SP Votorantim
 SP Votuporanga
 SP Zacarias
 SP Chavantes
 SP Estiva Gerbi
-PR Abatiï¿½
-PR Adrianï¿½polis
+PR Abatiá
+PR Adrianópolis
 PR Agudos do Sul
-PR Almirante Tamandarï¿½
-PR Altamira do Paranï¿½
-PR Altï¿½nia
-PR Alto Paranï¿½
+PR Almirante Tamandaré
+PR Altamira do Paraná
+PR Altônia
+PR Alto Paraná
 PR Alto Piquiri
 PR Alvorada do Sul
-PR Amaporï¿½
-PR Ampï¿½re
+PR Amaporã
+PR Ampére
 PR Anahy
-PR Andirï¿½
-PR ï¿½ngulo
+PR Andirá
+PR Ângulo
 PR Antonina
-PR Antï¿½nio Olinto
+PR Antônio Olinto
 PR Apucarana
 PR Arapongas
 PR Arapoti
-PR Arapuï¿½
+PR Arapuã
 PR Araruna
-PR Araucï¿½ria
-PR Ariranha do Ivaï¿½
-PR Assaï¿½
+PR Araucária
+PR Ariranha do Ivaí
+PR Assaí
 PR Assis Chateaubriand
 PR Astorga
 PR Atalaia
 PR Balsa Nova
 PR Bandeirantes
 PR Barbosa Ferraz
-PR Barracï¿½o
-PR Barra do Jacarï¿½
+PR Barracão
+PR Barra do Jacaré
 PR Bela Vista da Caroba
-PR Bela Vista do Paraï¿½so
+PR Bela Vista do Paraíso
 PR Bituruna
-PR Boa Esperanï¿½a
-PR Boa Esperanï¿½a do Iguaï¿½u
-PR Boa Ventura de Sï¿½o Roque
+PR Boa Esperança
+PR Boa Esperança do Iguaçu
+PR Boa Ventura de São Roque
 PR Boa Vista da Aparecida
-PR Bocaiï¿½va do Sul
+PR Bocaiúva do Sul
 PR Bom Jesus do Sul
 PR Bom Sucesso
 PR Bom Sucesso do Sul
-PR Borrazï¿½polis
+PR Borrazópolis
 PR Braganey
-PR Brasilï¿½ndia do Sul
+PR Brasilândia do Sul
 PR Cafeara
-PR Cafelï¿½ndia
+PR Cafelândia
 PR Cafezal do Sul
-PR Califï¿½rnia
-PR Cambarï¿½
-PR Cambï¿½
+PR Califórnia
+PR Cambará
+PR Cambé
 PR Cambira
 PR Campina da Lagoa
-PR Campina do Simï¿½o
+PR Campina do Simão
 PR Campina Grande do Sul
 PR Campo Bonito
 PR Campo do Tenente
 PR Campo Largo
 PR Campo Magro
-PR Campo Mourï¿½o
-PR Cï¿½ndido de Abreu
-PR Candï¿½i
+PR Campo Mourão
+PR Cândido de Abreu
+PR Candói
 PR Cantagalo
 PR Capanema
-PR Capitï¿½o Leï¿½nidas Marques
-PR Carambeï¿½
-PR Carlï¿½polis
+PR Capitão Leônidas Marques
+PR Carambeí
+PR Carlópolis
 PR Cascavel
 PR Castro
 PR Catanduvas
-PR Centenï¿½rio do Sul
+PR Centenário do Sul
 PR Cerro Azul
-PR Cï¿½u Azul
+PR Céu Azul
 PR Chopinzinho
 PR Cianorte
-PR Cidade Gaï¿½cha
-PR Clevelï¿½ndia
+PR Cidade Gaúcha
+PR Clevelândia
 PR Colombo
 PR Colorado
 PR Congonhinhas
 PR Conselheiro Mairinck
 PR Contenda
-PR Corbï¿½lia
-PR Cornï¿½lio Procï¿½pio
+PR Corbélia
+PR Cornélio Procópio
 PR Coronel Domingos Soares
 PR Coronel Vivida
-PR Corumbataï¿½ do Sul
-PR Cruzeiro do Iguaï¿½u
+PR Corumbataí do Sul
+PR Cruzeiro do Iguaçu
 PR Cruzeiro do Oeste
 PR Cruzeiro do Sul
 PR Cruz Machado
 PR Cruzmaltina
 PR Curitiba
-PR Curiï¿½va
+PR Curiúva
 PR Diamante do Norte
 PR Diamante do Sul
 PR Diamante D'Oeste
 PR Dois Vizinhos
 PR Douradina
 PR Doutor Camargo
-PR Enï¿½as Marques
-PR Engenheiro Beltrï¿½o
-PR Esperanï¿½a Nova
+PR Enéas Marques
+PR Engenheiro Beltrão
+PR Esperança Nova
 PR Entre Rios do Oeste
-PR Espigï¿½o Alto do Iguaï¿½u
+PR Espigão Alto do Iguaçu
 PR Farol
 PR Faxinal
 PR Fazenda Rio Grande
-PR Fï¿½nix
+PR Fênix
 PR Fernandes Pinheiro
 PR Figueira
-PR Floraï¿½
+PR Floraí
 PR Flor da Serra do Sul
 PR Floresta
-PR Florestï¿½polis
-PR Flï¿½rida
+PR Florestópolis
+PR Flórida
 PR Formosa do Oeste
-PR Foz do Iguaï¿½u
+PR Foz do Iguaçu
 PR Francisco Alves
-PR Francisco Beltrï¿½o
-PR Foz do Jordï¿½o
+PR Francisco Beltrão
+PR Foz do Jordão
 PR General Carneiro
 PR Godoy Moreira
-PR Goioerï¿½
+PR Goioerê
 PR Goioxim
 PR Grandes Rios
-PR Guaï¿½ra
-PR Guairaï¿½ï¿½
+PR Guaíra
+PR Guairaçá
 PR Guamiranga
 PR Guapirama
 PR Guaporema
 PR Guaraci
-PR Guaraniaï¿½u
+PR Guaraniaçu
 PR Guarapuava
-PR Guaraqueï¿½aba
+PR Guaraqueçaba
 PR Guaratuba
-PR Honï¿½rio Serpa
+PR Honório Serpa
 PR Ibaiti
 PR Ibema
-PR Ibiporï¿½
-PR Icaraï¿½ma
-PR Iguaraï¿½u
+PR Ibiporã
+PR Icaraíma
+PR Iguaraçu
 PR Iguatu
-PR Imbaï¿½
+PR Imbaú
 PR Imbituva
-PR Inï¿½cio Martins
-PR Inajï¿½
-PR Indianï¿½polis
+PR Inácio Martins
+PR Inajá
+PR Indianópolis
 PR Ipiranga
-PR Iporï¿½
+PR Iporã
 PR Iracema do Oeste
 PR Irati
 PR Iretama
-PR Itaguajï¿½
-PR Itaipulï¿½ndia
-PR Itambaracï¿½
-PR Itambï¿½
+PR Itaguajé
+PR Itaipulândia
+PR Itambaracá
+PR Itambé
 PR Itapejara d'Oeste
-PR Itaperuï¿½u
-PR Itaï¿½na do Sul
-PR Ivaï¿½
-PR Ivaiporï¿½
-PR Ivatï¿½
+PR Itaperuçu
+PR Itaúna do Sul
+PR Ivaí
+PR Ivaiporã
+PR Ivaté
 PR Ivatuba
 PR Jaboti
 PR Jacarezinho
-PR Jaguapitï¿½
-PR Jaguariaï¿½va
+PR Jaguapitã
+PR Jaguariaíva
 PR Jandaia do Sul
-PR Janiï¿½polis
+PR Janiópolis
 PR Japira
-PR Japurï¿½
+PR Japurá
 PR Jardim Alegre
 PR Jardim Olinda
 PR Jataizinho
-PR Jesuï¿½tas
-PR Joaquim Tï¿½vora
-PR Jundiaï¿½ do Sul
+PR Jesuítas
+PR Joaquim Távora
+PR Jundiaí do Sul
 PR Juranda
 PR Jussara
-PR Kalorï¿½
+PR Kaloré
 PR Lapa
 PR Laranjal
 PR Laranjeiras do Sul
-PR Leï¿½polis
-PR Lidianï¿½polis
+PR Leópolis
+PR Lidianópolis
 PR Lindoeste
 PR Loanda
 PR Lobato
 PR Londrina
 PR Luiziana
 PR Lunardelli
-PR Lupionï¿½polis
+PR Lupionópolis
 PR Mallet
-PR Mamborï¿½
-PR Mandaguaï¿½u
+PR Mamborê
+PR Mandaguaçu
 PR Mandaguari
 PR Mandirituba
-PR Manfrinï¿½polis
+PR Manfrinópolis
 PR Mangueirinha
 PR Manoel Ribas
-PR Marechal Cï¿½ndido Rondon
+PR Marechal Cândido Rondon
 PR Maria Helena
 PR Marialva
-PR Marilï¿½ndia do Sul
+PR Marilândia do Sul
 PR Marilena
 PR Mariluz
-PR Maringï¿½
-PR Mariï¿½polis
-PR Maripï¿½
+PR Maringá
+PR Mariópolis
+PR Maripá
 PR Marmeleiro
 PR Marquinho
 PR Marumbi
-PR Matelï¿½ndia
+PR Matelândia
 PR Matinhos
 PR Mato Rico
-PR Mauï¿½ da Serra
+PR Mauá da Serra
 PR Medianeira
 PR Mercedes
 PR Mirador
@@ -4136,145 +4136,145 @@ PR Missal
 PR Moreira Sales
 PR Morretes
 PR Munhoz de Melo
-PR Nossa Senhora das Graï¿½as
-PR Nova Alianï¿½a do Ivaï¿½
-PR Nova Amï¿½rica da Colina
+PR Nossa Senhora das Graças
+PR Nova Aliança do Ivaí
+PR Nova América da Colina
 PR Nova Aurora
 PR Nova Cantu
-PR Nova Esperanï¿½a
-PR Nova Esperanï¿½a do Sudoeste
-PR Nova Fï¿½tima
+PR Nova Esperança
+PR Nova Esperança do Sudoeste
+PR Nova Fátima
 PR Nova Laranjeiras
 PR Nova Londrina
-PR Nova Olï¿½mpia
-PR Nova Santa Bï¿½rbara
+PR Nova Olímpia
+PR Nova Santa Bárbara
 PR Nova Santa Rosa
-PR Nova Prata do Iguaï¿½u
+PR Nova Prata do Iguaçu
 PR Nova Tebas
 PR Novo Itacolomi
 PR Ortigueira
 PR Ourizona
 PR Ouro Verde do Oeste
-PR Paiï¿½andu
+PR Paiçandu
 PR Palmas
 PR Palmeira
 PR Palmital
 PR Palotina
-PR Paraï¿½so do Norte
+PR Paraíso do Norte
 PR Paranacity
-PR Paranaguï¿½
+PR Paranaguá
 PR Paranapoema
-PR Paranavaï¿½
+PR Paranavaí
 PR Pato Bragado
 PR Pato Branco
 PR Paula Freitas
 PR Paulo Frontin
 PR Peabiru
 PR Perobal
-PR Pï¿½rola
-PR Pï¿½rola d'Oeste
-PR Piï¿½n
+PR Pérola
+PR Pérola d'Oeste
+PR Piên
 PR Pinhais
-PR Pinhalï¿½o
-PR Pinhal de Sï¿½o Bento
-PR Pinhï¿½o
-PR Piraï¿½ do Sul
+PR Pinhalão
+PR Pinhal de São Bento
+PR Pinhão
+PR Piraí do Sul
 PR Piraquara
 PR Pitanga
 PR Pitangueiras
-PR Planaltina do Paranï¿½
+PR Planaltina do Paraná
 PR Planalto
 PR Ponta Grossa
-PR Pontal do Paranï¿½
+PR Pontal do Paraná
 PR Porecatu
 PR Porto Amazonas
 PR Porto Barreiro
 PR Porto Rico
-PR Porto Vitï¿½ria
+PR Porto Vitória
 PR Prado Ferreira
 PR Pranchita
 PR Presidente Castelo Branco
 PR Primeiro de Maio
-PR Prudentï¿½polis
-PR Quarto Centenï¿½rio
-PR Quatiguï¿½
+PR Prudentópolis
+PR Quarto Centenário
+PR Quatiguá
 PR Quatro Barras
 PR Quatro Pontes
-PR Quedas do Iguaï¿½u
-PR Querï¿½ncia do Norte
+PR Quedas do Iguaçu
+PR Querência do Norte
 PR Quinta do Sol
 PR Quitandinha
-PR Ramilï¿½ndia
+PR Ramilândia
 PR Rancho Alegre
 PR Rancho Alegre D'Oeste
 PR Realeza
-PR Rebouï¿½as
-PR Renascenï¿½a
+PR Rebouças
+PR Renascença
 PR Reserva
-PR Reserva do Iguaï¿½u
-PR Ribeirï¿½o Claro
-PR Ribeirï¿½o do Pinhal
+PR Reserva do Iguaçu
+PR Ribeirão Claro
+PR Ribeirão do Pinhal
 PR Rio Azul
 PR Rio Bom
-PR Rio Bonito do Iguaï¿½u
-PR Rio Branco do Ivaï¿½
+PR Rio Bonito do Iguaçu
+PR Rio Branco do Ivaí
 PR Rio Branco do Sul
 PR Rio Negro
-PR Rolï¿½ndia
+PR Rolândia
 PR Roncador
 PR Rondon
-PR Rosï¿½rio do Ivaï¿½
-PR Sabï¿½udia
+PR Rosário do Ivaí
+PR Sabáudia
 PR Salgado Filho
-PR Salto do Itararï¿½
+PR Salto do Itararé
 PR Salto do Lontra
-PR Santa Amï¿½lia
-PR Santa Cecï¿½lia do Pavï¿½o
+PR Santa Amélia
+PR Santa Cecília do Pavão
 PR Santa Cruz de Monte Castelo
-PR Santa Fï¿½
+PR Santa Fé
 PR Santa Helena
-PR Santa Inï¿½s
-PR Santa Isabel do Ivaï¿½
+PR Santa Inês
+PR Santa Isabel do Ivaí
 PR Santa Izabel do Oeste
-PR Santa Lï¿½cia
+PR Santa Lúcia
 PR Santa Maria do Oeste
 PR Santa Mariana
-PR Santa Mï¿½nica
-PR Santana do Itararï¿½
+PR Santa Mônica
+PR Santana do Itararé
 PR Santa Tereza do Oeste
 PR Santa Terezinha de Itaipu
-PR Santo Antï¿½nio da Platina
-PR Santo Antï¿½nio do Caiuï¿½
-PR Santo Antï¿½nio do Paraï¿½so
-PR Santo Antï¿½nio do Sudoeste
-PR Santo Inï¿½cio
-PR Sï¿½o Carlos do Ivaï¿½
-PR Sï¿½o Jerï¿½nimo da Serra
-PR Sï¿½o Joï¿½o
-PR Sï¿½o Joï¿½o do Caiuï¿½
-PR Sï¿½o Joï¿½o do Ivaï¿½
-PR Sï¿½o Joï¿½o do Triunfo
-PR Sï¿½o Jorge d'Oeste
-PR Sï¿½o Jorge do Ivaï¿½
-PR Sï¿½o Jorge do Patrocï¿½nio
-PR Sï¿½o Josï¿½ da Boa Vista
-PR Sï¿½o Josï¿½ das Palmeiras
-PR Sï¿½o Josï¿½ dos Pinhais
-PR Sï¿½o Manoel do Paranï¿½
-PR Sï¿½o Mateus do Sul
-PR Sï¿½o Miguel do Iguaï¿½u
-PR Sï¿½o Pedro do Iguaï¿½u
-PR Sï¿½o Pedro do Ivaï¿½
-PR Sï¿½o Pedro do Paranï¿½
-PR Sï¿½o Sebastiï¿½o da Amoreira
-PR Sï¿½o Tomï¿½
+PR Santo Antônio da Platina
+PR Santo Antônio do Caiuá
+PR Santo Antônio do Paraíso
+PR Santo Antônio do Sudoeste
+PR Santo Inácio
+PR São Carlos do Ivaí
+PR São Jerônimo da Serra
+PR São João
+PR São João do Caiuá
+PR São João do Ivaí
+PR São João do Triunfo
+PR São Jorge d'Oeste
+PR São Jorge do Ivaí
+PR São Jorge do Patrocínio
+PR São José da Boa Vista
+PR São José das Palmeiras
+PR São José dos Pinhais
+PR São Manoel do Paraná
+PR São Mateus do Sul
+PR São Miguel do Iguaçu
+PR São Pedro do Iguaçu
+PR São Pedro do Ivaí
+PR São Pedro do Paraná
+PR São Sebastião da Amoreira
+PR São Tomé
 PR Sapopema
 PR Sarandi
-PR Saudade do Iguaï¿½u
-PR Sengï¿½s
-PR Serranï¿½polis do Iguaï¿½u
+PR Saudade do Iguaçu
+PR Sengés
+PR Serranópolis do Iguaçu
 PR Sertaneja
-PR Sertanï¿½polis
+PR Sertanópolis
 PR Siqueira Campos
 PR Sulina
 PR Tamarana
@@ -4282,7 +4282,7 @@ PR Tamboara
 PR Tapejara
 PR Tapira
 PR Teixeira Soares
-PR Telï¿½maco Borba
+PR Telêmaco Borba
 PR Terra Boa
 PR Terra Rica
 PR Terra Roxa
@@ -4290,61 +4290,61 @@ PR Tibagi
 PR Tijucas do Sul
 PR Toledo
 PR Tomazina
-PR Trï¿½s Barras do Paranï¿½
-PR Tunas do Paranï¿½
+PR Três Barras do Paraná
+PR Tunas do Paraná
 PR Tuneiras do Oeste
-PR Tupï¿½ssi
+PR Tupãssi
 PR Turvo
-PR Ubiratï¿½
+PR Ubiratã
 PR Umuarama
-PR Uniï¿½o da Vitï¿½ria
+PR União da Vitória
 PR Uniflor
-PR Uraï¿½
+PR Uraí
 PR Wenceslau Braz
 PR Ventania
 PR Vera Cruz do Oeste
-PR Verï¿½
-PR Alto Paraï¿½so
+PR Verê
+PR Alto Paraíso
 PR Doutor Ulysses
 PR Virmond
 PR Vitorino
-PR Xambrï¿½
+PR Xambrê
 SC Abdon Batista
 SC Abelardo Luz
-SC Agrolï¿½ndia
-SC Agronï¿½mica
-SC ï¿½gua Doce
-SC ï¿½guas de Chapecï¿½
-SC ï¿½guas Frias
-SC ï¿½guas Mornas
+SC Agrolândia
+SC Agronômica
+SC Água Doce
+SC Águas de Chapecó
+SC Águas Frias
+SC Águas Mornas
 SC Alfredo Wagner
 SC Alto Bela Vista
 SC Anchieta
 SC Angelina
 SC Anita Garibaldi
-SC Anitï¿½polis
-SC Antï¿½nio Carlos
-SC Apiï¿½na
-SC Arabutï¿½
+SC Anitápolis
+SC Antônio Carlos
+SC Apiúna
+SC Arabutã
 SC Araquari
-SC Araranguï¿½
-SC Armazï¿½m
+SC Araranguá
+SC Armazém
 SC Arroio Trinta
 SC Arvoredo
 SC Ascurra
 SC Atalanta
 SC Aurora
-SC Balneï¿½rio Arroio do Silva
-SC Balneï¿½rio Camboriï¿½
-SC Balneï¿½rio Barra do Sul
-SC Balneï¿½rio Gaivota
+SC Balneário Arroio do Silva
+SC Balneário Camboriú
+SC Balneário Barra do Sul
+SC Balneário Gaivota
 SC Bandeirante
 SC Barra Bonita
 SC Barra Velha
 SC Bela Vista do Toldo
 SC Belmonte
 SC Benedito Novo
-SC Biguaï¿½u
+SC Biguaçu
 SC Blumenau
 SC Bocaina do Sul
 SC Bombinhas
@@ -4352,19 +4352,19 @@ SC Bom Jardim da Serra
 SC Bom Jesus
 SC Bom Jesus do Oeste
 SC Bom Retiro
-SC Botuverï¿½
-SC Braï¿½o do Norte
-SC Braï¿½o do Trombudo
-SC Brunï¿½polis
+SC Botuverá
+SC Braço do Norte
+SC Braço do Trombudo
+SC Brunópolis
 SC Brusque
-SC Caï¿½ador
+SC Caçador
 SC Caibi
 SC Calmon
-SC Camboriï¿½
-SC Capï¿½o Alto
+SC Camboriú
+SC Capão Alto
 SC Campo Alegre
 SC Campo Belo do Sul
-SC Campo Erï¿½
+SC Campo Erê
 SC Campos Novos
 SC Canelinha
 SC Canoinhas
@@ -4374,89 +4374,89 @@ SC Catanduvas
 SC Caxambu do Sul
 SC Celso Ramos
 SC Cerro Negro
-SC Chapadï¿½o do Lageado
-SC Chapecï¿½
+SC Chapadão do Lageado
+SC Chapecó
 SC Cocal do Sul
-SC Concï¿½rdia
+SC Concórdia
 SC Cordilheira Alta
 SC Coronel Freitas
 SC Coronel Martins
-SC Corupï¿½
+SC Corupá
 SC Correia Pinto
-SC Criciï¿½ma
-SC Cunha Porï¿½
-SC Cunhataï¿½
+SC Criciúma
+SC Cunha Porã
+SC Cunhataí
 SC Curitibanos
 SC Descanso
-SC Dionï¿½sio Cerqueira
+SC Dionísio Cerqueira
 SC Dona Emma
 SC Doutor Pedrinho
 SC Entre Rios
 SC Ermo
 SC Erval Velho
 SC Faxinal dos Guedes
-SC Flor do Sertï¿½o
-SC Florianï¿½polis
+SC Flor do Sertão
+SC Florianópolis
 SC Formosa do Sul
 SC Forquilhinha
 SC Fraiburgo
-SC Frei Rogï¿½rio
-SC Galvï¿½o
+SC Frei Rogério
+SC Galvão
 SC Garopaba
 SC Garuva
 SC Gaspar
 SC Governador Celso Ramos
-SC Grï¿½o Parï¿½
+SC Grão Pará
 SC Gravatal
 SC Guabiruba
 SC Guaraciaba
 SC Guaramirim
-SC Guarujï¿½ do Sul
-SC Guatambï¿½
+SC Guarujá do Sul
+SC Guatambú
 SC Herval d'Oeste
 SC Ibiam
-SC Ibicarï¿½
+SC Ibicaré
 SC Ibirama
-SC Iï¿½ara
+SC Içara
 SC Ilhota
-SC Imaruï¿½
+SC Imaruí
 SC Imbituba
 SC Imbuia
 SC Indaial
-SC Iomerï¿½
+SC Iomerê
 SC Ipira
-SC Iporï¿½ do Oeste
-SC Ipuaï¿½u
+SC Iporã do Oeste
+SC Ipuaçu
 SC Ipumirim
 SC Iraceminha
 SC Irani
 SC Irati
-SC Irineï¿½polis
-SC Itï¿½
-SC Itaiï¿½polis
-SC Itajaï¿½
+SC Irineópolis
+SC Itá
+SC Itaiópolis
+SC Itajaí
 SC Itapema
 SC Itapiranga
-SC Itapoï¿½
+SC Itapoá
 SC Ituporanga
-SC Jaborï¿½
+SC Jaborá
 SC Jacinto Machado
 SC Jaguaruna
-SC Jaraguï¿½ do Sul
-SC Jardinï¿½polis
-SC Joaï¿½aba
+SC Jaraguá do Sul
+SC Jardinópolis
+SC Joaçaba
 SC Joinville
-SC Josï¿½ Boiteux
-SC Jupiï¿½
-SC Lacerdï¿½polis
+SC José Boiteux
+SC Jupiá
+SC Lacerdópolis
 SC Lages
 SC Laguna
 SC Lajeado Grande
 SC Laurentino
 SC Lauro Muller
-SC Lebon Rï¿½gis
+SC Lebon Régis
 SC Leoberto Leal
-SC Lindï¿½ia do Sul
+SC Lindóia do Sul
 SC Lontras
 SC Luiz Alves
 SC Luzerna
@@ -4464,7 +4464,7 @@ SC Macieira
 SC Mafra
 SC Major Gercino
 SC Major Vieira
-SC Maracajï¿½
+SC Maracajá
 SC Maravilha
 SC Marema
 SC Massaranduba
@@ -4472,10 +4472,10 @@ SC Matos Costa
 SC Meleiro
 SC Mirim Doce
 SC Modelo
-SC Mondaï¿½
+SC Mondaí
 SC Monte Carlo
 SC Monte Castelo
-SC Morro da Fumaï¿½a
+SC Morro da Fumaça
 SC Morro Grande
 SC Navegantes
 SC Nova Erechim
@@ -4484,17 +4484,17 @@ SC Nova Trento
 SC Nova Veneza
 SC Novo Horizonte
 SC Orleans
-SC Otacï¿½lio Costa
+SC Otacílio Costa
 SC Ouro
 SC Ouro Verde
 SC Paial
 SC Painel
-SC Palhoï¿½a
+SC Palhoça
 SC Palma Sola
 SC Palmeira
 SC Palmitos
 SC Papanduva
-SC Paraï¿½so
+SC Paraíso
 SC Passo de Torres
 SC Passos Maia
 SC Paulo Lopes
@@ -4502,8 +4502,8 @@ SC Pedras Grandes
 SC Penha
 SC Peritiba
 SC Pescaria Brava
-SC Petrolï¿½ndia
-SC Balneï¿½rio Piï¿½arras
+SC Petrolândia
+SC Balneário Piçarras
 SC Pinhalzinho
 SC Pinheiro Preto
 SC Piratuba
@@ -4513,11 +4513,11 @@ SC Ponte Alta
 SC Ponte Alta do Norte
 SC Ponte Serrada
 SC Porto Belo
-SC Porto Uniï¿½o
+SC Porto União
 SC Pouso Redondo
 SC Praia Grande
 SC Presidente Castello Branco
-SC Presidente Getï¿½lio
+SC Presidente Getúlio
 SC Presidente Nereu
 SC Princesa
 SC Quilombo
@@ -4532,12 +4532,12 @@ SC Rio Negrinho
 SC Rio Rufino
 SC Riqueza
 SC Rodeio
-SC Romelï¿½ndia
+SC Romelândia
 SC Salete
 SC Saltinho
 SC Salto Veloso
-SC Sangï¿½o
-SC Santa Cecï¿½lia
+SC Sangão
+SC Santa Cecília
 SC Santa Helena
 SC Santa Rosa de Lima
 SC Santa Rosa do Sul
@@ -4545,84 +4545,84 @@ SC Santa Terezinha
 SC Santa Terezinha do Progresso
 SC Santiago do Sul
 SC Santo Amaro da Imperatriz
-SC Sï¿½o Bernardino
-SC Sï¿½o Bento do Sul
-SC Sï¿½o Bonifï¿½cio
-SC Sï¿½o Carlos
-SC Sï¿½o Cristovï¿½o do Sul
-SC Sï¿½o Domingos
-SC Sï¿½o Francisco do Sul
-SC Sï¿½o Joï¿½o do Oeste
-SC Sï¿½o Joï¿½o Batista
-SC Sï¿½o Joï¿½o do Itaperiï¿½
-SC Sï¿½o Joï¿½o do Sul
-SC Sï¿½o Joaquim
-SC Sï¿½o Josï¿½
-SC Sï¿½o Josï¿½ do Cedro
-SC Sï¿½o Josï¿½ do Cerrito
-SC Sï¿½o Lourenï¿½o do Oeste
-SC Sï¿½o Ludgero
-SC Sï¿½o Martinho
-SC Sï¿½o Miguel da Boa Vista
-SC Sï¿½o Miguel do Oeste
-SC Sï¿½o Pedro de Alcï¿½ntara
+SC São Bernardino
+SC São Bento do Sul
+SC São Bonifácio
+SC São Carlos
+SC São Cristovão do Sul
+SC São Domingos
+SC São Francisco do Sul
+SC São João do Oeste
+SC São João Batista
+SC São João do Itaperiú
+SC São João do Sul
+SC São Joaquim
+SC São José
+SC São José do Cedro
+SC São José do Cerrito
+SC São Lourenço do Oeste
+SC São Ludgero
+SC São Martinho
+SC São Miguel da Boa Vista
+SC São Miguel do Oeste
+SC São Pedro de Alcântara
 SC Saudades
 SC Schroeder
 SC Seara
 SC Serra Alta
-SC Siderï¿½polis
+SC Siderópolis
 SC Sombrio
 SC Sul Brasil
-SC Taiï¿½
-SC Tangarï¿½
+SC Taió
+SC Tangará
 SC Tigrinhos
 SC Tijucas
-SC Timbï¿½ do Sul
-SC Timbï¿½
-SC Timbï¿½ Grande
-SC Trï¿½s Barras
+SC Timbé do Sul
+SC Timbó
+SC Timbó Grande
+SC Três Barras
 SC Treviso
 SC Treze de Maio
-SC Treze Tï¿½lias
+SC Treze Tílias
 SC Trombudo Central
-SC Tubarï¿½o
-SC Tunï¿½polis
+SC Tubarão
+SC Tunápolis
 SC Turvo
-SC Uniï¿½o do Oeste
+SC União do Oeste
 SC Urubici
 SC Urupema
 SC Urussanga
-SC Vargeï¿½o
+SC Vargeão
 SC Vargem
 SC Vargem Bonita
 SC Vidal Ramos
 SC Videira
 SC Vitor Meireles
 SC Witmarsum
-SC Xanxerï¿½
+SC Xanxerê
 SC Xavantina
 SC Xaxim
-SC Zortï¿½a
-SC Balneï¿½rio Rincï¿½o
-RS Aceguï¿½
-RS ï¿½gua Santa
+SC Zortéa
+SC Balneário Rincão
+RS Aceguá
+RS Água Santa
 RS Agudo
 RS Ajuricaba
 RS Alecrim
 RS Alegrete
 RS Alegria
-RS Almirante Tamandarï¿½ do Sul
+RS Almirante Tamandaré do Sul
 RS Alpestre
 RS Alto Alegre
 RS Alto Feliz
 RS Alvorada
 RS Amaral Ferrador
 RS Ametista do Sul
-RS Andrï¿½ da Rocha
+RS André da Rocha
 RS Anta Gorda
-RS Antï¿½nio Prado
-RS Arambarï¿½
-RS Araricï¿½
+RS Antônio Prado
+RS Arambaré
+RS Araricá
 RS Aratiba
 RS Arroio do Meio
 RS Arroio do Sal
@@ -4632,75 +4632,75 @@ RS Arroio do Tigre
 RS Arroio Grande
 RS Arvorezinha
 RS Augusto Pestana
-RS ï¿½urea
-RS Bagï¿½
-RS Balneï¿½rio Pinhal
-RS Barï¿½o
-RS Barï¿½o de Cotegipe
-RS Barï¿½o do Triunfo
-RS Barracï¿½o
+RS Áurea
+RS Bagé
+RS Balneário Pinhal
+RS Barão
+RS Barão de Cotegipe
+RS Barão do Triunfo
+RS Barracão
 RS Barra do Guarita
-RS Barra do Quaraï¿½
+RS Barra do Quaraí
 RS Barra do Ribeiro
 RS Barra do Rio Azul
 RS Barra Funda
 RS Barros Cassal
 RS Benjamin Constant do Sul
-RS Bento Gonï¿½alves
-RS Boa Vista das Missï¿½es
-RS Boa Vista do Buricï¿½
+RS Bento Gonçalves
+RS Boa Vista das Missões
+RS Boa Vista do Buricá
 RS Boa Vista do Cadeado
 RS Boa Vista do Incra
 RS Boa Vista do Sul
 RS Bom Jesus
-RS Bom Princï¿½pio
+RS Bom Princípio
 RS Bom Progresso
 RS Bom Retiro do Sul
-RS Boqueirï¿½o do Leï¿½o
+RS Boqueirão do Leão
 RS Bossoroca
 RS Bozano
 RS Braga
 RS Brochier
-RS Butiï¿½
-RS Caï¿½apava do Sul
+RS Butiá
+RS Caçapava do Sul
 RS Cacequi
 RS Cachoeira do Sul
 RS Cachoeirinha
 RS Cacique Doble
-RS Caibatï¿½
-RS Caiï¿½ara
-RS Camaquï¿½
+RS Caibaté
+RS Caiçara
+RS Camaquã
 RS Camargo
-RS Cambarï¿½ do Sul
+RS Cambará do Sul
 RS Campestre da Serra
-RS Campina das Missï¿½es
+RS Campina das Missões
 RS Campinas do Sul
 RS Campo Bom
 RS Campo Novo
 RS Campos Borges
-RS Candelï¿½ria
-RS Cï¿½ndido Godï¿½i
+RS Candelária
+RS Cândido Godói
 RS Candiota
 RS Canela
-RS Canguï¿½u
+RS Canguçu
 RS Canoas
 RS Canudos do Vale
-RS Capï¿½o Bonito do Sul
-RS Capï¿½o da Canoa
-RS Capï¿½o do Cipï¿½
-RS Capï¿½o do Leï¿½o
+RS Capão Bonito do Sul
+RS Capão da Canoa
+RS Capão do Cipó
+RS Capão do Leão
 RS Capivari do Sul
 RS Capela de Santana
-RS Capitï¿½o
+RS Capitão
 RS Carazinho
-RS Caraï¿½
+RS Caraá
 RS Carlos Barbosa
 RS Carlos Gomes
 RS Casca
 RS Caseiros
-RS Catuï¿½pe
+RS Catuípe
 RS Caxias do Sul
-RS Centenï¿½rio
+RS Centenário
 RS Cerrito
 RS Cerro Branco
 RS Cerro Grande
@@ -4710,10 +4710,10 @@ RS Chapada
 RS Charqueadas
 RS Charrua
 RS Chiapetta
-RS Chuï¿½
+RS Chuí
 RS Chuvisca
 RS Cidreira
-RS Cirï¿½aco
+RS Ciríaco
 RS Colinas
 RS Colorado
 RS Condor
@@ -4723,7 +4723,7 @@ RS Coqueiros do Sul
 RS Coronel Barros
 RS Coronel Bicaco
 RS Coronel Pilar
-RS Cotiporï¿½
+RS Cotiporã
 RS Coxilha
 RS Crissiumal
 RS Cristal
@@ -4735,20 +4735,20 @@ RS David Canabarro
 RS Derrubadas
 RS Dezesseis de Novembro
 RS Dilermando de Aguiar
-RS Dois Irmï¿½os
-RS Dois Irmï¿½os das Missï¿½es
+RS Dois Irmãos
+RS Dois Irmãos das Missões
 RS Dois Lajeados
 RS Dom Feliciano
-RS Dom Pedro de Alcï¿½ntara
+RS Dom Pedro de Alcântara
 RS Dom Pedrito
 RS Dona Francisca
-RS Doutor Maurï¿½cio Cardoso
+RS Doutor Maurício Cardoso
 RS Doutor Ricardo
 RS Eldorado do Sul
 RS Encantado
 RS Encruzilhada do Sul
 RS Engenho Velho
-RS Entre-Ijuï¿½s
+RS Entre-Ijuís
 RS Entre Rios do Sul
 RS Erebango
 RS Erechim
@@ -4757,14 +4757,14 @@ RS Herval
 RS Erval Grande
 RS Erval Seco
 RS Esmeralda
-RS Esperanï¿½a do Sul
+RS Esperança do Sul
 RS Espumoso
-RS Estaï¿½ï¿½o
-RS Estï¿½ncia Velha
+RS Estação
+RS Estância Velha
 RS Esteio
 RS Estrela
 RS Estrela Velha
-RS Eugï¿½nio de Castro
+RS Eugênio de Castro
 RS Fagundes Varela
 RS Farroupilha
 RS Faxinal do Soturno
@@ -4781,59 +4781,59 @@ RS Frederico Westphalen
 RS Garibaldi
 RS Garruchos
 RS Gaurama
-RS General Cï¿½mara
+RS General Câmara
 RS Gentil
-RS Getï¿½lio Vargas
-RS Giruï¿½
+RS Getúlio Vargas
+RS Giruá
 RS Glorinha
 RS Gramado
 RS Gramado dos Loureiros
 RS Gramado Xavier
-RS Gravataï¿½
+RS Gravataí
 RS Guabiju
-RS Guaï¿½ba
-RS Guaporï¿½
-RS Guarani das Missï¿½es
+RS Guaíba
+RS Guaporé
+RS Guarani das Missões
 RS Harmonia
 RS Herveiras
 RS Horizontina
 RS Hulha Negra
-RS Humaitï¿½
+RS Humaitá
 RS Ibarama
-RS Ibiaï¿½ï¿½
+RS Ibiaçá
 RS Ibiraiaras
-RS Ibirapuitï¿½
-RS Ibirubï¿½
+RS Ibirapuitã
+RS Ibirubá
 RS Igrejinha
-RS Ijuï¿½
-RS Ilï¿½polis
-RS Imbï¿½
+RS Ijuí
+RS Ilópolis
+RS Imbé
 RS Imigrante
-RS Independï¿½ncia
-RS Inhacorï¿½
-RS Ipï¿½
+RS Independência
+RS Inhacorá
+RS Ipê
 RS Ipiranga do Sul
-RS Iraï¿½
+RS Iraí
 RS Itaara
 RS Itacurubi
 RS Itapuca
 RS Itaqui
 RS Itati
 RS Itatiba do Sul
-RS Ivorï¿½
+RS Ivorá
 RS Ivoti
 RS Jaboticaba
 RS Jacuizinho
 RS Jacutinga
-RS Jaguarï¿½o
+RS Jaguarão
 RS Jaguari
 RS Jaquirana
 RS Jari
-RS Jï¿½ia
-RS Jï¿½lio de Castilhos
+RS Jóia
+RS Júlio de Castilhos
 RS Lagoa Bonita do Sul
-RS Lagoï¿½o
-RS Lagoa dos Trï¿½s Cantos
+RS Lagoão
+RS Lagoa dos Três Cantos
 RS Lagoa Vermelha
 RS Lajeado
 RS Lajeado do Bugre
@@ -4842,11 +4842,11 @@ RS Liberato Salzano
 RS Lindolfo Collor
 RS Linha Nova
 RS Machadinho
-RS Maï¿½ambarï¿½
+RS Maçambará
 RS Mampituba
 RS Manoel Viana
-RS Maquinï¿½
-RS Maratï¿½
+RS Maquiné
+RS Maratá
 RS Marau
 RS Marcelino Ramos
 RS Mariana Pimentel
@@ -4854,37 +4854,37 @@ RS Mariano Moro
 RS Marques de Souza
 RS Mata
 RS Mato Castelhano
-RS Mato Leitï¿½o
+RS Mato Leitão
 RS Mato Queimado
 RS Maximiliano de Almeida
-RS Minas do Leï¿½o
-RS Miraguaï¿½
+RS Minas do Leão
+RS Miraguaí
 RS Montauri
 RS Monte Alegre dos Campos
 RS Monte Belo do Sul
 RS Montenegro
-RS Mormaï¿½o
+RS Mormaço
 RS Morrinhos do Sul
 RS Morro Redondo
 RS Morro Reuter
 RS Mostardas
-RS Muï¿½um
-RS Muitos Capï¿½es
+RS Muçum
+RS Muitos Capões
 RS Muliterno
-RS Nï¿½o-Me-Toque
+RS Não-Me-Toque
 RS Nicolau Vergueiro
 RS Nonoai
 RS Nova Alvorada
-RS Nova Araï¿½ï¿½
+RS Nova Araçá
 RS Nova Bassano
 RS Nova Boa Vista
-RS Nova Brï¿½scia
-RS Nova Candelï¿½ria
-RS Nova Esperanï¿½a do Sul
+RS Nova Bréscia
+RS Nova Candelária
+RS Nova Esperança do Sul
 RS Nova Hartz
-RS Nova Pï¿½dua
+RS Nova Pádua
 RS Nova Palma
-RS Nova Petrï¿½polis
+RS Nova Petrópolis
 RS Nova Prata
 RS Nova Ramada
 RS Nova Roma do Sul
@@ -4895,58 +4895,58 @@ RS Novo Machado
 RS Novo Tiradentes
 RS Novo Xingu
 RS Novo Barreiro
-RS Osï¿½rio
+RS Osório
 RS Paim Filho
 RS Palmares do Sul
-RS Palmeira das Missï¿½es
+RS Palmeira das Missões
 RS Palmitinho
 RS Panambi
 RS Pantano Grande
-RS Paraï¿½
-RS Paraï¿½so do Sul
+RS Paraí
+RS Paraíso do Sul
 RS Pareci Novo
-RS Parobï¿½
+RS Parobé
 RS Passa Sete
 RS Passo do Sobrado
 RS Passo Fundo
 RS Paulo Bento
 RS Paverama
 RS Pedras Altas
-RS Pedro Osï¿½rio
-RS Pejuï¿½ara
+RS Pedro Osório
+RS Pejuçara
 RS Pelotas
-RS Picada Cafï¿½
+RS Picada Café
 RS Pinhal
 RS Pinhal da Serra
 RS Pinhal Grande
 RS Pinheirinho do Vale
 RS Pinheiro Machado
 RS Pinto Bandeira
-RS Pirapï¿½
+RS Pirapó
 RS Piratini
 RS Planalto
-RS Poï¿½o das Antas
-RS Pontï¿½o
+RS Poço das Antas
+RS Pontão
 RS Ponte Preta
-RS Portï¿½o
+RS Portão
 RS Porto Alegre
 RS Porto Lucena
-RS Porto Mauï¿½
+RS Porto Mauá
 RS Porto Vera Cruz
 RS Porto Xavier
 RS Pouso Novo
 RS Presidente Lucena
 RS Progresso
-RS Protï¿½sio Alves
+RS Protásio Alves
 RS Putinga
-RS Quaraï¿½
-RS Quatro Irmï¿½os
+RS Quaraí
+RS Quatro Irmãos
 RS Quevedos
 RS Quinze de Novembro
 RS Redentora
 RS Relvado
-RS Restinga Sï¿½ca
-RS Rio dos ï¿½ndios
+RS Restinga Sêca
+RS Rio dos Índios
 RS Rio Grande
 RS Rio Pardo
 RS Riozinho
@@ -4957,15 +4957,15 @@ RS Rolante
 RS Ronda Alta
 RS Rondinha
 RS Roque Gonzales
-RS Rosï¿½rio do Sul
-RS Sagrada Famï¿½lia
+RS Rosário do Sul
+RS Sagrada Família
 RS Saldanha Marinho
-RS Salto do Jacuï¿½
-RS Salvador das Missï¿½es
+RS Salto do Jacuí
+RS Salvador das Missões
 RS Salvador do Sul
 RS Sananduva
-RS Santa Bï¿½rbara do Sul
-RS Santa Cecï¿½lia do Sul
+RS Santa Bárbara do Sul
+RS Santa Cecília do Sul
 RS Santa Clara do Sul
 RS Santa Cruz do Sul
 RS Santa Maria
@@ -4975,53 +4975,53 @@ RS Santana da Boa Vista
 RS Sant'Ana do Livramento
 RS Santa Rosa
 RS Santa Tereza
-RS Santa Vitï¿½ria do Palmar
+RS Santa Vitória do Palmar
 RS Santiago
-RS Santo ï¿½ngelo
-RS Santo Antï¿½nio do Palma
-RS Santo Antï¿½nio da Patrulha
-RS Santo Antï¿½nio das Missï¿½es
-RS Santo Antï¿½nio do Planalto
+RS Santo Ângelo
+RS Santo Antônio do Palma
+RS Santo Antônio da Patrulha
+RS Santo Antônio das Missões
+RS Santo Antônio do Planalto
 RS Santo Augusto
 RS Santo Cristo
 RS Santo Expedito do Sul
-RS Sï¿½o Borja
-RS Sï¿½o Domingos do Sul
-RS Sï¿½o Francisco de Assis
-RS Sï¿½o Francisco de Paula
-RS Sï¿½o Gabriel
-RS Sï¿½o Jerï¿½nimo
-RS Sï¿½o Joï¿½o da Urtiga
-RS Sï¿½o Joï¿½o do Polï¿½sine
-RS Sï¿½o Jorge
-RS Sï¿½o Josï¿½ das Missï¿½es
-RS Sï¿½o Josï¿½ do Herval
-RS Sï¿½o Josï¿½ do Hortï¿½ncio
-RS Sï¿½o Josï¿½ do Inhacorï¿½
-RS Sï¿½o Josï¿½ do Norte
-RS Sï¿½o Josï¿½ do Ouro
-RS Sï¿½o Josï¿½ do Sul
-RS Sï¿½o Josï¿½ dos Ausentes
-RS Sï¿½o Leopoldo
-RS Sï¿½o Lourenï¿½o do Sul
-RS Sï¿½o Luiz Gonzaga
-RS Sï¿½o Marcos
-RS Sï¿½o Martinho
-RS Sï¿½o Martinho da Serra
-RS Sï¿½o Miguel das Missï¿½es
-RS Sï¿½o Nicolau
-RS Sï¿½o Paulo das Missï¿½es
-RS Sï¿½o Pedro da Serra
-RS Sï¿½o Pedro das Missï¿½es
-RS Sï¿½o Pedro do Butiï¿½
-RS Sï¿½o Pedro do Sul
-RS Sï¿½o Sebastiï¿½o do Caï¿½
-RS Sï¿½o Sepï¿½
-RS Sï¿½o Valentim
-RS Sï¿½o Valentim do Sul
-RS Sï¿½o Valï¿½rio do Sul
-RS Sï¿½o Vendelino
-RS Sï¿½o Vicente do Sul
+RS São Borja
+RS São Domingos do Sul
+RS São Francisco de Assis
+RS São Francisco de Paula
+RS São Gabriel
+RS São Jerônimo
+RS São João da Urtiga
+RS São João do Polêsine
+RS São Jorge
+RS São José das Missões
+RS São José do Herval
+RS São José do Hortêncio
+RS São José do Inhacorá
+RS São José do Norte
+RS São José do Ouro
+RS São José do Sul
+RS São José dos Ausentes
+RS São Leopoldo
+RS São Lourenço do Sul
+RS São Luiz Gonzaga
+RS São Marcos
+RS São Martinho
+RS São Martinho da Serra
+RS São Miguel das Missões
+RS São Nicolau
+RS São Paulo das Missões
+RS São Pedro da Serra
+RS São Pedro das Missões
+RS São Pedro do Butiá
+RS São Pedro do Sul
+RS São Sebastião do Caí
+RS São Sepé
+RS São Valentim
+RS São Valentim do Sul
+RS São Valério do Sul
+RS São Vendelino
+RS São Vicente do Sul
 RS Sapiranga
 RS Sapucaia do Sul
 RS Sarandi
@@ -5031,51 +5031,51 @@ RS Segredo
 RS Selbach
 RS Senador Salgado Filho
 RS Sentinela do Sul
-RS Serafina Corrï¿½a
-RS Sï¿½rio
-RS Sertï¿½o
-RS Sertï¿½o Santana
+RS Serafina Corrêa
+RS Sério
+RS Sertão
+RS Sertão Santana
 RS Sete de Setembro
 RS Severiano de Almeida
 RS Silveira Martins
 RS Sinimbu
 RS Sobradinho
 RS Soledade
-RS Tabaï¿½
+RS Tabaí
 RS Tapejara
 RS Tapera
 RS Tapes
 RS Taquara
 RS Taquari
-RS Taquaruï¿½u do Sul
+RS Taquaruçu do Sul
 RS Tavares
 RS Tenente Portela
 RS Terra de Areia
-RS Teutï¿½nia
+RS Teutônia
 RS Tio Hugo
 RS Tiradentes do Sul
 RS Toropi
 RS Torres
-RS Tramandaï¿½
+RS Tramandaí
 RS Travesseiro
-RS Trï¿½s Arroios
-RS Trï¿½s Cachoeiras
-RS Trï¿½s Coroas
-RS Trï¿½s de Maio
-RS Trï¿½s Forquilhas
-RS Trï¿½s Palmeiras
-RS Trï¿½s Passos
+RS Três Arroios
+RS Três Cachoeiras
+RS Três Coroas
+RS Três de Maio
+RS Três Forquilhas
+RS Três Palmeiras
+RS Três Passos
 RS Trindade do Sul
 RS Triunfo
 RS Tucunduva
 RS Tunas
 RS Tupanci do Sul
-RS Tupanciretï¿½
+RS Tupanciretã
 RS Tupandi
 RS Tuparendi
-RS Turuï¿½u
+RS Turuçu
 RS Ubiretama
-RS Uniï¿½o da Serra
+RS União da Serra
 RS Unistalda
 RS Uruguaiana
 RS Vacaria
@@ -5083,86 +5083,86 @@ RS Vale Verde
 RS Vale do Sol
 RS Vale Real
 RS Vanini
-RS Venï¿½ncio Aires
+RS Venâncio Aires
 RS Vera Cruz
-RS Veranï¿½polis
-RS Vespasiano Corrï¿½a
+RS Veranópolis
+RS Vespasiano Corrêa
 RS Viadutos
-RS Viamï¿½o
+RS Viamão
 RS Vicente Dutra
 RS Victor Graeff
 RS Vila Flores
-RS Vila Lï¿½ngaro
+RS Vila Lângaro
 RS Vila Maria
 RS Vila Nova do Sul
 RS Vista Alegre
 RS Vista Alegre do Prata
-RS Vista Gaï¿½cha
-RS Vitï¿½ria das Missï¿½es
-RS Westfï¿½lia
-RS Xangri-lï¿½
-MS ï¿½gua Clara
-MS Alcinï¿½polis
+RS Vista Gaúcha
+RS Vitória das Missões
+RS Westfália
+RS Xangri-lá
+MS Água Clara
+MS Alcinópolis
 MS Amambai
-MS Anastï¿½cio
-MS Anaurilï¿½ndia
-MS Angï¿½lica
-MS Antï¿½nio Joï¿½o
+MS Anastácio
+MS Anaurilândia
+MS Angélica
+MS Antônio João
 MS Aparecida do Taboado
 MS Aquidauana
 MS Aral Moreira
 MS Bandeirantes
 MS Bataguassu
-MS Batayporï¿½
+MS Batayporã
 MS Bela Vista
 MS Bodoquena
 MS Bonito
-MS Brasilï¿½ndia
-MS Caarapï¿½
-MS Camapuï¿½
+MS Brasilândia
+MS Caarapó
+MS Camapuã
 MS Campo Grande
 MS Caracol
-MS Cassilï¿½ndia
-MS Chapadï¿½o do Sul
+MS Cassilândia
+MS Chapadão do Sul
 MS Corguinho
 MS Coronel Sapucaia
-MS Corumbï¿½
+MS Corumbá
 MS Costa Rica
 MS Coxim
-MS Deodï¿½polis
-MS Dois Irmï¿½os do Buriti
+MS Deodápolis
+MS Dois Irmãos do Buriti
 MS Douradina
 MS Dourados
 MS Eldorado
-MS Fï¿½tima do Sul
-MS Figueirï¿½o
-MS Glï¿½ria de Dourados
+MS Fátima do Sul
+MS Figueirão
+MS Glória de Dourados
 MS Guia Lopes da Laguna
 MS Iguatemi
-MS Inocï¿½ncia
-MS Itaporï¿½
-MS Itaquiraï¿½
+MS Inocência
+MS Itaporã
+MS Itaquiraí
 MS Ivinhema
-MS Japorï¿½
+MS Japorã
 MS Jaraguari
 MS Jardim
-MS Jateï¿½
+MS Jateí
 MS Juti
-MS Ladï¿½rio
-MS Laguna Carapï¿½
+MS Ladário
+MS Laguna Carapã
 MS Maracaju
 MS Miranda
 MS Mundo Novo
-MS Naviraï¿½
+MS Naviraí
 MS Nioaque
 MS Nova Alvorada do Sul
 MS Nova Andradina
 MS Novo Horizonte do Sul
-MS Paraï¿½so das ï¿½guas
-MS Paranaï¿½ba
+MS Paraíso das Águas
+MS Paranaíba
 MS Paranhos
 MS Pedro Gomes
-MS Ponta Porï¿½
+MS Ponta Porã
 MS Porto Murtinho
 MS Ribas do Rio Pardo
 MS Rio Brilhante
@@ -5170,401 +5170,401 @@ MS Rio Negro
 MS Rio Verde de Mato Grosso
 MS Rochedo
 MS Santa Rita do Pardo
-MS Sï¿½o Gabriel do Oeste
+MS São Gabriel do Oeste
 MS Sete Quedas
-MS Selvï¿½ria
-MS Sidrolï¿½ndia
+MS Selvíria
+MS Sidrolândia
 MS Sonora
 MS Tacuru
 MS Taquarussu
 MS Terenos
-MS Trï¿½s Lagoas
+MS Três Lagoas
 MS Vicentina
 MT Acorizal
-MT ï¿½gua Boa
+MT Água Boa
 MT Alta Floresta
 MT Alto Araguaia
 MT Alto Boa Vista
-MT Alto Garï¿½as
+MT Alto Garças
 MT Alto Paraguai
 MT Alto Taquari
-MT Apiacï¿½s
+MT Apiacás
 MT Araguaiana
 MT Araguainha
 MT Araputanga
-MT Arenï¿½polis
-MT Aripuanï¿½
-MT Barï¿½o de Melgaï¿½o
+MT Arenápolis
+MT Aripuanã
+MT Barão de Melgaço
 MT Barra do Bugres
-MT Barra do Garï¿½as
+MT Barra do Garças
 MT Bom Jesus do Araguaia
 MT Brasnorte
-MT Cï¿½ceres
-MT Campinï¿½polis
+MT Cáceres
+MT Campinápolis
 MT Campo Novo do Parecis
 MT Campo Verde
-MT Campos de Jï¿½lio
+MT Campos de Júlio
 MT Canabrava do Norte
 MT Canarana
 MT Carlinda
 MT Castanheira
-MT Chapada dos Guimarï¿½es
-MT Clï¿½udia
+MT Chapada dos Guimarães
+MT Cláudia
 MT Cocalinho
-MT Colï¿½der
+MT Colíder
 MT Colniza
 MT Comodoro
 MT Confresa
 MT Conquista D'Oeste
-MT Cotriguaï¿½u
-MT Cuiabï¿½
-MT Curvelï¿½ndia
+MT Cotriguaçu
+MT Cuiabá
+MT Curvelândia
 MT Denise
 MT Diamantino
 MT Dom Aquino
 MT Feliz Natal
-MT Figueirï¿½polis D'Oeste
-MT Gaï¿½cha do Norte
+MT Figueirópolis D'Oeste
+MT Gaúcha do Norte
 MT General Carneiro
-MT Glï¿½ria D'Oeste
-MT Guarantï¿½ do Norte
+MT Glória D'Oeste
+MT Guarantã do Norte
 MT Guiratinga
-MT Indiavaï¿½
+MT Indiavaí
 MT Ipiranga do Norte
-MT Itanhangï¿½
-MT Itaï¿½ba
+MT Itanhangá
+MT Itaúba
 MT Itiquira
 MT Jaciara
 MT Jangada
 MT Jauru
 MT Juara
-MT Juï¿½na
+MT Juína
 MT Juruena
 MT Juscimeira
 MT Lambari D'Oeste
 MT Lucas do Rio Verde
 MT Luciara
-MT Vila Bela da Santï¿½ssima Trindade
-MT Marcelï¿½ndia
-MT Matupï¿½
+MT Vila Bela da Santíssima Trindade
+MT Marcelândia
+MT Matupá
 MT Mirassol d'Oeste
 MT Nobres
-MT Nortelï¿½ndia
+MT Nortelândia
 MT Nossa Senhora do Livramento
 MT Nova Bandeirantes
-MT Nova Nazarï¿½
+MT Nova Nazaré
 MT Nova Lacerda
 MT Nova Santa Helena
-MT Nova Brasilï¿½ndia
-MT Nova Canaï¿½ do Norte
+MT Nova Brasilândia
+MT Nova Canaã do Norte
 MT Nova Mutum
-MT Nova Olï¿½mpia
-MT Nova Ubiratï¿½
+MT Nova Olímpia
+MT Nova Ubiratã
 MT Nova Xavantina
 MT Novo Mundo
 MT Novo Horizonte do Norte
-MT Novo Sï¿½o Joaquim
-MT Paranaï¿½ta
+MT Novo São Joaquim
+MT Paranaíta
 MT Paranatinga
-MT Novo Santo Antï¿½nio
+MT Novo Santo Antônio
 MT Pedra Preta
 MT Peixoto de Azevedo
 MT Planalto da Serra
-MT Poconï¿½
+MT Poconé
 MT Pontal do Araguaia
 MT Ponte Branca
 MT Pontes e Lacerda
 MT Porto Alegre do Norte
-MT Porto dos Gaï¿½chos
-MT Porto Esperidiï¿½o
+MT Porto dos Gaúchos
+MT Porto Esperidião
 MT Porto Estrela
-MT Poxorï¿½u
+MT Poxoréu
 MT Primavera do Leste
-MT Querï¿½ncia
-MT Sï¿½o Josï¿½ dos Quatro Marcos
-MT Reserva do Cabaï¿½al
-MT Ribeirï¿½o Cascalheira
-MT Ribeirï¿½ozinho
+MT Querência
+MT São José dos Quatro Marcos
+MT Reserva do Cabaçal
+MT Ribeirão Cascalheira
+MT Ribeirãozinho
 MT Rio Branco
 MT Santa Carmem
 MT Santo Afonso
-MT Sï¿½o Josï¿½ do Povo
-MT Sï¿½o Josï¿½ do Rio Claro
-MT Sï¿½o Josï¿½ do Xingu
-MT Sï¿½o Pedro da Cipa
-MT Rondolï¿½ndia
-MT Rondonï¿½polis
-MT Rosï¿½rio Oeste
+MT São José do Povo
+MT São José do Rio Claro
+MT São José do Xingu
+MT São Pedro da Cipa
+MT Rondolândia
+MT Rondonópolis
+MT Rosário Oeste
 MT Santa Cruz do Xingu
-MT Salto do Cï¿½u
+MT Salto do Céu
 MT Santa Rita do Trivelato
 MT Santa Terezinha
-MT Santo Antï¿½nio do Leste
-MT Santo Antï¿½nio do Leverger
-MT Sï¿½o Fï¿½lix do Araguaia
+MT Santo Antônio do Leste
+MT Santo Antônio do Leverger
+MT São Félix do Araguaia
 MT Sapezal
 MT Serra Nova Dourada
 MT Sinop
 MT Sorriso
-MT Tabaporï¿½
-MT Tangarï¿½ da Serra
+MT Tabaporã
+MT Tangará da Serra
 MT Tapurah
 MT Terra Nova do Norte
 MT Tesouro
-MT Torixorï¿½u
-MT Uniï¿½o do Sul
-MT Vale de Sï¿½o Domingos
-MT Vï¿½rzea Grande
+MT Torixoréu
+MT União do Sul
+MT Vale de São Domingos
+MT Várzea Grande
 MT Vera
 MT Vila Rica
 MT Nova Guarita
-MT Nova Marilï¿½ndia
-MT Nova Maringï¿½
+MT Nova Marilândia
+MT Nova Maringá
 MT Nova Monte Verde
-GO Abadia de Goiï¿½s
-GO Abadiï¿½nia
-GO Acreï¿½na
-GO Adelï¿½ndia
-GO ï¿½gua Fria de Goiï¿½s
-GO ï¿½gua Limpa
-GO ï¿½guas Lindas de Goiï¿½s
-GO Alexï¿½nia
-GO Aloï¿½ndia
+GO Abadia de Goiás
+GO Abadiânia
+GO Acreúna
+GO Adelândia
+GO Água Fria de Goiás
+GO Água Limpa
+GO Águas Lindas de Goiás
+GO Alexânia
+GO Aloândia
 GO Alto Horizonte
-GO Alto Paraï¿½so de Goiï¿½s
+GO Alto Paraíso de Goiás
 GO Alvorada do Norte
 GO Amaralina
 GO Americano do Brasil
-GO Amorinï¿½polis
-GO Anï¿½polis
+GO Amorinópolis
+GO Anápolis
 GO Anhanguera
 GO Anicuns
-GO Aparecida de Goiï¿½nia
+GO Aparecida de Goiânia
 GO Aparecida do Rio Doce
-GO Aporï¿½
-GO Araï¿½u
-GO Aragarï¿½as
-GO Aragoiï¿½nia
+GO Aporé
+GO Araçu
+GO Aragarças
+GO Aragoiânia
 GO Araguapaz
-GO Arenï¿½polis
-GO Aruanï¿½
-GO Aurilï¿½ndia
-GO Avelinï¿½polis
+GO Arenópolis
+GO Aruanã
+GO Aurilândia
+GO Avelinópolis
 GO Baliza
 GO Barro Alto
-GO Bela Vista de Goiï¿½s
-GO Bom Jardim de Goiï¿½s
-GO Bom Jesus de Goiï¿½s
-GO Bonfinï¿½polis
-GO Bonï¿½polis
+GO Bela Vista de Goiás
+GO Bom Jardim de Goiás
+GO Bom Jesus de Goiás
+GO Bonfinópolis
+GO Bonópolis
 GO Brazabrantes
-GO Britï¿½nia
+GO Britânia
 GO Buriti Alegre
-GO Buriti de Goiï¿½s
-GO Buritinï¿½polis
+GO Buriti de Goiás
+GO Buritinópolis
 GO Cabeceiras
 GO Cachoeira Alta
-GO Cachoeira de Goiï¿½s
+GO Cachoeira de Goiás
 GO Cachoeira Dourada
-GO Caï¿½u
-GO Caiapï¿½nia
+GO Caçu
+GO Caiapônia
 GO Caldas Novas
 GO Caldazinha
-GO Campestre de Goiï¿½s
-GO Campinaï¿½u
+GO Campestre de Goiás
+GO Campinaçu
 GO Campinorte
-GO Campo Alegre de Goiï¿½s
-GO Campo Limpo de Goiï¿½s
+GO Campo Alegre de Goiás
+GO Campo Limpo de Goiás
 GO Campos Belos
 GO Campos Verdes
 GO Carmo do Rio Verde
-GO Castelï¿½ndia
-GO Catalï¿½o
-GO Caturaï¿½
+GO Castelândia
+GO Catalão
+GO Caturaí
 GO Cavalcante
 GO Ceres
 GO Cezarina
-GO Chapadï¿½o do Cï¿½u
+GO Chapadão do Céu
 GO Cidade Ocidental
-GO Cocalzinho de Goiï¿½s
+GO Cocalzinho de Goiás
 GO Colinas do Sul
-GO Cï¿½rrego do Ouro
-GO Corumbï¿½ de Goiï¿½s
-GO Corumbaï¿½ba
+GO Córrego do Ouro
+GO Corumbá de Goiás
+GO Corumbaíba
 GO Cristalina
-GO Cristianï¿½polis
-GO Crixï¿½s
-GO Cromï¿½nia
+GO Cristianópolis
+GO Crixás
+GO Cromínia
 GO Cumari
-GO Damianï¿½polis
-GO Damolï¿½ndia
-GO Davinï¿½polis
+GO Damianópolis
+GO Damolândia
+GO Davinópolis
 GO Diorama
-GO Doverlï¿½ndia
+GO Doverlândia
 GO Edealina
-GO Edï¿½ia
+GO Edéia
 GO Estrela do Norte
 GO Faina
 GO Fazenda Nova
-GO Firminï¿½polis
-GO Flores de Goiï¿½s
+GO Firminópolis
+GO Flores de Goiás
 GO Formosa
 GO Formoso
-GO Gameleira de Goiï¿½s
-GO Divinï¿½polis de Goiï¿½s
-GO Goianï¿½polis
+GO Gameleira de Goiás
+GO Divinópolis de Goiás
+GO Goianápolis
 GO Goiandira
-GO Goianï¿½sia
-GO Goiï¿½nia
+GO Goianésia
+GO Goiânia
 GO Goianira
-GO Goiï¿½s
+GO Goiás
 GO Goiatuba
-GO Gouvelï¿½ndia
-GO Guapï¿½
-GO Guaraï¿½ta
-GO Guarani de Goiï¿½s
+GO Gouvelândia
+GO Guapó
+GO Guaraíta
+GO Guarani de Goiás
 GO Guarinos
-GO Heitoraï¿½
-GO Hidrolï¿½ndia
+GO Heitoraí
+GO Hidrolândia
 GO Hidrolina
 GO Iaciara
-GO Inaciolï¿½ndia
+GO Inaciolândia
 GO Indiara
 GO Inhumas
 GO Ipameri
-GO Ipiranga de Goiï¿½s
-GO Iporï¿½
-GO Israelï¿½ndia
-GO Itaberaï¿½
+GO Ipiranga de Goiás
+GO Iporá
+GO Israelândia
+GO Itaberaí
 GO Itaguari
 GO Itaguaru
-GO Itajï¿½
+GO Itajá
 GO Itapaci
-GO Itapirapuï¿½
+GO Itapirapuã
 GO Itapuranga
-GO Itarumï¿½
-GO Itauï¿½u
+GO Itarumã
+GO Itauçu
 GO Itumbiara
-GO Ivolï¿½ndia
+GO Ivolândia
 GO Jandaia
-GO Jaraguï¿½
-GO Jataï¿½
+GO Jaraguá
+GO Jataí
 GO Jaupaci
-GO Jesï¿½polis
-GO Joviï¿½nia
+GO Jesúpolis
+GO Joviânia
 GO Jussara
 GO Lagoa Santa
-GO Leopoldo de Bulhï¿½es
-GO Luziï¿½nia
+GO Leopoldo de Bulhões
+GO Luziânia
 GO Mairipotaba
-GO Mambaï¿½
+GO Mambaí
 GO Mara Rosa
-GO Marzagï¿½o
-GO Matrinchï¿½
-GO Maurilï¿½ndia
-GO Mimoso de Goiï¿½s
-GO Minaï¿½u
+GO Marzagão
+GO Matrinchã
+GO Maurilândia
+GO Mimoso de Goiás
+GO Minaçu
 GO Mineiros
-GO Moiporï¿½
-GO Monte Alegre de Goiï¿½s
-GO Montes Claros de Goiï¿½s
+GO Moiporá
+GO Monte Alegre de Goiás
+GO Montes Claros de Goiás
 GO Montividiu
 GO Montividiu do Norte
 GO Morrinhos
-GO Morro Agudo de Goiï¿½s
-GO Mossï¿½medes
-GO Mozarlï¿½ndia
+GO Morro Agudo de Goiás
+GO Mossâmedes
+GO Mozarlândia
 GO Mundo Novo
-GO Mutunï¿½polis
-GO Nazï¿½rio
-GO Nerï¿½polis
-GO Niquelï¿½ndia
-GO Nova Amï¿½rica
+GO Mutunópolis
+GO Nazário
+GO Nerópolis
+GO Niquelândia
+GO Nova América
 GO Nova Aurora
-GO Nova Crixï¿½s
-GO Nova Glï¿½ria
-GO Nova Iguaï¿½u de Goiï¿½s
+GO Nova Crixás
+GO Nova Glória
+GO Nova Iguaçu de Goiás
 GO Nova Roma
 GO Nova Veneza
 GO Novo Brasil
 GO Novo Gama
 GO Novo Planalto
 GO Orizona
-GO Ouro Verde de Goiï¿½s
+GO Ouro Verde de Goiás
 GO Ouvidor
 GO Padre Bernardo
-GO Palestina de Goiï¿½s
-GO Palmeiras de Goiï¿½s
+GO Palestina de Goiás
+GO Palmeiras de Goiás
 GO Palmelo
-GO Palminï¿½polis
-GO Panamï¿½
+GO Palminópolis
+GO Panamá
 GO Paranaiguara
-GO Paraï¿½na
-GO Perolï¿½ndia
-GO Petrolina de Goiï¿½s
-GO Pilar de Goiï¿½s
+GO Paraúna
+GO Perolândia
+GO Petrolina de Goiás
+GO Pilar de Goiás
 GO Piracanjuba
 GO Piranhas
-GO Pirenï¿½polis
+GO Pirenópolis
 GO Pires do Rio
 GO Planaltina
 GO Pontalina
 GO Porangatu
-GO Porteirï¿½o
-GO Portelï¿½ndia
+GO Porteirão
+GO Portelândia
 GO Posse
 GO Professor Jamil
-GO Quirinï¿½polis
+GO Quirinópolis
 GO Rialma
-GO Rianï¿½polis
+GO Rianápolis
 GO Rio Quente
 GO Rio Verde
 GO Rubiataba
-GO Sanclerlï¿½ndia
-GO Santa Bï¿½rbara de Goiï¿½s
-GO Santa Cruz de Goiï¿½s
-GO Santa Fï¿½ de Goiï¿½s
-GO Santa Helena de Goiï¿½s
+GO Sanclerlândia
+GO Santa Bárbara de Goiás
+GO Santa Cruz de Goiás
+GO Santa Fé de Goiás
+GO Santa Helena de Goiás
 GO Santa Isabel
 GO Santa Rita do Araguaia
 GO Santa Rita do Novo Destino
-GO Santa Rosa de Goiï¿½s
-GO Santa Tereza de Goiï¿½s
-GO Santa Terezinha de Goiï¿½s
-GO Santo Antï¿½nio da Barra
-GO Santo Antï¿½nio de Goiï¿½s
-GO Santo Antï¿½nio do Descoberto
-GO Sï¿½o Domingos
-GO Sï¿½o Francisco de Goiï¿½s
-GO Sï¿½o Joï¿½o d'Alianï¿½a
-GO Sï¿½o Joï¿½o da Paraï¿½na
-GO Sï¿½o Luï¿½s de Montes Belos
-GO Sï¿½o Luiz do Norte
-GO Sï¿½o Miguel do Araguaia
-GO Sï¿½o Miguel do Passa Quatro
-GO Sï¿½o Patrï¿½cio
-GO Sï¿½o Simï¿½o
+GO Santa Rosa de Goiás
+GO Santa Tereza de Goiás
+GO Santa Terezinha de Goiás
+GO Santo Antônio da Barra
+GO Santo Antônio de Goiás
+GO Santo Antônio do Descoberto
+GO São Domingos
+GO São Francisco de Goiás
+GO São João d'Aliança
+GO São João da Paraúna
+GO São Luís de Montes Belos
+GO São Luiz do Norte
+GO São Miguel do Araguaia
+GO São Miguel do Passa Quatro
+GO São Patrício
+GO São Simão
 GO Senador Canedo
-GO Serranï¿½polis
-GO Silvï¿½nia
-GO Simolï¿½ndia
-GO Sï¿½tio d'Abadia
-GO Taquaral de Goiï¿½s
-GO Teresina de Goiï¿½s
-GO Terezï¿½polis de Goiï¿½s
-GO Trï¿½s Ranchos
+GO Serranópolis
+GO Silvânia
+GO Simolândia
+GO Sítio d'Abadia
+GO Taquaral de Goiás
+GO Teresina de Goiás
+GO Terezópolis de Goiás
+GO Três Ranchos
 GO Trindade
 GO Trombas
-GO Turvï¿½nia
-GO Turvelï¿½ndia
+GO Turvânia
+GO Turvelândia
 GO Uirapuru
-GO Uruaï¿½u
+GO Uruaçu
 GO Uruana
-GO Urutaï¿½
-GO Valparaï¿½so de Goiï¿½s
-GO Varjï¿½o
-GO Vianï¿½polis
-GO Vicentinï¿½polis
+GO Urutaí
+GO Valparaíso de Goiás
+GO Varjão
+GO Vianópolis
+GO Vicentinópolis
 GO Vila Boa
-GO Vila Propï¿½cio
-DF Brasï¿½lia
+GO Vila Propício
+DF Brasília
