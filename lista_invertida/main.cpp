@@ -1,4 +1,3 @@
-// Alunos: Pedro Souza Ferreira (12211BCC023) & Marcel Fernando Lobo de Feo (12211BCC042)
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
@@ -84,29 +83,6 @@ public:
         else
             return NULL; // nao encontrada     
     }
-
-
-   // Professor, se estiver lendo isso: esse é o metodo original de busca, que procura direto no arquivo de indice
-   // ele esta funcional, mas achamos q ele ficou mt feio e ineficiente, entao decidimos implementar o outro metodo
-   // que faz busca por meio do mapa index, fica a sua discrecao qual metodo o Sr prefere usar :)
-
-   /*int * busca(char *palavra, int *quantidade) {
-        *quantidade = 0;
-        int *offsets = new int[1000]; // aloca vetor de offsets
-        fseek(idx2,0,SEEK_SET);
-        indiceSecundario idx;
-        int contador = 0;
-        while (fread(&idx,sizeof(indiceSecundario),1,idx2) == 1) 
-        {
-            if (strcmp(idx.palavra,palavra) == 0) 
-            {
-                offsets[contador] = idx.offset;
-                contador++;
-            }
-        }
-        *quantidade = contador;
-        return offsets;
-    }*/
 
     // p conferir os arquivos de indice
     void showIndex() {
